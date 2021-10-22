@@ -1,0 +1,936 @@
+,Car Name,Making Year,Registration year,Fule,km_driven,Engine_Displacement,No_Of_Owner,RTO,Transmission,Insurance_Type,Current_Price,Avg_market_price,New_Car_Road_Price,Mileage,Seats,Color,Engine,Max_Power,Torque
+0,2019 Mahindra XUV500,2019,Mar-19,Diesel,59803,2179 cc,1st Owner,DL12,Manual,Third Party insurance,1186000,1245300,1699700,15.1 kmpl,12345671,Other,2179 CC,152.87bhp,360Nm
+1,2016 Maruti Alto K10,2016,Mar-16,CNG,59902,998 cc,1st Owner,UP16,Manual,Third Party insurance,280000,294000,497476,32.26 kmpl,4,Grey,998 CC,58.3bhp,78Nm
+2,2017 Maruti Eeco,2017,Feb-17,CNG,47479,1196 cc,1st Owner,DL4C,Manual,Third Party insurance,338500,355425,544727,21.94 km/kg,5,Other,1196 CC,61.7bhp,85Nm
+3,2018 Maruti Baleno,2018,Nov-18,Petrol,43228,1197 cc,1st Owner,UP16,Manual,Third Party insurance,600500,630525,840597,21.01 kmpl,R16,5,1197 CC,81.80bhp,113Nm
+4,2015 Maruti Swift,2015,Feb-15,Diesel,43951,1248 cc,1st Owner,DL5C,Manual,Third Party insurance,430500,452025,798110,28.4 kmpl,5,Other,1248 CC,74bhp,190Nm
+5,2017 Maruti Ciaz,2017,Oct-17,Petrol,46696,1373 cc,1st Owner,HR26,Manual,Not Available,704000,739200,910329,20.73 kmpl,5,Other,1373 CC,91.1bhp,130Nm
+6,2012 Hyundai i10,2012,Jul-12,Petrol,76591,1197 cc,2nd Owner,DL6C,Manual,Third Party insurance,240000,252000,508741,20.36 kmpl,13,5,1197 CC,78.9bhp,111.7Nm
+7,2019 Hyundai Grand i10,2019,Apr-19,Petrol,11004,1197 cc,2nd Owner,DL7C,Manual,Third Party insurance,444000,466200,547789,17 kmpl,5,Other,1197 CC,81.86bhp,113.75Nm
+8,2018 Renault Duster,2018,Apr-18,Diesel,16913,1461 cc,1st Owner,HR51,Manual,Third Party insurance,708500,743925,1048147,19.87 kmpl,5,Other,1461 CC,83.8bhp,200Nm
+9,2015 Maruti Swift Dzire,2015,Dec-15,Diesel,25433,1248 cc,1st Owner,HR26,Manual,Third Party insurance,587000,616350,803064,26.59 kmpl,5,White,1248 CC,74bhp,190Nm
+10,2018 Maruti Vitara Brezza,2018,Feb-18,Diesel,56904,1248 cc,1st Owner,DL2C,Manual,Third Party insurance,687500,721875,884878,24.3 kmpl,5,Other,1248 CC,88.5bhp,200Nm
+11,2015 Maruti Ciaz,2015,Dec-15,Diesel,11847,1248 cc,1st Owner,DL1C,Manual,Third Party insurance,499500,524475,938671,28.09 kmpl,5,Other,1248 CC,88.5bhp,200Nm
+12,2014 Ford Ecosport,2014,Jul-14,Diesel,85420,1498 cc,1st Owner,DL12,Manual,Third Party insurance,462500,485625,1137277,21.7 kmpl,R16,5,1498 CC,98.96bhp,215Nm
+13,2019 Renault KWID,2018,Jan-19,Petrol,10287,799 cc,1st Owner,HR29,Manual,Third Party insurance,350000,367500,439535,25.17 kmpl,5,Red,799 CC,53.3bhp,72Nm
+19,2017 Maruti Baleno,2017,Mar-17,Petrol,23251,1197 cc,1st Owner,2 2022,Automatic,Manual,630500,662025,721292,21.4 kmpl,16,5,1197 CC,83.1bhp,115Nm
+20,2016 Mahindra KUV 100,2016,Mar-16,Diesel,56868,1198 cc,1st Owner,HR35,Manual,Not Available,398500,418425,898738,25.32 kmpl,15,6,1198 CC,77bhp,190Nm
+21,2012 Hyundai Verna,2012,Dec-12,Petrol,56868,1591 cc,1st Owner,HR26,Manual,Third Party insurance,363500,381675,1194501,17.01 kmpl,16,5,1591 CC,121.3bhp,154.9Nm
+22,2016 Maruti Ciaz,2016,May-16,Diesel,56868,1248 cc,1st Owner,HR51,Manual,Third Party insurance,562000,590100,1164393,28.09 kmpl,16,5,1248 CC,88.5bhp,200Nm
+23,2015 Hyundai Grand i10,2015,Dec-15,Petrol,70011,1197 cc,2nd Owner,HR26,Manual,Third Party insurance,360500,378525,657673,18.9 kmpl,5,White,1197 CC,81.86bhp,113.75nm
+24,2014 Maruti Swift Dzire,2014,Jun-14,Diesel,64752,1248 cc,1st Owner,DL8C,Manual,Third Party insurance,410500,431025,772281,23.4 kmpl,14,5,1248 CC,74bhp,190Nm
+25,2017 Maruti Baleno,2017,Oct-17,Petrol,35289,1197 cc,1st Owner,DL9C,Manual,Third Party insurance,594186,623895,701952,21.4 kmpl,5,Grey,1197 CC,83.1bhp,115Nm
+26,2014 Maruti Swift,2014,Jul-14,Diesel,33229,1248 cc,1st Owner,DL03,Manual,Third Party insurance,451500,474075,737717,25.2 kmpl,5,Grey,1248 CC,74bhp,190Nm
+27,2019 Maruti Baleno,2019,Nov-19,Diesel,27963,1248 cc,1st Owner,1 2022,Automatic,Manual,681000,715050,800395,27.39 kmpl,5,Grey,1248 CC,74bhp,190Nm
+28,2015 Hyundai Grand i10,2015,Jul-15,Petrol,40307,1197 cc,1st Owner,DL12,Manual,Third Party insurance,427870,449264,618849,18.9 kmpl,5,White,1197 CC,82bhp,114Nm
+29,2017 Renault KWID,2016,Jan-17,Petrol,32933,999 cc,1st Owner,HR29,Manual,Third Party insurance,260000,273000,487006,23.01 kmpl,5,White,999 CC,67bhp,91Nm
+30,2018 Maruti Baleno,2018,Mar-18,Petrol,17985,1197 cc,1st Owner,DL14,Manual,Third Party insurance,594000,623700,622370,21.4 kmpl,5,Other,1197 CC,83.1bhp,115Nm
+31,2018 Hyundai i20,2018,Nov-18,Petrol,33322,1197 cc,1st Owner,DL07,Manual,Third Party insurance,617000,647850,657576,18.6 kmpl,5,Red,1197 CC,81.83bhp,114.7Nm
+32,2015 Maruti Swift Dzire,2014,Jan-15,Diesel,82471,1248 cc,1st Owner,DL9C,Manual,Third Party insurance,513500,539175,824977,26.59 kmpl,5,Other,1248 CC,74bhp,190Nm
+33,2019 Maruti Swift,2019,Nov-19,Petrol,23742,1197 cc,1st Owner,HR26,Manual,Third Party insurance,490000,514500,646778,23.2 kmpl,5,Other,1197 CC,88.50bhp,113Nm
+34,2015 Maruti Swift,2015,Feb-15,Diesel,89046,1248 cc,1st Owner,DL12,Manual,Third Party insurance,430000,451500,737717,25.2 kmpl,5,Other,1248 CC,74bhp,190Nm
+35,2017 Maruti Swift,2017,Oct-17,Diesel,77503,1248 cc,1st Owner,UP14,Manual,Third Party insurance,491500,516075,790410,28.4 kmpl,5,Other,1248 CC,74bhp,190Nm
+36,2017 Hyundai i20,2017,May-17,Petrol,18692,1197 cc,1st Owner,DL08,Manual,Third Party insurance,616000,646800,657576,18.6 kmpl,5,White,1197 CC,81.83bhp,114.7Nm
+37,2011 Hyundai i20,2011,Nov-11,Petrol,48347,1197 cc,1st Owner,DL4C,Manual,Not Available,300000,315000,644986,17 kmpl,14,5,1197 CC,80 PS at 5200 rpm,"11.4 kgm at 4,000 rpm"
+38,2017 Maruti Baleno,2017,Aug-17,Petrol,48347,1197 cc,1st Owner,DL7C,Manual,Third Party insurance,495500,520275,636917,21.4 kmpl,5,Grey,1197 CC,83.1bhp,115Nm
+40,2017 Maruti Swift,2017,Sep-17,Petrol,35477,1197 cc,1st Owner,DL9C,Manual,Not Available,468000,491400,553690,20.4 kmpl,5,Silver,1197 CC,81.80bhp,113Nm
+41,2016 Mahindra TUV 300,2016,Mar-16,Diesel,93893,1493 cc,2nd Owner,HR51,Automatic,Third Party insurance,650000,682500,1215461,18.49 kmpl,15,7,1493 CC,100bhp,230Nm
+42,2015 Maruti Swift,2015,Aug-15,Diesel,78568,1248 cc,1st Owner,DL8C,Manual,Third Party insurance,405000,425250,708959,28.4 kmpl,5,Red,1248 CC,74bhp,190Nm
+43,2014 Maruti Swift,2011,Jan-14,Petrol,78568,1197 cc,1st Owner,HR26,Manual,Third Party insurance,369500,387975,548912,18.6 kmpl,14,5,1197 CC,85.8bhp,114Nm
+44,2019 Toyota Etios Liva,2019,Feb-19,Diesel,62642,1364 cc,1st Owner,DL3C,Manual,Third Party insurance,678000,711900,815738,23.59 kmpl,5,Other,1364 CC,67.04bhp,170Nm
+45,2014 Maruti Wagon R Stingray,2013,Jan-14,Petrol,60783,998 cc,2nd Owner,HR26,Manual,Third Party insurance,333500,350175,500291,20.51 kmpl,14,5,998 CC,67.04bhp,90Nm
+46,2018 Maruti Vitara Brezza,2018,Oct-18,Diesel,25440,1248 cc,1st Owner,DL1C,Manual,Not Available,815000,855750,1016982,24.3 kmpl,16,5,1248 CC,88.5bhp,200Nm
+47,2019 Toyota Glanza,2019,Oct-19,Petrol,15051,1197 cc,1st Owner,UP16,Automatic,Not Available,787500,826875,1009735,19.56 kmpl,R16,5,1197 CC,81.80bhp,113Nm
+48,2017 Ford Ecosport,2017,Apr-17,Diesel,32492,1498 cc,1st Owner,4 2022,Automatic,Manual,684500,718725,1039227,23 kmpl,5,Silver,1498 CC,98.96bhp,205Nm
+49,2011 Maruti Swift,2011,Jul-11,Petrol,32492,1197 cc,2nd Owner,DL13,Manual,Third Party insurance,249000,261450,567040,16.1 kmpl,14,5,1197 CC,85,113Nm
+50,2015 Maruti Eeco,2015,May-15,Petrol,10474,1196 cc,1st Owner,DL09,Manual,Third Party insurance,274000,287700,465474,15.37 kmpl,5,Grey,1196 CC,73bhp,101Nm
+51,2013 Maruti Swift,2013,May-13,Diesel,99877,1248 cc,1st Owner,UP16,Manual,Third Party insurance,450000,472500,717885,22.9 kmpl,14,5,1248 CC,74bhp,190Nm
+52,2015 Maruti Swift,2015,Aug-15,Petrol,67900,1197 cc,1st Owner,DL2C,Manual,Not Available,427500,448875,597382,22 kmpl,5,Grey,1197 CC,81.80bhp,113Nm
+53,2016 Hyundai Grand i10,2016,Nov-16,Diesel,63759,1120 cc,2nd Owner,HR51,Manual,Third Party insurance,375000,393750,720700,24 kmpl,5,Other,1120 CC,70bhp,160Nm
+54,2015 Toyota Etios Liva,2015,Jun-15,Diesel,63759,1364 cc,1st Owner,DL9C,Manual,Third Party insurance,340000,357000,756478,23.59 kmpl,5,Other,1364 CC,67.04bhp,170Nm
+55,2013 Maruti Alto 800,2013,May-13,Petrol,69053,796 cc,1st Owner,DL5C,Manual,Not Available,171500,180075,347446,22.74 kmpl,5,White,796 CC,47.3bhp,69Nm
+83,2016 Maruti Vitara Brezza,2016,Aug-16,Diesel,69053,1248 cc,1st Owner,DL8C,Manual,Third Party insurance,676000,709800,1016982,24.3 kmpl,16,5,1248 CC,88.5bhp,200Nm
+84,2014 Maruti Swift,2014,May-14,Diesel,72653,1248 cc,1st Owner,UP16,Manual,Third Party insurance,411000,431550,790410,28.4 kmpl,5,White,1248 CC,74bhp,190Nm
+85,2012 Renault Pulse,2012,Feb-12,Diesel,68798,1461 cc,2nd Owner,DL4C,Manual,Third Party insurance,203000,213150,787262,23.08 kmpl,15,5,1461 CC,63.1bhp,160Nm
+86,2013 Ford Ecosport,2013,Aug-13,Diesel,70149,1498 cc,1st Owner,DL10,Manual,Not Available,405000,425250,990793,21.7 kmpl,5,Other,1498 CC,98.96bhp,215Nm
+87,2019 Maruti Swift,2018,Apr-19,Diesel,56585,1248 cc,1st Owner,UP14,Automatic,Third Party insurance,711500,747075,842851,28.4 kmpl,5,Other,1248 CC,74bhp,190Nm
+88,2019 Renault KWID,2019,Mar-19,Petrol,29196,999 cc,1st Owner,UP16,Manual,Third Party insurance,353994,371694,406259,23.01 kmpl,5,Grey,999 CC,67bhp,91Nm
+89,2018 Volkswagen Ameo,2016,Jul-18,Petrol,39784,1198 cc,1st Owner,HR29,Manual,Third Party insurance,495744,520531,823325,17 kmpl,15,5,1198 CC,73.75bhp,110Nm
+90,2016 Renault KWID,2016,May-16,Petrol,45430,799 cc,1st Owner,HR26,Manual,Third Party insurance,250500,263025,439535,25.17 kmpl,5,Red,799 CC,53.3bhp,72Nm
+91,2016 Hyundai i20,2016,May-16,Diesel,24947,1396 cc,1st Owner,DL8C,Manual,Not Available,501500,526575,885355,22.54 kmpl,5,Red,1396 CC,88.73bhp,219.7Nm
+92,2017 Ford Ecosport,2017,Mar-17,Diesel,83789,1498 cc,1st Owner,HR51,Manual,Not Available,614000,644700,1039227,23 kmpl,5,Silver,1498 CC,98.96bhp,205Nm
+93,2018 Hyundai i20,2018,Nov-18,Petrol,38578,1197 cc,1st Owner,HR26,Automatic,Third Party insurance,748000,785400,931555,17.4 kmpl,15,5,1197 CC,81.86bhp,114.73nm
+94,2016 Maruti Baleno,2016,Mar-16,Petrol,24290,1197 cc,1st Owner,DL12,Automatic,Third Party insurance,547500,574875,818742,21.4 kmpl,5,Blue,1197 CC,83.1bhp,115Nm
+95,2013 Hyundai EON,2013,Feb-13,Petrol,59027,814 cc,1st Owner,HR26,Manual,Third Party insurance,222500,233625,425509,21.1 kmpl,5,Silver,814 CC,55.2bhp,74.5Nm
+96,2013 Honda Brio,2013,Sep-13,Petrol,67159,1198 cc,1st Owner,HR26,Manual,Third Party insurance,296160,310968,472946,19.4 kmpl,5,Black,1198 CC,86.8bhp,109Nm
+97,2015 Maruti Swift,2014,Jan-15,Diesel,78788,1248 cc,1st Owner,DL4C,Manual,Third Party insurance,365000,383250,724868,22.9 kmpl,14,5,1248 CC,74bhp,190Nm
+98,2018 Maruti Vitara Brezza,2018,Mar-18,Diesel,20242,1248 cc,1st Owner,DL5C,Manual,Third Party insurance,731500,768075,884878,24.3 kmpl,5,Other,1248 CC,88.5bhp,200Nm
+99,2018 Hyundai i20,2018,Nov-18,Petrol,38578,1197 cc,1st Owner,HR26,Automatic,Third Party insurance,748000,785400,931555,17.4 kmpl,15,5,1197 CC,81.86bhp,114.73nm
+100,2016 Maruti Baleno,2016,Mar-16,Petrol,24290,1197 cc,1st Owner,DL12,Automatic,Third Party insurance,547500,574875,818742,21.4 kmpl,5,Blue,1197 CC,83.1bhp,115Nm
+101,2013 Hyundai EON,2013,Feb-13,Petrol,59027,814 cc,1st Owner,HR26,Manual,Third Party insurance,222500,233625,425509,21.1 kmpl,5,Silver,814 CC,55.2bhp,74.5Nm
+102,2013 Honda Brio,2013,Sep-13,Petrol,67159,1198 cc,1st Owner,HR26,Manual,Third Party insurance,296160,310968,472946,19.4 kmpl,5,Black,1198 CC,86.8bhp,109Nm
+103,2015 Maruti Swift,2014,Jan-15,Diesel,78788,1248 cc,1st Owner,DL4C,Manual,Third Party insurance,365000,383250,724868,22.9 kmpl,14,5,1248 CC,74bhp,190Nm
+104,2018 Maruti Vitara Brezza,2018,Mar-18,Diesel,20242,1248 cc,1st Owner,DL5C,Manual,Third Party insurance,731500,768075,884878,24.3 kmpl,5,Other,1248 CC,88.5bhp,200Nm
+105,2016 Maruti Baleno,2016,Apr-16,Petrol,21582,1197 cc,1st Owner,HR10,Manual,Third Party insurance,510000,535500,929090,21.01 kmpl,R16,5,1197 CC,81.80bhp,113Nm
+106,2014 Hyundai Grand i10,2014,Jun-14,Diesel,86933,1120 cc,1st Owner,DL8C,Manual,Third Party insurance,309000,324450,727711,24 kmpl,5,Other,1120 CC,70bhp,160Nm
+107,2017 Maruti Ciaz,2017,Mar-17,Diesel,40961,1248 cc,2nd Owner,DL6C,Manual,Third Party insurance,565000,593250,1081699,28.09 kmpl,16,5,1248 CC,88.5bhp,200Nm
+108,2015 Maruti Ciaz,2015,Nov-15,Petrol,58250,1373 cc,1st Owner,DL9C,Automatic,Third Party insurance,627500,658875,1111924,19.12 kmpl,15,5,1373 CC,91.1bhp,130Nm
+109,2016 Maruti Wagon R Stingray,2016,Oct-16,Petrol,66067,998 cc,1st Owner,DL9C,Manual,Third Party insurance,360500,378525,500291,20.51 kmpl,14,5,998 CC,67.04bhp,90Nm
+110,2018 Hyundai Grand i10,2017,Jan-18,Petrol,22841,1197 cc,1st Owner,DL9C,Manual,Third Party insurance,468000,491400,568532,18.9 kmpl,5,Other,1197 CC,82bhp,114Nm
+111,2016 Maruti Swift,2016,Dec-16,Petrol,30069,1197 cc,1st Owner,DL9C,Manual,Not Available,403000,423150,553690,20.4 kmpl,5,Grey,1197 CC,81.80bhp,113Nm
+112,2018 Maruti Swift,2018,Aug-18,Diesel,36780,1248 cc,1st Owner,DL6C,Automatic,Third Party insurance,732000,768600,917551,28.4 kmpl,15,5,1248 CC,74bhp,190Nm
+113,2016 Hyundai i20,2016,Nov-16,Diesel,57732,1396 cc,1st Owner,HR51,Manual,Third Party insurance,522000,548100,876801,22.54 kmpl,5,White,1396 CC,88.73bhp,219.7Nm
+114,2015 Hyundai EON,2014,Jan-15,Petrol,50196,814 cc,1st Owner,DL3C,Manual,Not Available,210000,220500,455676,21.1 kmpl,5,White,814 CC,55.2bhp,74.5Nm
+115,2016 Hyundai Xcent,2015,Jan-16,Petrol,45479,1197 cc,2nd Owner,DL1C,Manual,Not Available,297000,311850,572578,19.1 kmpl,5,Silver,1197 CC,82bhp,114Nm
+116,2016 Honda Jazz,2016,Jan-16,Petrol,52197,1199 cc,1st Owner,UP14,Manual,Third Party insurance,467026,490377,867436,16.6 kmpl,R15,5,1199 CC,88.50bhp,110Nm
+117,2016 Hyundai Grand i10,2016,Jun-16,Petrol,77935,1197 cc,1st Owner,DL4C,Manual,Third Party insurance,412000,432600,597641,18.9 kmpl,5,Silver,1197 CC,82bhp,114Nm
+118,2015 Maruti Alto 800,2015,Dec-15,Petrol,53670,796 cc,1st Owner,HR51,Manual,Third Party insurance,273500,287175,347446,22.74 kmpl,5,Silver,796 CC,47.3bhp,69Nm
+119,2017 Mahindra TUV 300,2017,Feb-17,Diesel,53984,1493 cc,1st Owner,DL8C,Manual,Third Party insurance,504000,529200,1112028,18.49 kmpl,15,7,1493 CC,100bhp,240Nm
+120,2013 Honda Amaze,2013,May-13,Diesel,82518,1498 cc,2nd Owner,HR29,Manual,Not Available,303000,318150,806736,25.8 kmpl,5,Other,1498 CC,98.6bhp,200Nm
+121,2016 Maruti Baleno,2016,Jul-16,Petrol,39350,1197 cc,1st Owner,UP14,Manual,Third Party insurance,485000,509250,852273,21.01 kmpl,R16,5,1197 CC,81.80bhp,113Nm
+122,2014 Honda City,2014,Jul-14,Petrol,93090,1497 cc,1st Owner,HR26,Automatic,Third Party insurance,646500,678825,1309954,18 kmpl,15,5,1497 CC,117.3bhp,145Nm
+123,2018 Hyundai i20,2018,Mar-18,Petrol,66220,1197 cc,1st Owner,HR51,Manual,Third Party insurance,651000,683550,925863,21 kmpl,5,White,1197 CC,81.86bhp,114.74nm
+124,2019 Ford Figo,2019,Jun-19,Petrol,28638,1196 cc,1st Owner,HR29,Manual,Third Party insurance,555023,582774,808486,18.16 kmpl,14,5,1196 CC,86.8bhp,112Nm
+125,2018 Hyundai Xcent,2018,Nov-18,Petrol,33933,1197 cc,1st Owner,DL1C,Manual,Not Available,480500,504525,724127,20.14 kmpl,5,Grey,1197 CC,81.86bhp,113.75nm
+126,2012 Hyundai i10,2011,Jan-12,Petrol,82238,1197 cc,1st Owner,UP16,Manual,Third Party insurance,259500,272475,543767,20.36 kmpl,13,5,1197 CC,78.9bhp,111.8Nm
+127,2018 Maruti Ignis,2017,Jan-18,Petrol,39386,1197 cc,1st Owner,HR87,Manual,Third Party insurance,599000,628950,751351,20.89 kmpl,15,5,1197 CC,81.80bhp,113Nm
+128,2018 Hyundai Grand i10,2017,Feb-18,Petrol,40280,1197 cc,1st Owner,DL7C,Manual,Third Party insurance,483000,507150,617185,18.9 kmpl,5,Silver,1197 CC,82bhp,114Nm
+129,2015 Ford Ecosport,2015,Oct-15,Petrol,27896,1499 cc,1st Owner,DL12,Manual,Third Party insurance,501000,526050,864725,15.8 kmpl,5,Other,1499 CC,110bhp,140Nm
+130,2017 Maruti Swift,2017,Apr-17,Petrol,15259,1197 cc,1st Owner,DL3C,Manual,Third Party insurance,436000,457800,546882,20.4 kmpl,5,Other,1197 CC,83.11bhp,113Nm
+131,2018 Maruti Vitara Brezza,2018,Mar-18,Diesel,44832,1248 cc,1st Owner,HR27,Manual,Third Party insurance,763500,801675,929655,24.3 kmpl,5,Red,1248 CC,88.5bhp,200Nm
+132,2016 Hyundai EON,2016,Jul-16,Petrol,39804,814 cc,1st Owner,HR26,Manual,Not Available,270500,284025,365475,21.1 kmpl,12,5,814 CC,55.2bhp,74.5Nm
+133,2017 Maruti Ignis,2017,May-17,Petrol,32643,1197 cc,1st Owner,DL6C,Manual,Third Party insurance,503196,528356,751351,20.89 kmpl,15,5,1197 CC,81.80bhp,113Nm
+134,2016 Ford Figo Aspire,2016,Mar-16,Petrol,51315,1196 cc,2nd Owner,DL12,Manual,Third Party insurance,338500,355425,605889,18.16 kmpl,5,Grey,1196 CC,86.8bhp,112Nm
+135,2010 Honda City,2009,Mar-10,Petrol,65605,1497 cc,2nd Owner,HR11,Manual,Third Party insurance,270000,283500,929324,17 kmpl,15,5,1497 CC,"118PS at 6,600 rpm",146Nm at 4800 rpm
+136,2014 Maruti Swift,2014,Sep-14,Diesel,84743,1248 cc,1st Owner,DL9C,Manual,Not Available,387000,406350,717885,22.9 kmpl,14,5,1248 CC,74bhp,190Nm
+137,2019 Maruti Vitara Brezza,2019,May-19,Diesel,49697,1248 cc,1st Owner,4 2022,Automatic,Automatic,830000,871500,1069846,24.3 kmpl,16,5,1248 CC,88.5bhp,200Nm
+138,2013 Hyundai EON,2013,Aug-13,Petrol,66281,814 cc,1st Owner,DL7C,Manual,Not Available,225500,236775,422034,21.1 kmpl,5,Silver,814 CC,55.2bhp,74.5Nm
+139,2017 Maruti Ignis,2017,Sep-17,Petrol,26569,1197 cc,1st Owner,DL2C,Manual,Third Party insurance,469000,492450,637224,20.89 kmpl,5,Other,1197 CC,81.80bhp,113Nm
+140,2011 Hyundai i10,2011,Jul-11,Petrol,75789,1197 cc,2nd Owner,HR51,Manual,Third Party insurance,236000,247800,525181,20.36 kmpl,13,5,1197 CC,78.9bhp,111.8Nm
+141,2018 Maruti Ignis,2018,Apr-18,Petrol,44458,1197 cc,1st Owner,HR10,Manual,Third Party insurance,525500,551775,593190,20.89 kmpl,5,Other,1197 CC,81.80bhp,113Nm
+142,2015 Maruti Swift,2015,Sep-15,Petrol,19419,1197 cc,1st Owner,DL3C,Manual,Third Party insurance,401500,421575,529062,20.4 kmpl,5,Other,1197 CC,81.80bhp,113Nm
+143,2019 Hyundai EON,2018,Feb-19,Petrol,31472,814 cc,1st Owner,UP14,Manual,Third Party insurance,298000,312900,471939,21.1 kmpl,5,Other,814 CC,55.2bhp,74.5Nm
+144,2016 Maruti Eeco,2016,Jun-16,CNG,58426,1196 cc,1st Owner,DL08,Manual,Third Party insurance,305000,320250,544727,21.94 km/kg,5,Silver,1196 CC,61.7bhp,85Nm
+145,2018 Maruti Ignis,2018,May-18,Petrol,19635,1197 cc,1st Owner,HR50,Manual,Third Party insurance,431000,452550,526662,20.89 kmpl,5,White,1197 CC,81.80bhp,113Nm
+146,2015 Hyundai Xcent,2015,Mar-15,Diesel,19635,1120 cc,1st Owner,DL08,Manual,Third Party insurance,364500,382725,783707,24.4 kmpl,14,5,1120 CC,71.01bhp,180.4Nm
+147,2010 Hyundai i20,2010,Mar-10,Petrol,78023,1197 cc,1st Owner,DL3C,Manual,Third Party insurance,230000,241500,667907,17 kmpl,14,5,1197 CC,80 PS at 5200 rpm,"11.4 kgm at 4,000 rpm"
+148,2016 Hyundai Grand i10,2016,Oct-16,Diesel,83466,1120 cc,2nd Owner,DL4C,Manual,Not Available,342000,359100,720700,24 kmpl,5,White,1120 CC,70bhp,160Nm
+149,2013 Hyundai EON,2013,Aug-13,Petrol,46694,814 cc,1st Owner,HR26,Manual,Third Party insurance,220500,231525,422034,21.1 kmpl,5,White,814 CC,55.2bhp,74.5Nm
+150,2013 Honda Amaze,2013,Aug-13,Diesel,32832,1498 cc,1st Owner,DL4C,Manual,Third Party insurance,273500,287175,806736,25.8 kmpl,5,Other,1498 CC,98.6bhp,200Nm
+151,2010 Hyundai i10,2009,Jan-10,Petrol,80513,1197 cc,1st Owner,HR26,Manual,Not Available,197500,207375,525181,20.36 kmpl,13,5,1197 CC,78.9bhp,111.8Nm
+152,2019 Maruti Ignis,2019,May-19,Petrol,9779,1197 cc,1st Owner,DL3C,Manual,Third Party insurance,450000,472500,588386,20.89 kmpl,5,Silver,1197 CC,81.80bhp,113Nm
+153,2018 Maruti Eeco,2018,Sep-18,Petrol,18107,1196 cc,1st Owner,HR51,Manual,Third Party insurance,315000,330750,481899,15.37 kmpl,5,Other,1196 CC,73bhp,101Nm
+154,2015 Honda City,2015,Jun-15,Petrol,98792,1497 cc,1st Owner,HR26,Manual,Third Party insurance,683988,718187,1221581,17.4 kmpl,15,5,1497 CC,117.3bhp,145Nm
+155,2018 Hyundai i20,2017,Jan-18,Petrol,21993,1197 cc,1st Owner,DL7C,Manual,Third Party insurance,651500,684075,802449,18.6 kmpl,16,5,1197 CC,81.83bhp,114.7Nm
+156,2016 Maruti Baleno,2016,Jun-16,Petrol,47156,1197 cc,2nd Owner,UP16,Manual,Third Party insurance,482500,506625,701952,21.4 kmpl,5,Other,1197 CC,83.1bhp,115Nm
+157,2012 Maruti Alto K10,2012,Jun-12,Petrol,27994,998 cc,1st Owner,UP14,Manual,Third Party insurance,226608,237938,446517,23.95 kmpl,5,Other,998 CC,67.05bhp,90Nm
+158,2011 Hyundai i10,2011,Dec-11,Petrol,27994,1197 cc,1st Owner,UP67,Manual,Third Party insurance,222000,233100,544050,20.36 kmpl,13,5,1197 CC,78.9bhp,111.8Nm
+159,2016 Ford Ecosport,2016,Jul-16,Diesel,27994,1498 cc,1st Owner,6 2021,Automatic,Manual,622000,653100,1294316,23 kmpl,16,5,1498 CC,98.96bhp,205Nm
+160,2014 Ford Ecosport,2014,Oct-14,Diesel,83321,1498 cc,1st Owner,DL10,Manual,Third Party insurance,502500,527625,981553,22.7 kmpl,5,Black,1498 CC,89.84bhp,204Nm
+161,2018 Honda City,2018,Aug-18,Petrol,22798,1497 cc,1st Owner,UP14,Manual,Third Party insurance,903000,948150,1232879,17.4 kmpl,15,5,1497 CC,117.6bhp,145Nm
+162,2015 Honda City,2015,Mar-15,Petrol,30067,1497 cc,1st Owner,HR26,Automatic,Third Party insurance,643000,675150,1202900,18 kmpl,5,Other,1497 CC,117.3bhp,145Nm
+163,2019 Hyundai Grand i10,2018,Jan-19,Petrol,28944,1197 cc,1st Owner,HR26,Manual,Third Party insurance,465000,488250,648328,18.9 kmpl,5,Silver,1197 CC,81.86bhp,113.75nm
+164,2012 Maruti Swift,2012,Dec-12,Diesel,65437,1248 cc,1st Owner,DL2C,Manual,Third Party insurance,240000,252000,613393,22.9 kmpl,14,5,1248 CC,74bhp,190Nm
+165,2014 Maruti Alto K10,2014,Nov-14,Petrol,77987,998 cc,1st Owner,HR26,Manual,Third Party insurance,245500,257775,346530,20.92 kmpl,13,5,998 CC,67.1bhp,90Nm
+166,2015 Maruti Swift Dzire,2015,Apr-15,Diesel,57232,1248 cc,1st Owner,DL9C,Manual,Not Available,456500,479325,824977,26.59 kmpl,5,Silver,1248 CC,74bhp,190Nm
+167,2011 Hyundai i10,2011,Nov-11,Petrol,57232,1197 cc,2nd Owner,DL03,Automatic,Third Party insurance,268000,281400,586549,16.95 kmpl,13,5,1197 CC,78.9bhp,111.8Nm
+168,2016 Maruti Ciaz,2016,Apr-16,Diesel,48957,1248 cc,2nd Owner,DL3C,Manual,Third Party insurance,558500,586425,1221355,28.09 kmpl,16,5,1248 CC,88.5bhp,200Nm
+169,2012 Honda Brio,2012,Nov-12,Petrol,37297,1198 cc,1st Owner,HR26,Manual,Third Party insurance,260000,273000,531159,19.4 kmpl,5,Other,1198 CC,86.8bhp,109Nm
+170,2016 Maruti Ciaz,2016,Apr-16,Diesel,59715,1248 cc,1st Owner,DL8C,Manual,Third Party insurance,527500,553875,942056,28.09 kmpl,5,Other,1248 CC,88.5bhp,200Nm
+171,2016 Maruti Vitara Brezza,2016,Apr-16,Diesel,80291,1248 cc,1st Owner,DL9C,Manual,Third Party insurance,628000,659400,903820,24.3 kmpl,5,Other,1248 CC,88.5bhp,200Nm
+172,2017 Maruti Swift,2017,Mar-17,Diesel,61114,1248 cc,1st Owner,DL3C,Manual,Third Party insurance,468000,491400,659939,25.2 kmpl,5,Grey,1248 CC,74bhp,190Nm
+173,2014 Toyota Etios,2014,Apr-14,Diesel,57513,1364 cc,1st Owner,DL10,Manual,Third Party insurance,438500,460425,869700,23.59 kmpl,15,5,1364 CC,67.04bhp,170Nm
+174,2016 Renault KWID,2016,Jun-16,Petrol,35836,799 cc,1st Owner,DL8C,Manual,Third Party insurance,235500,247275,419592,25.17 kmpl,5,Red,799 CC,53.3bhp,72Nm
+175,2016 Honda City,2016,Mar-16,Petrol,37257,1497 cc,2nd Owner,UP16,Manual,Third Party insurance,669693,703178,1126480,17.8 kmpl,15,5,1497 CC,117.3bhp,145Nm
+176,2017 Maruti Swift Dzire,2017,Apr-17,Diesel,65177,1248 cc,1st Owner,HR29,Manual,Third Party insurance,601000,631050,824977,26.59 kmpl,5,White,1248 CC,74bhp,190Nm
+177,2020 Maruti Baleno,2020,Feb-20,Petrol,12225,1197 cc,1st Owner,DL9C,Manual,Not Available,613500,644175,686396,21.01 kmpl,5,Other,1197 CC,81.80bhp,113Nm
+178,2016 Hyundai i20,2016,Jun-16,Petrol,56771,1197 cc,1st Owner,DL12,Manual,Third Party insurance,522000,548100,748579,18.6 kmpl,5,Other,1197 CC,81.83bhp,114.7Nm
+179,2020 Maruti S-Presso,2020,Mar-20,Petrol,19749,998 cc,1st Owner,HR26,Manual,Not Available,380000,399000,492654,21.7 kmpl,5,White,998 CC,67.05bhp,90nm
+180,2013 Hyundai i10,2013,Jul-13,Petrol,44890,1197 cc,2nd Owner,DL3C,Manual,Third Party insurance,260000,273000,527676,20.36 kmpl,13,5,1197 CC,78.9bhp,111.7Nm
+181,2018 Maruti Vitara Brezza,2018,Jul-18,Diesel,63545,1248 cc,1st Owner,6 2022,Automatic,Manual,680500,714525,813890,24.3 kmpl,5,Other,1248 CC,88.5bhp,200Nm
+182,2014 Skoda Rapid,2014,Jul-14,Diesel,55970,1498 cc,1st Owner,DL09,Manual,Third Party insurance,413000,433650,1124056,21.14 kmpl,15,5,1498 CC,103.52bhp,250Nm
+183,2018 Maruti Alto 800,2018,Jun-18,Petrol,30308,796 cc,1st Owner,DL2C,Manual,Third Party insurance,303500,318675,341819,24.7 kmpl,5,Other,796 CC,47.3bhp,69Nm
+184,2015 Maruti Wagon R,2015,Nov-15,Petrol,24036,998 cc,1st Owner,HR51,Manual,Third Party insurance,376500,395325,489017,20.51 kmpl,5,Other,998 CC,67.04bhp,90Nm
+185,2018 Maruti Ciaz,2018,Sep-18,Petrol,34473,1462 cc,1st Owner,DL12,Automatic,Third Party insurance,908000,953400,1271581,20.28 kmpl,16,5,1462 CC,103.25bhp,138Nm
+186,2016 Maruti Alto K10,2016,Aug-16,Petrol,61562,998 cc,1st Owner,DL5C,Manual,Not Available,292000,306600,434696,23.95 kmpl,5,Grey,998 CC,67.05bhp,90Nm
+187,2016 Hyundai EON,2016,Nov-16,Petrol,31339,814 cc,1st Owner,UP14,Manual,Third Party insurance,280000,294000,434372,22 kmpl,13,5,814 CC,55 Bhp,76.5 Nm
+188,2016 Maruti Swift Dzire,2016,Jul-16,Diesel,78192,1248 cc,1st Owner,DL2C,Automatic,Third Party insurance,549500,576975,977856,26.59 kmpl,15,5,1248 CC,74bhp,190Nm
+189,2016 Hyundai Xcent,2015,Aug-16,Diesel,82289,1120 cc,1st Owner,DL3C,Manual,Not Available,305000,320250,699617,24.4 kmpl,5,White,1120 CC,71bhp,180.4Nm
+190,2018 Maruti Baleno,2018,May-18,Diesel,33507,1248 cc,1st Owner,HR87,Manual,Third Party insurance,631500,663075,800395,27.39 kmpl,5,Other,1248 CC,74bhp,190Nm
+191,2015 Maruti Swift,2015,May-15,Diesel,53515,1248 cc,2nd Owner,DL9C,Manual,Not Available,430500,452025,737717,25.2 kmpl,5,Grey,1248 CC,74bhp,190Nm
+192,2021 Renault KWID,2020,Jan-21,Petrol,2998,999 cc,1st Owner,HR29,Automatic,Third Party insurance,431500,453075,513874,24.04 kmpl,5,Blue,999 CC,67bhp,91Nm
+193,2019 Tata Tiago,2018,Feb-19,Diesel,2998,1047 cc,1st Owner,DL3C,Manual,Third Party insurance,298500,313425,562524,27.28 kmpl,5,Other,1047 CC,69bhp,140Nm
+194,2018 Maruti Alto K10,2018,Jul-18,Petrol,16023,998 cc,1st Owner,HR51,Manual,Third Party insurance,373500,392175,431144,23.95 kmpl,5,Other,998 CC,67.05bhp,90Nm
+195,2017 Mahindra TUV 300,2017,Nov-17,Diesel,42009,1493 cc,2nd Owner,HR26,Automatic,Third Party insurance,576500,605325,1303130,18.49 kmpl,15,7,1493 CC,100bhp,240Nm
+196,2020 Honda Amaze,2019,Jan-20,Petrol,33488,1199 cc,1st Owner,UP14,Manual,Third Party insurance,661000,694050,803799,18.6 kmpl,5,Red,1199 CC,88.76bhp,110Nm
+197,2009 Hyundai i10,2009,Sep-09,Petrol,90903,1197 cc,1st Owner,UP16,Manual,Not Available,238500,250425,606002,20.36 kmpl,13,5,1197 CC,78.9bhp,111.8Nm
+198,2016 Maruti Wagon R,2016,Jun-16,Petrol,39154,998 cc,1st Owner,DL8C,Manual,Third Party insurance,319000,334950,602602,21.79 kmpl,5,White,998 CC,67.05bhp,90Nm
+199,2018 Maruti Swift,2018,Feb-18,Petrol,51207,1197 cc,1st Owner,DL2C,Manual,Third Party insurance,533000,559650,576923,22 kmpl,5,Other,1197 CC,81.80bhp,113Nm
+200,2017 Maruti Swift Dzire,2017,Mar-17,Petrol,64481,1197 cc,1st Owner,DL2C,Manual,Third Party insurance,495500,520275,656611,20.85 kmpl,5,Other,1197 CC,83.14bhp,115Nm
+201,2013 Maruti Alto 800,2013,Oct-13,Petrol,86950,796 cc,2nd Owner,9 2021,Automatic,Manual,222000,233100,359781,22.74 kmpl,5,Red,796 CC,47.3bhp,69Nm
+202,2015 Maruti Wagon R,2015,Aug-15,Petrol,47043,998 cc,1st Owner,DL6C,Manual,Third Party insurance,315000,330750,602602,21.79 kmpl,5,Silver,998 CC,67.05bhp,90Nm
+203,2011 Maruti Zen Estilo,2011,Apr-11,Petrol,17520,998 cc,1st Owner,DL09,Manual,Third Party insurance,245500,257775,403885,19 kmpl,13,5,998 CC,67.1bhp,90Nm
+204,2016 Renault KWID,2016,May-16,Petrol,54728,799 cc,2nd Owner,DL14,Manual,Third Party insurance,249500,261975,419182,25.17 kmpl,5,Brown,799 CC,53.3bhp,72Nm
+205,2018 Renault KWID,2018,May-18,Petrol,30165,999 cc,1st Owner,DL8C,Manual,Third Party insurance,313500,329175,483020,23.01 kmpl,5,Other,999 CC,67bhp,91Nm
+206,2013 Honda Brio,2013,Mar-13,Petrol,55509,1198 cc,2nd Owner,DL3C,Manual,Third Party insurance,245000,257250,578637,19.4 kmpl,5,Silver,1198 CC,86.8bhp,109Nm
+207,2017 Maruti Eeco,2017,Jul-17,CNG,20371,1196 cc,1st Owner,DL8C,Manual,Third Party insurance,342000,359100,482765,15.1 kmpl,13,5,1196 CC,73bhp,101Nm
+208,2011 Hyundai i20,2011,May-11,Petrol,36527,1197 cc,1st Owner,HR51,Manual,Third Party insurance,211000,221550,551567,18.5 kmpl,14,5,1197 CC,80 PS at 5200 rpm,"11.4 kgm at 4,000 rpm"
+209,2009 Honda CR-V,2008,Jun-09,Petrol,36527,2354 cc,1st Owner,HR70,Manual,Third Party insurance,375000,393750,1751180,10.8 kmpl,16,5,2354 CC,152 PS,215 Nm
+210,2017 Renault KWID,2017,Mar-17,Petrol,68536,999 cc,1st Owner,HR51,Manual,Third Party insurance,262500,275625,435298,23.01 kmpl,5,Silver,999 CC,67bhp,91Nm
+211,2012 Maruti Swift,2012,Mar-12,Petrol,97358,1197 cc,1st Owner,DL6C,Manual,Third Party insurance,322000,338100,548912,18.6 kmpl,14,5,1197 CC,85.8bhp,114Nm
+212,2015 Maruti Ciaz,2014,Jan-15,Petrol,97358,1373 cc,1st Owner,HR26,Manual,Not Available,498500,523425,982858,20.73 kmpl,15,5,1373 CC,91.1bhp,130Nm
+213,2014 Maruti Wagon R,2014,Dec-14,Petrol,34353,998 cc,2nd Owner,DL5C,Manual,Third Party insurance,261000,274050,477957,20.51 kmpl,5,White,998 CC,67.04bhp,90Nm
+214,2016 Maruti Wagon R Stingray,2016,Dec-16,Petrol,62425,998 cc,1st Owner,11 2021,Automatic,Manual,275000,288750,520391,20.51 kmpl,14,5,998 CC,67.04bhp,90Nm
+215,2018 Maruti Wagon R,2018,Mar-18,Petrol,18636,998 cc,1st Owner,DL1C,Manual,Third Party insurance,397000,416850,507140,20.51 kmpl,5,Other,998 CC,67.04bhp,90Nm
+216,2015 Maruti Swift,2015,May-15,Petrol,62344,1197 cc,1st Owner,UP16,Manual,Not Available,376000,394800,573484,20.4 kmpl,5,Grey,1197 CC,83.11bhp,113Nm
+217,2017 Hyundai Grand i10,2017,Oct-17,Petrol,21073,1197 cc,1st Owner,DL8C,Manual,Third Party insurance,433000,454650,648745,18.9 kmpl,5,Other,1197 CC,81.86bhp,113.75nm
+218,2015 Maruti Swift Dzire,2015,Apr-15,Petrol,70138,1197 cc,1st Owner,DL9C,Manual,Third Party insurance,365000,383250,659651,20.85 kmpl,5,Other,1197 CC,83.14bhp,115Nm
+219,2015 Skoda Rapid,2015,Jul-15,Diesel,51736,1498 cc,1st Owner,UP16,Automatic,Third Party insurance,531000,557550,1327581,21.66 kmpl,15,5,1498 CC,103.52bhp,250Nm
+220,2017 Maruti Ciaz,2017,Sep-17,Petrol,43559,1373 cc,1st Owner,DL9C,Manual,Third Party insurance,625000,656250,864468,20.73 kmpl,5,Other,1373 CC,91.1bhp,130Nm
+221,2018 Maruti Swift Dzire,2018,Apr-18,Petrol,57052,1197 cc,1st Owner,HR51,Manual,Third Party insurance,570000,598500,763121,21.21 kmpl,5,White,1197 CC,81.80bhp,113Nm
+222,2017 Maruti Baleno,2017,Apr-17,Petrol,41867,1197 cc,1st Owner,DL12,Manual,Third Party insurance,590000,619500,938314,21.01 kmpl,R16,5,1197 CC,81.80bhp,113Nm
+223,2017 Maruti Vitara Brezza,2017,May-17,Diesel,80132,1248 cc,1st Owner,HR76,Manual,Third Party insurance,690000,724500,1016982,24.3 kmpl,16,5,1248 CC,88.5bhp,200Nm
+224,2013 Maruti Wagon R,2013,Apr-13,Petrol,30445,998 cc,1st Owner,HR51,Manual,Third Party insurance,268000,281400,567187,21.79 kmpl,5,Blue,998 CC,67.05bhp,90Nm
+225,2015 Maruti Swift Dzire,2015,Apr-15,Diesel,30445,1248 cc,1st Owner,DL8C,Manual,Third Party insurance,480000,504000,921433,26.59 kmpl,15,5,1248 CC,74bhp,190Nm
+226,2014 Maruti Swift,2014,Jul-14,Diesel,44828,1248 cc,1st Owner,DL2C,Manual,Third Party insurance,444000,466200,737717,25.2 kmpl,5,Silver,1248 CC,74bhp,190Nm
+227,2015 Maruti Baleno,2015,Dec-15,Petrol,49192,1197 cc,1st Owner,DL8C,Manual,Third Party insurance,450000,472500,770868,21.01 kmpl,5,Other,1197 CC,81.80bhp,113Nm
+228,2018 Maruti Baleno,2018,Jul-18,Petrol,18792,1197 cc,1st Owner,DL12,Manual,Third Party insurance,545000,572250,636917,21.4 kmpl,5,Blue,1197 CC,83.1bhp,115Nm
+229,2015 Maruti Ciaz,2015,May-15,Diesel,58323,1248 cc,1st Owner,DL14,Manual,Third Party insurance,507500,532875,1016745,26.21 kmpl,5,Other,1248 CC,88.5bhp,200Nm
+230,2018 Maruti Baleno,2018,Dec-18,Petrol,37005,1197 cc,1st Owner,HR29,Manual,Third Party insurance,551000,578550,636917,21.4 kmpl,5,White,1197 CC,83.1bhp,115Nm
+231,2016 Maruti Eeco,2016,Jul-16,Petrol,95285,1196 cc,1st Owner,DL3C,Manual,Third Party insurance,289500,303975,533301,16.11 kmpl,5,White,1196 CC,72.42bhp,98Nm
+232,2019 Maruti Wagon R,2019,Aug-19,Petrol,14788,998 cc,2nd Owner,DL14,Manual,Third Party insurance,460000,483000,505585,20.51 kmpl,5,Silver,998 CC,67.06bhp,90Nm
+233,2015 Maruti Baleno,2015,Dec-15,Petrol,61931,1197 cc,1st Owner,HR51,Automatic,Third Party insurance,536244,563056,811585,21.4 kmpl,5,Silver,1197 CC,83.1bhp,115Nm
+234,2015 Hyundai i20,2015,May-15,Diesel,61931,1396 cc,1st Owner,DL8C,Manual,Third Party insurance,460000,483000,940506,22.54 kmpl,16,5,1396 CC,88.73bhp,219.7Nm
+235,2014 Honda Amaze,2014,Apr-14,Diesel,68405,1498 cc,2nd Owner,DL12,Manual,Third Party insurance,342500,359625,795208,25.8 kmpl,5,Silver,1498 CC,98.6bhp,200Nm
+236,2019 Honda Amaze,2019,Oct-19,Petrol,21276,1198 cc,1st Owner,HR87,Manual,Third Party insurance,640430,672452,748569,17.8 kmpl,5,White,1198 CC,86.7bhp,109Nm
+237,2015 Hyundai Xcent,2014,Jan-15,Diesel,65427,1120 cc,1st Owner,HR51,Manual,Third Party insurance,348108,365513,783707,24.4 kmpl,14,5,1120 CC,71.01bhp,180.4Nm
+238,2018 Maruti Baleno,2018,May-18,Petrol,65009,1197 cc,1st Owner,DL8C,Manual,Third Party insurance,605500,635775,701952,21.4 kmpl,5,White,1197 CC,83.1bhp,115Nm
+239,2020 Maruti Wagon R,2019,Feb-20,Petrol,14720,1197 cc,1st Owner,2 2022,Automatic,Automatic,551000,578550,693338,20.52 kmpl,5,White,1197 CC,81.80bhp,113Nm
+240,2014 Hyundai Grand i10,2013,Jan-14,Petrol,48727,1197 cc,2nd Owner,DL2C,Manual,Third Party insurance,330000,346500,671802,18.9 kmpl,5,Grey,1197 CC,81.86bhp,113.75nm
+241,2018 Maruti Baleno,2018,Jan-18,Petrol,34377,1197 cc,1st Owner,DL11,Manual,Third Party insurance,563870,592064,782606,21.01 kmpl,5,Silver,1197 CC,81.80bhp,113Nm
+242,2016 Maruti Swift,2015,Jan-16,Petrol,24477,1197 cc,1st Owner,DL3C,Manual,Third Party insurance,445578,467857,702264,21.21 kmpl,5,White,1197 CC,81.80bhp,113Nm
+243,2019 Maruti Alto 800,2019,Mar-19,Petrol,18504,796 cc,1st Owner,DL5C,Manual,Not Available,351500,369075,421642,24.7 kmpl,5,White,796 CC,47.3bhp,69Nm
+244,2016 Hyundai i20,2016,Aug-16,Petrol,27045,1197 cc,1st Owner,HR51,Manual,Third Party insurance,576000,604800,748579,18.6 kmpl,5,Silver,1197 CC,81.83bhp,114.7Nm
+245,2019 Maruti Ignis,2019,Jun-19,Petrol,9024,1197 cc,1st Owner,HR87,Manual,Third Party insurance,450000,472500,526662,20.89 kmpl,5,Silver,1197 CC,81.80bhp,113Nm
+246,2016 Hyundai i20,2016,Aug-16,Petrol,28562,1197 cc,1st Owner,UP14,Manual,Third Party insurance,558000,585900,925863,21 kmpl,5,Other,1197 CC,81.86bhp,114.74nm
+247,2011 Hyundai i20,2011,Dec-11,Petrol,69356,1197 cc,2nd Owner,HR26,Manual,Third Party insurance,300000,315000,547106,18.5 kmpl,14,5,1197 CC,80 PS at 5200 rpm,"11.4 kgm at 4,000 rpm"
+248,2016 Maruti Vitara Brezza,2016,Apr-16,Diesel,77406,1248 cc,1st Owner,DL12,Manual,Third Party insurance,661250,694313,844464,24.3 kmpl,5,White,1248 CC,88.5bhp,200Nm
+249,2016 Mahindra KUV 100,2016,Mar-16,Diesel,54476,1198 cc,2nd Owner,DL12,Manual,Third Party insurance,397000,416850,823563,25.32 kmpl,15,5,1198 CC,77bhp,190Nm
+250,2014 Maruti Swift,2014,Jun-14,Diesel,79261,1248 cc,1st Owner,UP15,Manual,Third Party insurance,444211,466422,717885,22.9 kmpl,14,5,1248 CC,74bhp,190Nm
+251,2018 Maruti Baleno,2018,May-18,Petrol,30903,1197 cc,1st Owner,DL2C,Manual,Not Available,672500,706125,845401,21.4 kmpl,16,5,1197 CC,83.1bhp,115Nm
+252,2016 Toyota Etios Liva,2016,Jun-16,Petrol,45113,1197 cc,1st Owner,HR51,Manual,Not Available,480500,504525,588284,17.71 kmpl,5,White,1197 CC,78.9bhp,104Nm
+253,2019 Hyundai Grand i10,2019,Oct-19,Petrol,6928,1197 cc,1st Owner,HR51,Manual,Third Party insurance,524000,550200,671802,18.9 kmpl,5,Silver,1197 CC,81.86bhp,113.75nm
+254,2019 Hyundai i20,2019,Feb-19,Petrol,29942,1197 cc,1st Owner,DL2C,Manual,Third Party insurance,617000,647850,720061,18.6 kmpl,5,Grey,1197 CC,81.86bhp,117nm
+255,2016 Hyundai i20,2016,Nov-16,Diesel,47565,1396 cc,1st Owner,DL1C,Manual,Third Party insurance,490000,514500,821506,22.54 kmpl,5,Silver,1396 CC,88.73bhp,219.7Nm
+256,2015 Maruti Swift,2015,Jun-15,Diesel,47565,1248 cc,1st Owner,UP14,Manual,Third Party insurance,453300,475965,746465,25.2 kmpl,5,White,1248 CC,74bhp,190Nm
+257,2018 Maruti Baleno,2018,Apr-18,Petrol,23484,1197 cc,2nd Owner,DL6C,Manual,Third Party insurance,636500,668325,838080,21.4 kmpl,16,5,1197 CC,83.1bhp,115Nm
+258,2017 Hyundai i20,2016,Jan-17,Diesel,64390,1396 cc,1st Owner,DL8C,Manual,Not Available,480000,504000,813577,22.54 kmpl,5,White,1396 CC,88.73bhp,219.7Nm
+259,2019 Maruti Wagon R,2019,Mar-19,Petrol,14499,998 cc,1st Owner,DL9C,Manual,Third Party insurance,470000,493500,567187,21.79 kmpl,5,Silver,998 CC,67.05bhp,90Nm
+260,2019 Maruti Wagon R,2018,Feb-19,Petrol,22104,998 cc,1st Owner,HR26,Manual,Third Party insurance,424000,445200,541980,21.79 kmpl,5,Silver,998 CC,67.05bhp,90Nm
+261,2016 Mahindra KUV 100,2016,May-16,Diesel,99534,1198 cc,2nd Owner,DL8C,Manual,Third Party insurance,290000,304500,686220,25.32 kmpl,6,White,1198 CC,77bhp,190Nm
+262,2014 Maruti Alto K10,2013,Jan-14,Petrol,27017,998 cc,1st Owner,DL3C,Manual,Third Party insurance,285468,299741,446517,23.95 kmpl,5,White,998 CC,67.05bhp,90Nm
+263,2018 Maruti Alto K10,2017,Jan-18,Petrol,18075,998 cc,2nd Owner,HR51,Manual,Third Party insurance,310000,325500,434696,23.95 kmpl,5,Silver,998 CC,67.05bhp,90Nm
+264,2012 Maruti Alto K10,2012,Mar-12,Petrol,79016,998 cc,2nd Owner,UP16,Manual,Third Party insurance,212848,223490,428193,23.95 kmpl,5,Other,998 CC,67.05bhp,90Nm
+265,2017 Maruti Vitara Brezza,2017,Jun-17,Diesel,71848,1248 cc,1st Owner,HR72,Manual,Third Party insurance,670000,703500,919441,24.3 kmpl,5,White,1248 CC,88.5bhp,200Nm
+266,2015 Ford Ecosport,2015,Mar-15,Diesel,71848,1498 cc,1st Owner,HR26,Manual,Third Party insurance,430000,451500,1003522,21.7 kmpl,5,White,1498 CC,99.23bhp,215Nm
+267,2017 Maruti Ignis,2017,Dec-17,Petrol,42389,1197 cc,1st Owner,HR26,Automatic,Third Party insurance,528500,554925,644221,20.89 kmpl,5,Silver,1197 CC,81.80bhp,113Nm
+268,2017 Volkswagen Ameo,2017,Sep-17,Petrol,41665,1198 cc,2nd Owner,HR26,Manual,Third Party insurance,381500,400575,625499,17 kmpl,5,Silver,1198 CC,73.75bhp,110Nm
+269,2019 Maruti Ignis,2018,May-19,Petrol,4878,1197 cc,1st Owner,HR26,Manual,Third Party insurance,505000,530250,593190,20.89 kmpl,5,Blue,1197 CC,81.80bhp,113Nm
+270,2017 Maruti Swift,2017,Dec-17,Diesel,42888,1248 cc,1st Owner,HR51,Manual,Third Party insurance,500000,525000,790410,28.4 kmpl,5,Grey,1248 CC,74bhp,190Nm
+271,2018 Maruti Ignis,2018,Jul-18,Petrol,39393,1197 cc,1st Owner,HR51,Manual,Third Party insurance,430000,451500,526662,20.89 kmpl,5,Grey,1197 CC,81.80bhp,113Nm
+272,2018 Maruti Ciaz,2018,Aug-18,Petrol,41628,1373 cc,1st Owner,DL14,Manual,Third Party insurance,678500,712425,884547,20.73 kmpl,5,Grey,1373 CC,91.1bhp,130Nm
+273,2017 Maruti Vitara Brezza,2017,Mar-17,Diesel,21355,1248 cc,1st Owner,DL3C,Manual,Third Party insurance,770000,808500,1014057,24.3 kmpl,16,5,1248 CC,88.5bhp,200Nm
+274,2016 Maruti Baleno,2015,Jan-16,Petrol,58938,1197 cc,1st Owner,DL5C,Manual,Third Party insurance,490193,514703,701952,21.4 kmpl,5,Blue,1197 CC,83.1bhp,115Nm
+275,2020 Maruti Alto 800,2020,Sep-20,Petrol,1067,796 cc,1st Owner,HR87,Manual,Third Party insurance,385000,404250,454712,22.05 kmpl,5,White,796 CC,47.33bhp,69Nm
+276,2013 Ford Ecosport,2013,Oct-13,Diesel,70802,1498 cc,1st Owner,HR26,Manual,Third Party insurance,460000,483000,1090546,22.7 kmpl,16,5,1498 CC,89.84bhp,204Nm
+277,2016 Maruti Baleno,2016,Dec-16,Petrol,44802,1197 cc,1st Owner,UP14,Automatic,Third Party insurance,531500,558075,818906,21.4 kmpl,5,Blue,1197 CC,83.1bhp,115Nm
+278,2018 Maruti Baleno,2018,Dec-18,Petrol,47434,1197 cc,1st Owner,DL2C,Manual,Third Party insurance,556500,584325,770868,21.01 kmpl,5,Other,1197 CC,81.80bhp,113Nm
+279,2016 Maruti Baleno,2016,Dec-16,Petrol,44802,1197 cc,1st Owner,UP14,Automatic,Third Party insurance,531500,558075,818906,21.4 kmpl,5,Blue,1197 CC,83.1bhp,115Nm
+280,2018 Maruti Baleno,2018,Dec-18,Petrol,47434,1197 cc,1st Owner,DL2C,Manual,Third Party insurance,556500,584325,770868,21.01 kmpl,5,Other,1197 CC,81.80bhp,113Nm
+281,2017 Hyundai i20 Active,2015,May-17,Diesel,79238,1396 cc,1st Owner,HR26,Manual,Third Party insurance,568450,596873,1013213,21.19 kmpl,16,5,1396 CC,88.73bhp,220Nm
+282,2016 Maruti Swift Dzire,2015,Jan-16,Diesel,64352,1248 cc,2nd Owner,HR26,Automatic,Third Party insurance,500000,525000,967289,26.59 kmpl,15,5,1248 CC,74bhp,190Nm
+283,2015 Hyundai Grand i10,2015,Jun-15,Petrol,73504,1197 cc,1st Owner,7 2021,Automatic,Manual,366500,384825,554801,18.9 kmpl,5,Other,1197 CC,82bhp,114Nm
+284,2016 Maruti Ciaz,2015,Jan-16,Diesel,54217,1248 cc,1st Owner,1 2022,Automatic,Manual,550000,577500,1233072,26.21 kmpl,16,5,1248 CC,88.5bhp,200Nm
+285,2016 Maruti Ciaz,2016,Jul-16,Diesel,79481,1248 cc,1st Owner,DL2C,Manual,Not Available,560000,588000,1013340,28.09 kmpl,15,5,1248 CC,88.5bhp,200Nm
+286,2015 Honda City,2015,Jul-15,Petrol,64284,1497 cc,2nd Owner,DL4C,Manual,Third Party insurance,565000,593250,983215,16.8 kmpl,15,5,1497 CC,116.4bhp,146Nm
+287,2018 Maruti Swift,2018,Nov-18,Petrol,28911,1197 cc,2nd Owner,HR26,Manual,Third Party insurance,502500,527625,548926,22 kmpl,5,Other,1197 CC,81.80bhp,113Nm
+288,2016 Maruti Swift,2015,Jan-16,Diesel,78623,1248 cc,1st Owner,DL14,Manual,Third Party insurance,385000,404250,739378,25.2 kmpl,5,Silver,1248 CC,74bhp,190Nm
+289,2021 Maruti Alto 800,2020,Jan-21,Petrol,1877,796 cc,1st Owner,HR51,Manual,Third Party insurance,371000,389550,387364,24.7 kmpl,5,Grey,796 CC,47.3bhp,69Nm
+290,2012 Maruti Swift,2012,Apr-12,Petrol,56610,1197 cc,1st Owner,8 2021,Automatic,Manual,324000,340200,568357,18.6 kmpl,14,5,1197 CC,85.8bhp,114Nm
+291,2020 Maruti S-Presso,2020,Mar-20,Petrol,10289,998 cc,1st Owner,3 2022,Automatic,Manual,445000,467250,533080,21.7 kmpl,5,White,998 CC,67.05bhp,90nm
+292,2015 Maruti Alto K10,2015,Oct-15,Petrol,60606,998 cc,1st Owner,DL2C,Manual,Third Party insurance,279500,293475,431144,23.95 kmpl,5,White,998 CC,67.05bhp,90Nm
+293,2014 Skoda Rapid,2014,Sep-14,Diesel,67574,1598 cc,1st Owner,DL6C,Manual,Third Party insurance,356000,373800,1113044,20.5 kmpl,15,5,1598 CC,103.5bhp,250Nm
+294,2015 Maruti Swift,2015,Mar-15,Diesel,83833,1248 cc,2nd Owner,DL5C,Manual,Third Party insurance,423870,445064,798110,28.4 kmpl,5,White,1248 CC,74bhp,190Nm
+295,2018 Hyundai i20,2018,Sep-18,Petrol,59908,1197 cc,1st Owner,UP14,Manual,Third Party insurance,644500,676725,1092123,21 kmpl,R16,5,1197 CC,81.86bhp,114.74nm
+296,2014 Hyundai Xcent,2014,May-14,Diesel,59908,1120 cc,1st Owner,DL3C,Manual,Third Party insurance,327264,343627,793585,24.4 kmpl,5,White,1120 CC,71bhp,180.4Nm
+297,2015 Honda Brio,2014,Jan-15,Petrol,38558,1198 cc,1st Owner,DL9C,Manual,Third Party insurance,346000,363300,652299,19.4 kmpl,14,5,1198 CC,86.8bhp,109Nm
+298,2018 Maruti Swift Dzire,2018,Jun-18,Petrol,22316,1197 cc,1st Owner,DL6C,Manual,Third Party insurance,590000,619500,763121,21.21 kmpl,5,White,1197 CC,81.80bhp,113Nm
+299,2019 Maruti Wagon R,2019,Dec-19,Petrol,5627,998 cc,1st Owner,DL2C,Manual,Third Party insurance,473000,496650,567187,21.79 kmpl,5,White,998 CC,67.05bhp,90Nm
+300,2014 Hyundai i20,2014,Aug-14,Diesel,90555,1396 cc,1st Owner,DL8C,Manual,Not Available,320000,336000,767891,21.9 kmpl,14,5,1396 CC,88.8bhp,219.7Nm
+301,2015 Maruti Ciaz,2015,Aug-15,Petrol,97767,1373 cc,2nd Owner,DL05,Automatic,Third Party insurance,558000,585900,1111924,19.12 kmpl,15,5,1373 CC,91.1bhp,130Nm
+302,2019 Maruti Swift Dzire,2019,Nov-19,Petrol,26306,1197 cc,1st Owner,HR26,Manual,Third Party insurance,637000,668850,739792,22 kmpl,5,White,1197 CC,81.80bhp,113Nm
+303,2016 Honda Jazz,2016,Apr-16,Petrol,58033,1199 cc,1st Owner,DL9C,Automatic,Third Party insurance,507500,532875,957918,19 kmpl,15,5,1199 CC,88.7bhp,110Nm
+304,2017 Maruti Swift,2017,Mar-17,Diesel,97204,1248 cc,1st Owner,DL11,Manual,Not Available,425000,446250,715853,28.4 kmpl,5,Grey,1248 CC,74bhp,190Nm
+305,2017 Hyundai i20,2017,Apr-17,Petrol,36375,1197 cc,1st Owner,DL12,Manual,Third Party insurance,562000,590100,925863,21 kmpl,5,Other,1197 CC,81.86bhp,114.74nm
+306,2016 Maruti Ciaz,2016,Jul-16,Diesel,36375,1248 cc,1st Owner,DL3C,Manual,Third Party insurance,521016,547067,938671,28.09 kmpl,5,Other,1248 CC,88.5bhp,200Nm
+307,2017 Maruti Alto K10,2017,Aug-17,Petrol,59523,998 cc,1st Owner,UP16,Automatic,Third Party insurance,320500,336525,496119,23.95 kmpl,5,Grey,998 CC,67.05bhp,90Nm
+308,2016 Maruti Ciaz,2016,Apr-16,Diesel,55985,1248 cc,2nd Owner,DL2C,Manual,Third Party insurance,525000,551250,892396,28.09 kmpl,5,Silver,1248 CC,88.5bhp,200Nm
+309,2018 Hyundai i20,2018,Apr-18,Diesel,48193,1396 cc,1st Owner,HR51,Manual,Third Party insurance,650000,682500,961683,22.54 kmpl,16,5,1396 CC,88.73bhp,219.7Nm
+310,2016 Hyundai i20,2015,Jan-16,Petrol,40750,1197 cc,1st Owner,KA41,Manual,Third Party insurance,610000,640500,742655,18.6 kmpl,5,Red,1197 CC,81.83bhp,114.7Nm
+311,2014 Honda City,2014,Dec-14,Petrol,98390,1498 cc,1st Owner,HR26,Manual,Third Party insurance,583500,612675,1426816,17.8 kmpl,R16,5,1498 CC,119.35bhp,145nm
+312,2015 Hyundai i20,2015,Feb-15,Diesel,59646,1396 cc,1st Owner,DL12,Manual,Third Party insurance,544668,571901,900126,22.54 kmpl,16,5,1396 CC,88.73bhp,219.7Nm
+313,2018 Maruti Vitara Brezza,2018,Nov-18,Diesel,37901,1248 cc,1st Owner,10 2021,Automatic,Automatic,906000,951300,1061702,24.3 kmpl,16,5,1248 CC,88.5bhp,200Nm
+314,2015 Maruti Swift Dzire,2015,Nov-15,Diesel,66420,1248 cc,1st Owner,DL8C,Manual,Third Party insurance,410000,430500,724227,26.59 kmpl,5,Grey,1248 CC,74bhp,190Nm
+315,2016 Maruti Vitara Brezza,2016,Dec-16,Diesel,78612,1248 cc,1st Owner,DL3C,Manual,Not Available,631500,663075,903820,24.3 kmpl,5,Red,1248 CC,88.5bhp,200Nm
+316,2016 Hyundai i20,2016,Oct-16,Diesel,78612,1396 cc,1st Owner,DL2C,Manual,Third Party insurance,479976,503975,885355,22.54 kmpl,5,Other,1396 CC,88.73bhp,219.7Nm
+317,2016 Ford Ecosport,2016,Nov-16,Diesel,85775,1498 cc,1st Owner,DL10,Manual,Third Party insurance,586500,615825,1041499,21.7 kmpl,5,White,1498 CC,98.96bhp,215Nm
+318,2011 Toyota Etios Liva,2011,Feb-11,Petrol,85775,1197 cc,1st Owner,DL14,Manual,Third Party insurance,270000,283500,704996,18.3 kmpl,15,5,1197 CC,78.9bhp,104Nm
+319,2019 Hyundai Xcent,2018,May-19,Diesel,45989,1186 cc,1st Owner,DL2C,Manual,Third Party insurance,460000,483000,781394,25.4 kmpl,5,White,1186 CC,73.97bhp,190.24nm
+320,2020 Tata Tiago,2019,Jan-20,Petrol,9545,1199 cc,1st Owner,DL2C,Manual,Not Available,548739,576176,593068,23.84 kmpl,5,Other,1199 CC,83.83bhp,114Nm
+321,2016 Honda Jazz,2015,Jun-16,Diesel,9545,1498 cc,1st Owner,DL4C,Manual,Third Party insurance,696000,730800,924763,27.3 kmpl,5,Other,1498 CC,98.6bhp,200Nm
+322,2014 Honda City,2014,Jan-14,Diesel,65911,1498 cc,2nd Owner,DL4C,Manual,Third Party insurance,482190,506300,1266426,26 kmpl,15,5,1498 CC,98.6bhp,200Nm
+323,2014 Maruti Swift Dzire,2014,Dec-14,Petrol,65911,1197 cc,1st Owner,DL4C,Manual,Not Available,416500,437325,618697,19.1 kmpl,14,5,1197 CC,85.8bhp,114Nm
+324,2014 Maruti Swift,2014,Mar-14,Diesel,72627,1248 cc,1st Owner,DL9C,Manual,Third Party insurance,414000,434700,798110,28.4 kmpl,5,Silver,1248 CC,74bhp,190Nm
+325,2015 Honda Jazz,2015,Sep-15,Petrol,61289,1199 cc,2nd Owner,DL12,Manual,Third Party insurance,433458,455131,750828,18.7 kmpl,5,White,1199 CC,88.7bhp,110Nm
+326,2014 Maruti Ciaz,2014,Dec-14,Diesel,96723,1248 cc,1st Owner,DL6C,Manual,Third Party insurance,490500,515025,1016745,26.21 kmpl,5,Other,1248 CC,88.5bhp,200Nm
+327,2016 Maruti Baleno,2016,May-16,Petrol,58078,1197 cc,1st Owner,DL2C,Manual,Not Available,520500,546525,770868,21.01 kmpl,5,White,1197 CC,81.80bhp,113Nm
+328,2012 Maruti Swift,2012,May-12,Diesel,36586,1248 cc,1st Owner,DL9C,Manual,Third Party insurance,343000,360150,717885,22.9 kmpl,14,5,1248 CC,74bhp,190Nm
+329,2015 Hyundai Verna,2015,Apr-15,Diesel,33619,1582 cc,1st Owner,UP14,Manual,Not Available,614000,644700,1248939,23.9 kmpl,16,5,1582 CC,126.32bhp,259.8Nm
+330,2016 Maruti Swift,2016,Jul-16,Petrol,49881,1197 cc,1st Owner,DL2C,Manual,Third Party insurance,428500,449925,529062,20.4 kmpl,5,Other,1197 CC,81.80bhp,113Nm
+331,2019 Maruti Alto 800,2019,Mar-19,Petrol,25903,796 cc,1st Owner,DL1C,Manual,Third Party insurance,317000,332850,341819,24.7 kmpl,5,Other,796 CC,47.3bhp,69Nm
+332,2016 Maruti Swift,2015,Apr-16,Diesel,58562,1248 cc,1st Owner,DL2C,Manual,Third Party insurance,416000,436800,659939,25.2 kmpl,5,Other,1248 CC,74bhp,190Nm
+333,2014 Maruti Swift,2014,Apr-14,Diesel,43955,1248 cc,1st Owner,3 2022,Automatic,Manual,340000,357000,715853,28.4 kmpl,5,Other,1248 CC,74bhp,190Nm
+334,2018 Maruti Alto K10,2018,Apr-18,Petrol,47399,998 cc,1st Owner,DL2C,Manual,Third Party insurance,347136,364493,431144,23.95 kmpl,5,Grey,998 CC,67.05bhp,90Nm
+335,2017 Maruti Swift,2016,Jan-17,Diesel,60637,1248 cc,1st Owner,DL2C,Manual,Third Party insurance,462000,485100,755766,25.2 kmpl,5,Other,1248 CC,74bhp,190Nm
+336,2019 Maruti Alto K10,2019,Oct-19,Petrol,7888,998 cc,1st Owner,DL1C,Manual,Third Party insurance,414500,435225,431144,23.95 kmpl,5,Other,998 CC,67.05bhp,90Nm
+337,2015 Honda Brio,2014,Apr-15,Petrol,26813,1198 cc,1st Owner,DL10,Automatic,Third Party insurance,510366,535884,765998,16.5 kmpl,14,5,1198 CC,86.8bhp,109Nm
+338,2013 Maruti Swift,2013,Apr-13,Diesel,55537,1248 cc,1st Owner,DL13,Manual,Third Party insurance,312500,328125,724868,22.9 kmpl,14,5,1248 CC,74bhp,190Nm
+339,2012 Maruti Swift,2012,Mar-12,Petrol,25394,1197 cc,1st Owner,DL9C,Manual,Third Party insurance,371500,390075,548912,18.6 kmpl,14,5,1197 CC,85.8bhp,114Nm
+340,2012 Volkswagen Vento,2012,Sep-12,Diesel,85123,1598 cc,1st Owner,DL10,Manual,Third Party insurance,307500,322875,1209038,20.54 kmpl,15,5,1598 CC,103.6bhp,250Nm
+341,2013 Maruti Swift Dzire,2013,Jun-13,Diesel,75361,1248 cc,1st Owner,DL9C,Manual,Third Party insurance,387000,406350,772281,23.4 kmpl,14,5,1248 CC,74bhp,190Nm
+342,2017 Maruti Ciaz,2016,Mar-17,Diesel,76072,1248 cc,1st Owner,DL8C,Manual,Third Party insurance,538000,564900,938671,28.09 kmpl,5,Other,1248 CC,88.5bhp,200Nm
+343,2018 Maruti Swift,2018,Nov-18,Diesel,67922,1248 cc,1st Owner,HR13,Manual,Third Party insurance,525000,551250,661979,28.4 kmpl,5,Other,1248 CC,74bhp,190Nm
+344,2016 Maruti Baleno,2016,Jul-16,Diesel,47156,1248 cc,1st Owner,DL9C,Manual,Third Party insurance,558168,586076,989915,27.39 kmpl,R16,5,1248 CC,74bhp,190Nm
+345,2018 Hyundai i20,2018,Apr-18,Petrol,10443,1197 cc,1st Owner,DL4C,Manual,Third Party insurance,603000,633150,680953,18.6 kmpl,5,White,1197 CC,81.83bhp,114.7Nm
+346,2017 Maruti Vitara Brezza,2017,Mar-17,Diesel,82513,1248 cc,1st Owner,DL2C,Manual,Third Party insurance,730752,767290,1016982,24.3 kmpl,16,5,1248 CC,88.5bhp,200Nm
+347,2013 Maruti Swift Dzire,2013,Sep-13,Diesel,82513,1248 cc,1st Owner,DL13,Manual,Third Party insurance,280000,294000,663165,23.4 kmpl,14,5,1248 CC,74bhp,190Nm
+348,2013 Hyundai i10,2013,Mar-13,Petrol,47884,1197 cc,2nd Owner,DL7C,Manual,Third Party insurance,269500,282975,508741,20.36 kmpl,13,5,1197 CC,78.9bhp,111.7Nm
+349,2016 Maruti Baleno,2015,Jan-16,Diesel,63529,1248 cc,1st Owner,DL3C,Manual,Third Party insurance,550000,577500,989915,27.39 kmpl,R16,5,1248 CC,74bhp,190Nm
+350,2020 Maruti S-Presso,2019,Mar-20,Petrol,10020,998 cc,1st Owner,HR87,Manual,Third Party insurance,426000,447300,510000,21.7 kmpl,5,Orange,998 CC,67.05bhp,90nm
+351,2013 Hyundai Verna,2013,Jan-13,Diesel,69239,1582 cc,1st Owner,DL8C,Manual,Third Party insurance,414000,434700,1232294,22.32 kmpl,16,5,1582 CC,126.32bhp,259.8Nm
+352,2013 Maruti Swift Dzire,2013,Nov-13,Diesel,54025,1248 cc,1st Owner,DL2C,Manual,Third Party insurance,413243,433905,772281,23.4 kmpl,14,5,1248 CC,74bhp,190Nm
+353,2016 Maruti Ciaz,2016,Jun-16,Diesel,69653,1248 cc,2nd Owner,DL1C,Manual,Third Party insurance,621500,652575,1013340,28.09 kmpl,15,5,1248 CC,88.5bhp,200Nm
+354,2015 Maruti Swift Dzire,2014,Jan-15,Diesel,98563,1248 cc,1st Owner,DL1C,Manual,Third Party insurance,417000,437850,824977,26.59 kmpl,5,Other,1248 CC,74bhp,190Nm
+355,2015 Ford Ecosport,2015,Dec-15,Diesel,87208,1498 cc,1st Owner,HR10,Manual,Third Party insurance,539500,566475,1049387,23 kmpl,5,White,1498 CC,98.96bhp,205Nm
+356,2015 Honda City,2015,Jan-15,Diesel,57857,1498 cc,1st Owner,DL12,Manual,Third Party insurance,561500,589575,1266426,26 kmpl,15,5,1498 CC,98.6bhp,200Nm
+357,2017 Maruti Baleno,2017,May-17,Petrol,39462,1197 cc,1st Owner,DL2C,Automatic,Third Party insurance,568000,596400,818906,21.4 kmpl,5,Blue,1197 CC,83.1bhp,115Nm
+358,2017 Maruti Vitara Brezza,2017,Apr-17,Diesel,58713,1248 cc,1st Owner,HR19,Manual,Third Party insurance,667500,700875,884878,24.3 kmpl,5,Grey,1248 CC,88.5bhp,200Nm
+359,2011 Hyundai i10,2011,May-11,Petrol,55107,1197 cc,2nd Owner,HR26,Automatic,Third Party insurance,299000,313950,586549,16.95 kmpl,13,5,1197 CC,78.9bhp,111.8Nm
+360,2013 Maruti Swift,2013,Nov-13,Diesel,74496,1248 cc,1st Owner,DL2C,Manual,Third Party insurance,303283,318447,613393,22.9 kmpl,14,5,1248 CC,74bhp,190Nm
+361,2019 Maruti Alto K10,2019,Feb-19,Petrol,4383,998 cc,1st Owner,DL3C,Manual,Third Party insurance,378500,397425,416865,23.95 kmpl,5,White,998 CC,67.05bhp,90Nm
+362,2012 Maruti Swift Dzire,2012,Mar-12,Diesel,4383,1248 cc,1st Owner,HR51,Manual,Third Party insurance,313500,329175,764834,23.4 kmpl,14,5,1248 CC,74bhp,190Nm
+363,2013 Maruti Swift,2013,Nov-13,Diesel,92225,1248 cc,1st Owner,DL5C,Manual,Third Party insurance,363843,382035,724868,22.9 kmpl,14,5,1248 CC,74bhp,190Nm
+364,2017 Hyundai Verna,2016,Jan-17,Diesel,92225,1582 cc,1st Owner,DL8C,Manual,Third Party insurance,622000,653100,1325779,23.9 kmpl,16,5,1582 CC,126.2bhp,259.9Nm
+365,2017 Hyundai i20,2017,Aug-17,Diesel,68644,1396 cc,1st Owner,DL3C,Manual,Third Party insurance,655500,688275,1060880,22.54 kmpl,16,5,1396 CC,88.73bhp,219.7Nm
+366,2012 Hyundai i20,2012,Feb-12,Diesel,86803,1396 cc,1st Owner,DL2C,Manual,Third Party insurance,295000,309750,810247,21.9 kmpl,14,5,1396 CC,88.76bhp,219.6Nm
+367,2019 Maruti Baleno,2019,Apr-19,Petrol,27729,1197 cc,1st Owner,HR26,Manual,Third Party insurance,655000,687750,845259,21.01 kmpl,R16,5,1197 CC,81.80bhp,113Nm
+368,2017 Maruti Ciaz,2017,Oct-17,Petrol,24238,1373 cc,2nd Owner,DL8C,Manual,Third Party insurance,690414,724935,910329,20.73 kmpl,5,Other,1373 CC,91.1bhp,130Nm
+369,2013 Maruti Swift,2012,Jan-13,Diesel,82325,1248 cc,1st Owner,DL3C,Manual,Third Party insurance,349000,366450,724868,22.9 kmpl,14,5,1248 CC,74bhp,190Nm
+370,2018 Maruti Ignis,2018,Jul-18,Petrol,31692,1197 cc,1st Owner,DL8C,Manual,Third Party insurance,501984,527083,588386,20.89 kmpl,5,Grey,1197 CC,81.80bhp,113Nm
+371,2016 Maruti Wagon R,2016,Dec-16,Petrol,66058,998 cc,2nd Owner,HR26,Automatic,Third Party insurance,365500,383775,540038,20.51 kmpl,5,Grey,998 CC,67bhp,90Nm
+372,2012 Maruti Alto K10,2012,Nov-12,Petrol,15979,998 cc,1st Owner,11 2021,Automatic,Manual,220000,231000,346530,20.92 kmpl,13,5,998 CC,67.1bhp,90Nm
+373,2014 Ford Ecosport,2014,Dec-14,Diesel,63247,1498 cc,1st Owner,12 2021,Automatic,Manual,537500,564375,1126257,21.7 kmpl,R16,5,1498 CC,98.96bhp,215Nm
+374,2017 Maruti Baleno,2017,Dec-17,Diesel,66476,1248 cc,1st Owner,DL6C,Manual,Not Available,570000,598500,949889,27.39 kmpl,16,5,1248 CC,74bhp,190Nm
+375,2018 Hyundai Grand i10,2018,May-18,Petrol,12697,1197 cc,1st Owner,DL4C,Manual,Not Available,496500,521325,704091,18.9 kmpl,5,Other,1197 CC,81.86bhp,113.75nm
+376,2017 Maruti Ciaz,2017,Jul-17,Diesel,89418,1248 cc,1st Owner,DL9C,Manual,Third Party insurance,565000,593250,938671,28.09 kmpl,5,Other,1248 CC,88.5bhp,200Nm
+377,2013 Honda Brio,2013,Jul-13,Petrol,79651,1198 cc,2nd Owner,DL4C,Manual,Third Party insurance,272500,286125,531159,19.4 kmpl,5,Other,1198 CC,86.8bhp,109Nm
+378,2012 Toyota Etios,2012,Aug-12,Diesel,67585,1364 cc,1st Owner,HR29,Manual,Third Party insurance,297000,311850,903525,23.59 kmpl,White,,1364 CC,15,5
+379,2016 Maruti Wagon R,2016,Dec-16,Petrol,66058,998 cc,2nd Owner,HR26,Automatic,Third Party insurance,365500,383775,540038,20.51 kmpl,5,Grey,998 CC,67bhp,90Nm
+380,2012 Maruti Alto K10,2012,Nov-12,Petrol,15979,998 cc,1st Owner,11 2021,Automatic,Manual,220000,231000,346530,20.92 kmpl,13,5,998 CC,67.1bhp,90Nm
+381,2014 Ford Ecosport,2014,Dec-14,Diesel,63247,1498 cc,1st Owner,12 2021,Automatic,Manual,537500,564375,1126257,21.7 kmpl,R16,5,1498 CC,98.96bhp,215Nm
+382,2017 Maruti Baleno,2017,Dec-17,Diesel,66476,1248 cc,1st Owner,DL6C,Manual,Not Available,570000,598500,949889,27.39 kmpl,16,5,1248 CC,74bhp,190Nm
+383,2018 Hyundai Grand i10,2018,May-18,Petrol,12697,1197 cc,1st Owner,DL4C,Manual,Not Available,496500,521325,704091,18.9 kmpl,5,Other,1197 CC,81.86bhp,113.75nm
+384,2017 Maruti Ciaz,2017,Jul-17,Diesel,89418,1248 cc,1st Owner,DL9C,Manual,Third Party insurance,565000,593250,938671,28.09 kmpl,5,Other,1248 CC,88.5bhp,200Nm
+385,2013 Honda Brio,2013,Jul-13,Petrol,79651,1198 cc,2nd Owner,DL4C,Manual,Third Party insurance,272500,286125,531159,19.4 kmpl,5,Other,1198 CC,86.8bhp,109Nm
+386,2014 Maruti Swift,2014,Mar-14,Diesel,72627,1248 cc,1st Owner,DL9C,Manual,Third Party insurance,414000,434700,798110,28.4 kmpl,5,Silver,1248 CC,74bhp,190Nm
+387,2012 Toyota Etios,2012,Aug-12,Diesel,67585,1364 cc,1st Owner,HR29,Manual,Third Party insurance,297000,311850,903525,23.59 kmpl,White,,1364 CC,15,5
+388,2016 Maruti Swift,2016,Jul-16,Petrol,49881,1197 cc,1st Owner,DL2C,Manual,Third Party insurance,428500,449925,529062,20.4 kmpl,5,Other,1197 CC,81.80bhp,113Nm
+389,2013 Maruti Swift Dzire,2013,Jul-13,Diesel,93558,1248 cc,2nd Owner,DL3C,Manual,Third Party insurance,300000,315000,663165,23.4 kmpl,14,5,1248 CC,74bhp,190Nm
+390,2014 Hyundai Xcent,2014,Jun-14,Diesel,92705,1186 cc,1st Owner,DL8C,Manual,Third Party insurance,285000,299250,847726,25.4 kmpl,5,Silver,1186 CC,73.97bhp,190.25nm
+391,2017 Maruti Swift,2017,Sep-17,Petrol,42412,1197 cc,1st Owner,DL4C,Manual,Not Available,440000,462000,529062,20.4 kmpl,5,Grey,1197 CC,81.80bhp,113Nm
+392,2013 Hyundai Verna,2013,Dec-13,Diesel,66997,1396 cc,1st Owner,DL9C,Manual,Third Party insurance,425000,446250,1037801,23.5 kmpl,15,5,1396 CC,88.7bhp,219.9Nm
+393,2018 Hyundai i20,2018,Aug-18,Petrol,42964,1197 cc,1st Owner,UP14,Manual,Third Party insurance,600000,630000,747935,18.6 kmpl,5,White,1197 CC,81.83bhp,114.7Nm
+394,2013 Hyundai Verna,2013,Oct-13,Diesel,83401,1582 cc,1st Owner,DL1C,Manual,Third Party insurance,427000,448350,1232294,22.32 kmpl,16,5,1582 CC,126.32bhp,259.8Nm
+395,2017 Maruti Ciaz,2016,Mar-17,Diesel,76072,1248 cc,1st Owner,DL8C,Manual,Third Party insurance,538000,564900,938671,28.09 kmpl,5,Other,1248 CC,88.5bhp,200Nm
+396,2017 Maruti Ignis,2017,Feb-17,Petrol,23615,1197 cc,1st Owner,DL9C,Manual,Third Party insurance,470000,493500,588386,20.89 kmpl,5,Other,1197 CC,81.80bhp,113Nm
+397,2017 Maruti Alto 800,2017,Nov-17,Petrol,47311,796 cc,1st Owner,HR23,Manual,Third Party insurance,240000,252000,443215,22.05 kmpl,5,White,796 CC,47.33bhp,69Nm
+398,2011 Hyundai i10,2011,Nov-11,Petrol,41311,1197 cc,1st Owner,DL10,Manual,Third Party insurance,266500,279825,508741,20.36 kmpl,13,5,1197 CC,78.9bhp,111.7Nm
+399,2014 Honda City,2014,Feb-14,Diesel,92150,1498 cc,1st Owner,DL13,Manual,Third Party insurance,524500,550725,1190405,26 kmpl,5,Other,1498 CC,98.6bhp,200Nm
+400,2014 Hyundai Xcent,2014,Jun-14,Diesel,92705,1186 cc,1st Owner,DL8C,Manual,Third Party insurance,285000,299250,847726,25.4 kmpl,5,Silver,1186 CC,73.97bhp,190.25nm
+401,2017 Maruti Swift,2017,Sep-17,Petrol,42412,1197 cc,1st Owner,DL4C,Manual,Not Available,440000,462000,529062,20.4 kmpl,5,Grey,1197 CC,81.80bhp,113Nm
+402,2013 Hyundai Verna,2013,Dec-13,Diesel,66997,1396 cc,1st Owner,DL9C,Manual,Third Party insurance,425000,446250,1037801,23.5 kmpl,15,5,1396 CC,88.7bhp,219.9Nm
+403,2018 Hyundai i20,2018,Aug-18,Petrol,42964,1197 cc,1st Owner,UP14,Manual,Third Party insurance,600000,630000,747935,18.6 kmpl,5,White,1197 CC,81.83bhp,114.7Nm
+404,2013 Hyundai Verna,2013,Oct-13,Diesel,83401,1582 cc,1st Owner,DL1C,Manual,Third Party insurance,427000,448350,1232294,22.32 kmpl,16,5,1582 CC,126.32bhp,259.8Nm
+405,2017 Maruti Ignis,2017,Feb-17,Petrol,23615,1197 cc,1st Owner,DL9C,Manual,Third Party insurance,470000,493500,588386,20.89 kmpl,5,Other,1197 CC,81.80bhp,113Nm
+406,2017 Maruti Alto 800,2017,Nov-17,Petrol,47311,796 cc,1st Owner,HR23,Manual,Third Party insurance,240000,252000,443215,22.05 kmpl,5,White,796 CC,47.33bhp,69Nm
+407,2011 Hyundai i10,2011,Nov-11,Petrol,41311,1197 cc,1st Owner,DL10,Manual,Third Party insurance,266500,279825,508741,20.36 kmpl,13,5,1197 CC,78.9bhp,111.7Nm
+408,2014 Maruti Swift Dzire,2014,Mar-14,Diesel,64103,1248 cc,1st Owner,DL3C,Manual,Third Party insurance,370000,388500,764834,23.4 kmpl,14,5,1248 CC,74bhp,190Nm
+409,2015 Hyundai Grand i10,2015,Dec-15,Petrol,32105,1197 cc,2nd Owner,DL8C,Automatic,Third Party insurance,477134,500991,732551,18.9 kmpl,14,5,1197 CC,82bhp,114Nm
+410,2017 Hyundai i20,2017,Aug-17,Petrol,16001,1197 cc,1st Owner,8 2021,Automatic,Manual,615000,645750,808857,18.6 kmpl,16,5,1197 CC,81.83bhp,114.7Nm
+411,2014 Maruti Swift Dzire,2014,Dec-14,Diesel,49470,1248 cc,1st Owner,DL5C,Manual,Third Party insurance,330000,346500,772281,23.4 kmpl,14,5,1248 CC,74bhp,190Nm
+412,2016 Hyundai Verna,2016,Mar-16,Petrol,60820,1591 cc,1st Owner,DL10,Manual,Third Party insurance,637000,668850,1000201,17.01 kmpl,5,Other,1591 CC,121.3bhp,154.9Nm
+413,2013 Maruti Swift Dzire,2013,May-13,Diesel,82171,1248 cc,1st Owner,DL8C,Manual,Third Party insurance,339737,356724,680532,23.4 kmpl,14,5,1248 CC,74bhp,190Nm
+414,2013 Maruti Wagon R Stingray,2013,Oct-13,Petrol,44660,998 cc,1st Owner,DL5C,Manual,Third Party insurance,270000,283500,500291,20.51 kmpl,14,5,998 CC,67.04bhp,90Nm
+415,2014 Maruti Swift Dzire,2014,Aug-14,Petrol,23518,1197 cc,1st Owner,DL14,Manual,Third Party insurance,396654,416487,656611,20.85 kmpl,5,Silver,1197 CC,83.14bhp,115Nm
+416,2014 Ford Ecosport,2014,May-14,Diesel,23518,1498 cc,1st Owner,DL1C,Manual,Third Party insurance,420000,441000,1093783,22.7 kmpl,16,5,1498 CC,89.84bhp,204Nm
+417,2014 Maruti Swift,2014,Jul-14,Diesel,75526,1248 cc,1st Owner,UP16,Manual,Third Party insurance,350000,367500,790410,28.4 kmpl,5,White,1248 CC,74bhp,190Nm
+418,2020 Maruti Wagon R,2019,Feb-20,Petrol,14720,1197 cc,1st Owner,2 2022,Automatic,Automatic,551000,578550,693338,20.52 kmpl,5,White,1197 CC,81.80bhp,113Nm
+419,2014 Maruti Wagon R,2014,May-14,Petrol,64651,998 cc,1st Owner,UP80,Manual,Third Party insurance,300000,315000,618331,21.79 kmpl,5,White,998 CC,67.05bhp,90Nm
+420,2016 Mahindra TUV 300,2016,Feb-16,Diesel,28313,1493 cc,1st Owner,DL10,Manual,Third Party insurance,550500,578025,1082487,18.49 kmpl,15,7,1493 CC,100bhp,240Nm
+421,2019 Hyundai Grand i10,2019,Dec-19,Petrol,23943,1197 cc,1st Owner,DL1C,Manual,Third Party insurance,494000,518700,665921,18.9 kmpl,5,Silver,1197 CC,81.86bhp,113.75nm
+422,2014 Nissan Terrano,2014,Oct-14,Diesel,85542,1461 cc,2nd Owner,HR26,Manual,Not Available,431500,453075,1531097,19.01 kmpl,16,5,1461 CC,108.5bhp,248Nm
+423,2017 Honda Amaze,2017,Jul-17,Petrol,15703,1198 cc,2nd Owner,DL9C,Manual,Third Party insurance,540500,567525,729793,17.8 kmpl,5,Other,1198 CC,86.7bhp,109Nm
+424,2013 Honda Amaze,2013,Jun-13,Diesel,15703,1498 cc,1st Owner,DL9C,Manual,Third Party insurance,252500,265125,715628,25.8 kmpl,5,Other,1498 CC,98.6bhp,200Nm
+425,2016 Maruti Ciaz,2016,Oct-16,Diesel,78494,1248 cc,1st Owner,DL5C,Manual,Third Party insurance,520000,546000,938671,28.09 kmpl,5,Other,1248 CC,88.5bhp,200Nm
+426,2018 Hyundai i20,2018,Mar-18,Petrol,40899,1197 cc,1st Owner,3 2022,Automatic,Manual,645000,677250,742016,18.6 kmpl,5,Other,1197 CC,81.83bhp,114.7Nm
+427,2015 Toyota Etios Liva,2014,Jan-15,Diesel,67058,1364 cc,1st Owner,DL2F,Manual,Third Party insurance,429311,450777,749186,23.59 kmpl,5,Other,1364 CC,67.04bhp,170Nm
+428,2018 Maruti Swift,2018,Dec-18,Diesel,27038,1248 cc,1st Owner,DL9C,Manual,Third Party insurance,530000,556500,662597,28.4 kmpl,5,Other,1248 CC,74bhp,190Nm
+429,2013 Maruti Swift Dzire,2013,Jul-13,Diesel,93558,1248 cc,2nd Owner,DL3C,Manual,Third Party insurance,300000,315000,663165,23.4 kmpl,14,5,1248 CC,74bhp,190Nm
+430,2018 Maruti Baleno,2018,Oct-18,Petrol,55956,1197 cc,1st Owner,HR51,Manual,Third Party insurance,490000,514500,775767,21.01 kmpl,5,Grey,1197 CC,81.80bhp,113Nm
+431,2019 Maruti Ciaz,2017,Feb-19,Petrol,24237,1373 cc,2nd Owner,UP14,Manual,Third Party insurance,650000,682500,1073945,20.73 kmpl,16,5,1373 CC,91.1bhp,130Nm
+432,2018 Maruti Vitara Brezza,2018,Apr-18,Diesel,82299,1248 cc,2nd Owner,DL3C,Manual,Third Party insurance,696500,731325,884878,24.3 kmpl,5,Other,1248 CC,88.5bhp,200Nm
+433,2018 Tata Tiago,2018,May-18,Petrol,43855,1199 cc,1st Owner,DL10,Automatic,Third Party insurance,467826,491217,642326,23.84 kmpl,14,5,1199 CC,83.83bhp,114Nm
+434,2015 Hyundai i20,2015,Feb-15,Diesel,79553,1396 cc,1st Owner,DL4C,Manual,Third Party insurance,475000,498750,940506,22.54 kmpl,16,5,1396 CC,88.73bhp,219.7Nm
+435,2012 Hyundai i10,2012,Jun-12,Petrol,64543,1197 cc,1st Owner,DL2C,Automatic,Third Party insurance,326000,342300,586549,16.95 kmpl,13,5,1197 CC,78.9bhp,111.8Nm
+436,2016 Hyundai i20,2016,Aug-16,Petrol,27045,1197 cc,1st Owner,HR51,Manual,Third Party insurance,576000,604800,748579,18.6 kmpl,5,Silver,1197 CC,81.83bhp,114.7Nm
+437,2017 Maruti Alto K10,2016,Feb-17,Petrol,50097,998 cc,1st Owner,HR26,Manual,Third Party insurance,260000,273000,413462,23.95 kmpl,5,Grey,998 CC,67.05bhp,90Nm
+438,2017 Honda Amaze,2017,Aug-17,Petrol,65080,1198 cc,2nd Owner,DL10,Manual,Third Party insurance,405000,425250,697266,17.8 kmpl,5,Brown,1198 CC,86.7bhp,109Nm
+439,2013 Honda Amaze,2013,Jun-13,Diesel,13466,1498 cc,1st Owner,DL9C,Manual,Third Party insurance,252500,265125,715628,25.8 kmpl,5,Other,1498 CC,98.6bhp,200Nm
+440,2016 Maruti Ciaz,2016,Oct-16,Diesel,78494,1248 cc,1st Owner,DL5C,Manual,Third Party insurance,520000,546000,938671,28.09 kmpl,5,Other,1248 CC,88.5bhp,200Nm
+441,2018 Hyundai i20,2018,Mar-18,Petrol,40899,1197 cc,1st Owner,3 2022,Automatic,Manual,645000,677250,742016,18.6 kmpl,5,Other,1197 CC,81.83bhp,114.7Nm
+442,2015 Toyota Etios Liva,2014,Jan-15,Diesel,67058,1364 cc,1st Owner,DL2F,Manual,Third Party insurance,429311,450777,749186,23.59 kmpl,5,Other,1364 CC,67.04bhp,170Nm
+443,2018 Maruti Baleno,2018,Oct-18,Petrol,55956,1197 cc,1st Owner,HR51,Manual,Third Party insurance,490000,514500,775767,21.01 kmpl,5,Grey,1197 CC,81.80bhp,113Nm
+444,2019 Maruti Ciaz,2017,Feb-19,Petrol,24237,1373 cc,2nd Owner,UP14,Manual,Third Party insurance,650000,682500,1073945,20.73 kmpl,16,5,1373 CC,91.1bhp,130Nm
+445,2016 Hyundai Grand i10,2015,May-16,Diesel,56200,1120 cc,1st Owner,HR51,Manual,Third Party insurance,369939,388436,727711,24 kmpl,5,Silver,1120 CC,70bhp,160Nm
+446,2018 Maruti Vitara Brezza,2018,Apr-18,Diesel,82299,1248 cc,2nd Owner,DL3C,Manual,Third Party insurance,696500,731325,884878,24.3 kmpl,5,Other,1248 CC,88.5bhp,200Nm
+447,2018 Tata Tiago,2018,May-18,Petrol,43855,1199 cc,1st Owner,DL10,Automatic,Third Party insurance,467826,491217,642326,23.84 kmpl,14,5,1199 CC,83.83bhp,114Nm
+448,2012 Hyundai i10,2012,Jun-12,Petrol,64543,1197 cc,1st Owner,DL2C,Automatic,Third Party insurance,326000,342300,586549,16.95 kmpl,13,5,1197 CC,78.9bhp,111.8Nm
+449,2017 Maruti Alto K10,2016,Feb-17,Petrol,50097,998 cc,1st Owner,HR26,Manual,Third Party insurance,260000,273000,413462,23.95 kmpl,5,Grey,998 CC,67.05bhp,90Nm
+450,2017 Honda Amaze,2017,Aug-17,Petrol,65080,1198 cc,2nd Owner,DL10,Manual,Third Party insurance,405000,425250,697266,17.8 kmpl,5,Brown,1198 CC,86.7bhp,109Nm
+451,2017 Honda WR-V,2017,Aug-17,Petrol,#VALUE!,1199 cc,1st Owner,HR26,Manual,Third Party insurance,642482,674606,913646,17.5 kmpl,16,5,1199 CC,88.7bhp,110Nm
+452,2018 Maruti Baleno,2018,May-18,Diesel,61659,1248 cc,1st Owner,8 2021,Automatic,Manual,564500,592725,757619,27.39 kmpl,5,White,1248 CC,74bhp,190Nm
+453,2015 Honda Brio,2015,Apr-15,Petrol,40351,1198 cc,2nd Owner,10 2021,Automatic,Manual,366000,384300,595413,18.5 kmpl,5,Grey,1198 CC,86.8bhp,109Nm
+454,2016 Maruti Ciaz,2016,Nov-16,Petrol,24540,1373 cc,1st Owner,11 2021,Automatic,Manual,692500,727125,845051,20.73 kmpl,5,Grey,1373 CC,91.1bhp,130Nm
+455,2016 Mahindra TUV 300,2016,Feb-16,Diesel,28313,1493 cc,1st Owner,DL10,Manual,Third Party insurance,550500,578025,1082487,18.49 kmpl,15,7,1493 CC,100bhp,240Nm
+456,2016 Ford Ecosport,2016,May-16,Diesel,94151,1498 cc,1st Owner,DL8C,Manual,Third Party insurance,480000,504000,990793,21.7 kmpl,5,White,1498 CC,98.96bhp,215Nm
+457,2017 Ford Ecosport,2017,Aug-17,Diesel,22757,1498 cc,1st Owner,8 2021,Automatic,Manual,756000,793800,1031417,21.7 kmpl,5,Silver,1498 CC,98.96bhp,215Nm
+458,2013 Honda Brio,2012,Feb-13,Petrol,56363,1198 cc,2nd Owner,HR51,Manual,Third Party insurance,290220,304731,472946,19.4 kmpl,5,White,1198 CC,86.8bhp,109Nm
+459,2017 Honda WR-V,2017,Aug-17,Petrol,#VALUE!,1199 cc,1st Owner,HR26,Manual,Third Party insurance,642482,674606,913646,17.5 kmpl,16,5,1199 CC,88.7bhp,110Nm
+460,2015 Honda Brio,2015,Apr-15,Petrol,40351,1198 cc,2nd Owner,10 2021,Automatic,Manual,366000,384300,595413,18.5 kmpl,5,Grey,1198 CC,86.8bhp,109Nm
+461,2011 Hyundai i20,2011,Dec-11,Petrol,69356,1197 cc,2nd Owner,HR26,Manual,Third Party insurance,300000,315000,547106,18.5 kmpl,14,5,1197 CC,80 PS at 5200 rpm,"11.4 kgm at 4,000 rpm"
+462,2016 Maruti Ciaz,2016,Nov-16,Petrol,24540,1373 cc,1st Owner,11 2021,Automatic,Manual,692500,727125,845051,20.73 kmpl,5,Grey,1373 CC,91.1bhp,130Nm
+463,2016 Ford Ecosport,2016,May-16,Diesel,94151,1498 cc,1st Owner,DL8C,Manual,Third Party insurance,480000,504000,990793,21.7 kmpl,5,White,1498 CC,98.96bhp,215Nm
+464,2017 Ford Ecosport,2017,Aug-17,Diesel,22757,1498 cc,1st Owner,8 2021,Automatic,Manual,756000,793800,1031417,21.7 kmpl,5,Silver,1498 CC,98.96bhp,215Nm
+465,2013 Honda Brio,2012,Feb-13,Petrol,56363,1198 cc,2nd Owner,HR51,Manual,Third Party insurance,290220,304731,472946,19.4 kmpl,5,White,1198 CC,86.8bhp,109Nm
+470,2016 Hyundai Grand i10,2015,May-16,Diesel,56200,1120 cc,1st Owner,HR51,Manual,Third Party insurance,369939,388436,727711,24 kmpl,5,Silver,1120 CC,70bhp,160Nm
+480,2018 Maruti Swift,2018,Dec-18,Diesel,27038,1248 cc,1st Owner,DL9C,Manual,Third Party insurance,530000,556500,662597,28.4 kmpl,5,Other,1248 CC,74bhp,190Nm
+483,2017 Maruti Wagon R,2017,Mar-17,Petrol,55892,998 cc,1st Owner,DL8C,Automatic,Third Party insurance,383000,402150,656752,21.79 kmpl,5,Other,998 CC,67.05bhp,90Nm
+484,2018 Renault KWID,2018,Apr-18,Petrol,10620,799 cc,1st Owner,7 2021,Automatic,Manual,294500,309225,434545,25.17 kmpl,5,Silver,799 CC,53.3bhp,72Nm
+485,2016 Maruti Baleno,2016,Feb-16,Petrol,57059,1197 cc,1st Owner,HR26,Manual,Third Party insurance,489500,513975,684273,21.4 kmpl,5,Silver,1197 CC,83.1bhp,115Nm
+501,2017 Maruti Alto K10,2016,Feb-17,Petrol,50097,998 cc,1st Owner,HR26,Manual,Third Party insurance,260000,273000,413462,23.95 kmpl,5,Grey,998 CC,67.05bhp,90Nm
+502,2016 Maruti Baleno,2016,Feb-16,Petrol,57059,1197 cc,1st Owner,HR26,Manual,Third Party insurance,489500,513975,684273,21.4 kmpl,5,Silver,1197 CC,83.1bhp,115Nm
+508,2018 Maruti Baleno,2018,May-18,Diesel,61659,1248 cc,1st Owner,8 2021,Automatic,Manual,564500,592725,757619,27.39 kmpl,5,White,1248 CC,74bhp,190Nm
+520,2018 Maruti Swift,2018,Dec-18,Diesel,27038,1248 cc,1st Owner,DL9C,Manual,Third Party insurance,530000,556500,662597,28.4 kmpl,5,Other,1248 CC,74bhp,190Nm
+522,2016 Honda Amaze,2016,Feb-16,Petrol,13064,1198 cc,1st Owner,DL09,Manual,Third Party insurance,483500,507675,748569,17.8 kmpl,5,Silver,1198 CC,86.7bhp,109Nm
+523,2017 Maruti Wagon R,2017,Mar-17,Petrol,55892,998 cc,1st Owner,DL8C,Automatic,Third Party insurance,383000,402150,656752,21.79 kmpl,5,Other,998 CC,67.05bhp,90Nm
+524,2018 Renault KWID,2018,Apr-18,Petrol,10620,799 cc,1st Owner,7 2021,Automatic,Manual,294500,309225,434545,25.17 kmpl,5,Silver,799 CC,53.3bhp,72Nm
+525,2016 Maruti Baleno,2016,Feb-16,Petrol,57059,1197 cc,1st Owner,HR26,Manual,Third Party insurance,489500,513975,684273,21.4 kmpl,5,Silver,1197 CC,83.1bhp,115Nm
+526,2017 Maruti Baleno,2016,Jan-17,Diesel,13129,1248 cc,1st Owner,DL11,Manual,Third Party insurance,490928,515474,824733,27.39 kmpl,5,White,1248 CC,74bhp,190Nm
+527,2018 Maruti Swift,2018,Feb-18,Diesel,37075,1248 cc,1st Owner,UP16,Manual,Third Party insurance,629500,660975,790410,28.4 kmpl,5,Grey,1248 CC,74bhp,190Nm
+528,2015 Hyundai Verna,2015,Apr-15,Diesel,57629,1582 cc,2nd Owner,DL9C,Manual,Third Party insurance,540000,567000,1153166,23.9 kmpl,5,White,1582 CC,126.2bhp,259.9Nm
+529,2016 Honda City,2016,Jun-16,Diesel,74389,1498 cc,1st Owner,UP16,Manual,Third Party insurance,520000,546000,1318912,26 kmpl,15,5,1498 CC,98.6bhp,200Nm
+530,2016 Maruti Alto K10,2015,Jan-16,Petrol,85613,998 cc,1st Owner,DL5C,Manual,Third Party insurance,240000,252000,428193,23.95 kmpl,5,Grey,998 CC,67.05bhp,90Nm
+531,2015 Honda City,2015,Jan-15,Diesel,98239,1498 cc,2nd Owner,DL4C,Manual,Third Party insurance,520000,546000,1381753,25.1 kmpl,15,5,1498 CC,98.6bhp,200Nm
+532,2017 Hyundai i20,2016,Jan-17,Petrol,50024,1197 cc,1st Owner,1 2022,Automatic,Manual,550000,577500,940697,18.6 kmpl,16,5,1197 CC,81.86bhp,117nm
+533,2012 Hyundai Santa Fe,2012,Aug-12,Diesel,11887,2199 cc,2nd Owner,UP14,Automatic,Third Party insurance,572500,601125,3768743,13.01 kmpl,18,7,2199 CC,194.3bhp,436.39Nm
+534,2012 Renault Duster,2012,Dec-12,Diesel,57263,1461 cc,2nd Owner,HR26,Manual,Third Party insurance,322000,338100,1148615,20.45 kmpl,16,5,1461 CC,83.8bhp,200Nm
+535,2018 Honda Amaze,2018,Jul-18,Diesel,55790,1498 cc,1st Owner,HR29,Manual,Third Party insurance,650000,682500,1007985,27.4 kmpl,14,5,1498 CC,98.63bhp,200Nm
+536,2017 Hyundai i20,2016,Apr-17,Diesel,97760,1396 cc,1st Owner,HR26,Manual,Third Party insurance,550000,577500,885355,22.54 kmpl,5,Other,1396 CC,88.73bhp,219.7Nm
+537,2018 Maruti Swift Dzire,2018,Oct-18,Petrol,10437,1197 cc,2nd Owner,DL2C,Manual,Third Party insurance,545000,572250,739792,22 kmpl,5,Silver,1197 CC,81.80bhp,113Nm
+538,2015 Hyundai i10,2015,Nov-15,Petrol,63324,1086 cc,1st Owner,UP14,Manual,Third Party insurance,346758,364096,537001,19.81 kmpl,5,Silver,1086 CC,68.05bhp,99.04Nm
+539,2016 Maruti Swift Dzire,2016,Nov-16,Petrol,55795,1197 cc,1st Owner,DL8C,Manual,Third Party insurance,478000,501900,656611,20.85 kmpl,5,Silver,1197 CC,83.14bhp,115Nm
+540,2018 Maruti Eeco,2018,Dec-18,CNG,67748,1196 cc,1st Owner,12 2021,Automatic,Manual,361000,379050,482765,15.1 kmpl,13,5,1196 CC,73bhp,101Nm
+541,2018 Honda WR-V,2018,Mar-18,Petrol,45408,1199 cc,1st Owner,HR30,Manual,Third Party insurance,638979,670928,920955,17.5 kmpl,16,5,1199 CC,88.7bhp,110Nm
+542,2013 Ford Ecosport,2013,Sep-13,Diesel,12447,1498 cc,1st Owner,DL10,Manual,Third Party insurance,370000,388500,959243,23 kmpl,5,Silver,1498 CC,98.96bhp,205Nm
+543,2020 Maruti S-Presso,2020,Aug-20,Petrol,18653,998 cc,1st Owner,DL2C,Manual,Third Party insurance,445000,467250,515596,21.7 kmpl,5,White,998 CC,67.05bhp,90nm
+544,2016 Maruti Baleno,2016,Apr-16,Diesel,36993,1248 cc,1st Owner,DL5C,Manual,Third Party insurance,489000,513450,824733,27.39 kmpl,5,Other,1248 CC,74bhp,190Nm
+545,2019 Tata Tiago,2019,Jun-19,Diesel,63318,1047 cc,1st Owner,DL7C,Manual,Third Party insurance,489500,513975,735389,27.28 kmpl,14,5,1047 CC,69bhp,140Nm
+546,2016 Maruti Wagon R,2016,Nov-16,Petrol,38255,998 cc,1st Owner,UP16,Manual,Third Party insurance,310000,325500,507140,20.51 kmpl,5,White,998 CC,67.04bhp,90Nm
+547,2015 Maruti Swift,2015,Jun-15,Petrol,79620,1197 cc,1st Owner,DL4C,Manual,Not Available,368500,386925,565078,22 kmpl,5,White,1197 CC,81.80bhp,113Nm
+548,2012 Toyota Etios,2012,Aug-12,Diesel,78536,1364 cc,2nd Owner,DL3C,Manual,Third Party insurance,251500,264075,886877,23.59 kmpl,Blue,,1364 CC,15,5
+549,2014 Maruti Swift,2014,Aug-14,Petrol,72983,1197 cc,1st Owner,DL3C,Manual,Third Party insurance,380000,399000,756480,22 kmpl,15,5,1197 CC,81.80bhp,113Nm
+550,2019 Honda Amaze,2019,May-19,Petrol,49218,1199 cc,1st Owner,HR30,Manual,Third Party insurance,640000,672000,822888,19.5 kmpl,5,Other,1199 CC,88.76bhp,110Nm
+551,2021 Renault Triber,2020,Mar-21,Petrol,1581,999 cc,1st Owner,UP14,Manual,Third Party insurance,658500,691425,762027,20 kmpl,7,Red,999 CC,71bhp,96Nm
+552,2017 Hyundai i20,2017,Jun-17,Petrol,47053,1197 cc,1st Owner,DL5C,Manual,Third Party insurance,472000,495600,625164,18.6 kmpl,5,Other,1197 CC,81.83bhp,114.7Nm
+553,2019 Tata Tiago,2019,Jan-19,Petrol,24973,1199 cc,1st Owner,HR26,Manual,Third Party insurance,453500,476175,545452,23.84 kmpl,5,White,1199 CC,84bhp,114Nm
+554,2016 Ford Ecosport,2016,Sep-16,Diesel,51281,1498 cc,1st Owner,HR51,Manual,Third Party insurance,545472,572746,1041499,21.7 kmpl,5,Other,1498 CC,98.96bhp,215Nm
+555,2018 Renault KWID,2017,Feb-18,Petrol,34177,999 cc,1st Owner,DL8C,Manual,Third Party insurance,264606,277836,523815,21.74 kmpl,5,Silver,999 CC,67bhp,91nm
+556,2014 Maruti Swift,2014,Sep-14,Diesel,66737,1248 cc,1st Owner,DL3C,Manual,Third Party insurance,402500,422625,737717,25.2 kmpl,5,Silver,1248 CC,74bhp,190Nm
+557,2015 Maruti Swift,2015,May-15,Petrol,20518,1197 cc,2nd Owner,UP14,Manual,Third Party insurance,385000,404250,529062,20.4 kmpl,5,White,1197 CC,81.80bhp,113Nm
+558,2020 Tata Tiago,2020,Nov-20,Petrol,8020,1199 cc,1st Owner,DL2C,Manual,Third Party insurance,551185,578744,593068,23.84 kmpl,5,Grey,1199 CC,83.83bhp,114Nm
+559,2015 Hyundai i10,2015,Nov-15,Petrol,63324,1086 cc,1st Owner,UP14,Manual,Third Party insurance,346758,364096,537001,19.81 kmpl,5,Silver,1086 CC,68.05bhp,99.04Nm
+560,2019 Volkswagen Ameo,2019,Mar-19,Petrol,61925,999 cc,2nd Owner,DL3C,Manual,Third Party insurance,528144,554551,646116,19.44 kmpl,5,Silver,999 CC,75bhp,95Nm
+561,2018 Maruti Eeco,2018,Dec-18,CNG,67748,1196 cc,1st Owner,12 2021,Automatic,Manual,361000,379050,482765,15.1 kmpl,13,5,1196 CC,73bhp,101Nm
+562,2017 Mahindra KUV 100,2017,Jun-17,Diesel,81577,1198 cc,1st Owner,DL10,Manual,Third Party insurance,370500,389025,762869,25.32 kmpl,6,White,1198 CC,77bhp,190Nm
+563,2018 Honda WR-V,2018,Mar-18,Petrol,45408,1199 cc,1st Owner,HR30,Manual,Third Party insurance,638979,670928,920955,17.5 kmpl,16,5,1199 CC,88.7bhp,110Nm
+564,2013 Ford Ecosport,2013,Sep-13,Diesel,12447,1498 cc,1st Owner,DL10,Manual,Third Party insurance,370000,388500,959243,23 kmpl,5,Silver,1498 CC,98.96bhp,205Nm
+565,2014 Maruti Swift Dzire,2014,Aug-14,Diesel,63004,1248 cc,1st Owner,DL8C,Manual,Not Available,445450,467723,772281,23.4 kmpl,14,5,1248 CC,74bhp,190Nm
+566,2011 Volkswagen Polo,2011,May-11,Petrol,11880,1198 cc,1st Owner,DL7C,Manual,Third Party insurance,271500,285075,688412,16.47 kmpl,15,5,1198 CC,73.9bhp,110Nm
+567,2016 Maruti Baleno,2016,Apr-16,Diesel,36993,1248 cc,1st Owner,DL5C,Manual,Third Party insurance,489000,513450,824733,27.39 kmpl,5,Other,1248 CC,74bhp,190Nm
+568,2019 Tata Tiago,2019,Jun-19,Diesel,63318,1047 cc,1st Owner,DL7C,Manual,Third Party insurance,489500,513975,735389,27.28 kmpl,14,5,1047 CC,69bhp,140Nm
+569,2014 Honda City,2014,Feb-14,Diesel,59218,1498 cc,1st Owner,DL3C,Manual,Third Party insurance,467000,490350,1159321,26 kmpl,5,Black,1498 CC,98.6bhp,200Nm
+570,2016 Maruti Wagon R,2016,Nov-16,Petrol,38255,998 cc,1st Owner,UP16,Manual,Third Party insurance,310000,325500,507140,20.51 kmpl,5,White,998 CC,67.04bhp,90Nm
+571,2012 Toyota Etios,2012,Aug-12,Diesel,78536,1364 cc,2nd Owner,DL3C,Manual,Third Party insurance,251500,264075,886877,23.59 kmpl,Blue,,1364 CC,15,5
+572,2019 Honda Amaze,2019,May-19,Petrol,49218,1199 cc,1st Owner,HR30,Manual,Third Party insurance,640000,672000,822888,19.5 kmpl,5,Other,1199 CC,88.76bhp,110Nm
+573,2020 Maruti Baleno,2020,Jun-20,Petrol,3996,1197 cc,1st Owner,5 2021,Automatic,Manual,579000,607950,598825,21.4 kmpl,5,Grey,1197 CC,83.1bhp,115Nm
+574,2016 Ford Ecosport,2016,Sep-16,Diesel,51281,1498 cc,1st Owner,HR51,Manual,Third Party insurance,545472,572746,1041499,21.7 kmpl,5,Other,1498 CC,98.96bhp,215Nm
+575,2018 Renault KWID,2017,Feb-18,Petrol,34177,999 cc,1st Owner,DL8C,Manual,Third Party insurance,264606,277836,523815,21.74 kmpl,5,Silver,999 CC,67bhp,91nm
+576,2015 Maruti Swift,2015,May-15,Petrol,20518,1197 cc,2nd Owner,UP14,Manual,Third Party insurance,385000,404250,529062,20.4 kmpl,5,White,1197 CC,81.80bhp,113Nm
+577,2020 Tata Tiago,2020,Nov-20,Petrol,8020,1199 cc,1st Owner,DL2C,Manual,Third Party insurance,551185,578744,593068,23.84 kmpl,5,Grey,1199 CC,83.83bhp,114Nm
+578,2015 Maruti Swift,2015,Apr-15,Petrol,54215,1197 cc,1st Owner,DL6C,Manual,Not Available,355000,372750,529062,20.4 kmpl,5,White,1197 CC,81.80bhp,113Nm
+579,2020 Maruti Baleno,2020,Aug-20,Petrol,7173,1197 cc,1st Owner,HR29,Manual,Third Party insurance,578000,606900,598825,21.4 kmpl,5,Other,1197 CC,83.1bhp,115Nm
+580,2013 Maruti Swift Dzire,2013,Mar-13,Diesel,43080,1248 cc,1st Owner,DL8C,Manual,Third Party insurance,360000,378000,764834,23.4 kmpl,14,5,1248 CC,74bhp,190Nm
+581,2018 Maruti Swift Dzire,2018,Feb-18,Petrol,18318,1197 cc,1st Owner,DL9C,Manual,Not Available,560000,588000,762641,22 kmpl,5,White,1197 CC,81.80bhp,113Nm
+582,2015 Maruti Ciaz,2014,Apr-15,Diesel,43248,1248 cc,1st Owner,DL8C,Manual,Not Available,543000,570150,1016745,26.21 kmpl,5,Other,1248 CC,88.5bhp,200Nm
+583,2017 Honda Brio,2017,Sep-17,Petrol,15230,1198 cc,1st Owner,HR26,Manual,Third Party insurance,399000,418950,575000,18.5 kmpl,5,Grey,1198 CC,86.8bhp,109Nm
+584,2015 Ford Ecosport,2015,May-15,Diesel,36775,1498 cc,1st Owner,HR51,Manual,Third Party insurance,556000,583800,1127261,23 kmpl,16,5,1498 CC,98.96bhp,205Nm
+585,2017 Maruti Wagon R,2017,Jun-17,Petrol,41299,998 cc,1st Owner,DL8C,Manual,Third Party insurance,360000,378000,618331,21.79 kmpl,5,Grey,998 CC,67.05bhp,90Nm
+586,2014 Volkswagen Polo,2014,Apr-14,Diesel,68205,1498 cc,2nd Owner,DL9C,Manual,Third Party insurance,285000,299250,835294,20.14 kmpl,5,Grey,1498 CC,88.8bhp,230Nm
+587,2016 Ford Ecosport,2016,May-16,Petrol,57729,1499 cc,1st Owner,HR51,Manual,Third Party insurance,600000,630000,1035545,15.85 kmpl,16,5,1499 CC,110.4bhp,140Nm
+588,2014 Maruti Swift,2014,Aug-14,Petrol,72983,1197 cc,1st Owner,DL3C,Manual,Third Party insurance,380000,399000,756480,22 kmpl,15,5,1197 CC,81.80bhp,113Nm
+589,2016 Maruti Swift Dzire,2016,Aug-16,Petrol,22725,1197 cc,1st Owner,DL2C,Manual,Not Available,480000,504000,656611,20.85 kmpl,5,Other,1197 CC,83.14bhp,115Nm
+590,2017 Maruti Ciaz,2017,Oct-17,Diesel,51421,1248 cc,1st Owner,HR26,Manual,Third Party insurance,580000,609000,1047910,28.09 kmpl,5,Silver,1248 CC,88.50bhp,200Nm
+591,2018 Ford Ecosport,2018,Mar-18,Diesel,80505,1498 cc,2nd Owner,HR21,Manual,Not Available,740000,777000,1294316,23 kmpl,16,5,1498 CC,98.96bhp,205Nm
+592,2017 Hyundai i20,2016,Apr-17,Diesel,97760,1396 cc,1st Owner,HR26,Manual,Third Party insurance,550000,577500,885355,22.54 kmpl,5,Other,1396 CC,88.73bhp,219.7Nm
+593,2017 Ford Figo,2017,Jun-17,Diesel,76998,1498 cc,1st Owner,DL3C,Manual,Third Party insurance,392000,411600,802126,25.83 kmpl,5,White,1498 CC,99bhp,215Nm
+594,2019 Toyota Etios Liva,2019,Oct-19,Petrol,18518,1197 cc,1st Owner,DL9C,Manual,Third Party insurance,620000,651000,655207,17.71 kmpl,5,White,1197 CC,78.9bhp,104Nm
+595,2017 Maruti Swift Dzire,2017,Feb-17,Diesel,66037,1248 cc,1st Owner,UP16,Manual,Third Party insurance,499500,524475,762753,28.4 kmpl,5,Other,1248 CC,74.02bhp,190Nm
+596,2019 Maruti Swift Dzire,2018,Feb-19,Diesel,54348,1248 cc,1st Owner,DL3C,Manual,Third Party insurance,565000,593250,762753,28.4 kmpl,5,White,1248 CC,74.02bhp,190Nm
+597,2019 Maruti Swift,2019,Nov-19,Petrol,12136,1197 cc,1st Owner,HR51,Manual,Third Party insurance,565500,593775,607690,21.21 kmpl,5,White,1197 CC,81.80bhp,113Nm
+598,2014 Honda Amaze,2014,Jun-14,Petrol,15916,1198 cc,2nd Owner,DL3C,Manual,Third Party insurance,390123,409629,680283,18 kmpl,5,Grey,1198 CC,86.7bhp,109Nm
+599,2013 Honda Brio,2013,Apr-13,Petrol,78279,1198 cc,1st Owner,UP16,Manual,Third Party insurance,280000,294000,575000,18.5 kmpl,5,White,1198 CC,86.8bhp,109Nm
+600,2018 Hyundai i20,2018,Apr-18,Petrol,10443,1197 cc,1st Owner,DL4C,Manual,Third Party insurance,603000,633150,680953,18.6 kmpl,5,White,1197 CC,81.83bhp,114.7Nm
+601,2017 Maruti Swift Dzire,2017,Jun-17,Diesel,71549,1248 cc,1st Owner,DL6C,Manual,Third Party insurance,612000,642600,1032622,28.4 kmpl,15,5,1248 CC,74.02bhp,190Nm
+602,2016 Maruti Alto K10,2016,Jul-16,Petrol,39557,998 cc,2nd Owner,DL9C,Manual,Third Party insurance,274000,287700,431144,23.95 kmpl,5,White,998 CC,67.05bhp,90Nm
+603,2019 Maruti Alto K10,2019,Mar-19,Petrol,9747,998 cc,1st Owner,DL8C,Manual,Third Party insurance,376500,395325,431144,23.95 kmpl,5,White,998 CC,67.05bhp,90Nm
+604,2013 Hyundai i10,2013,Sep-13,Petrol,69278,1197 cc,1st Owner,DL10,Manual,Third Party insurance,252343,264960,509082,20.36 kmpl,13,5,1197 CC,78.9bhp,111.7Nm
+605,2017 Maruti Alto K10,2017,Jul-17,Petrol,23354,998 cc,1st Owner,DL3C,Manual,Third Party insurance,327000,343350,431144,23.95 kmpl,5,Grey,998 CC,67.05bhp,90Nm
+606,2016 Hyundai Grand i10,2015,Jan-16,Petrol,41031,1197 cc,2nd Owner,DL8C,Manual,Third Party insurance,365000,383250,671802,18.9 kmpl,5,White,1197 CC,81.86bhp,113.75nm
+607,2019 Honda Amaze,2019,Jan-19,Petrol,24667,1198 cc,1st Owner,DL4C,Manual,Not Available,584000,613200,636686,17.8 kmpl,5,Silver,1198 CC,86.7bhp,109Nm
+608,2017 Maruti Alto K10,2017,Dec-17,Petrol,21200,998 cc,2nd Owner,DL2C,Manual,Third Party insurance,356250,374063,431144,23.95 kmpl,5,Grey,998 CC,67.05bhp,90Nm
+609,2013 Maruti Wagon R,2013,Apr-13,Petrol,56699,998 cc,1st Owner,DL6C,Manual,Third Party insurance,259000,271950,577212,21.79 kmpl,5,Silver,998 CC,67.05bhp,90Nm
+610,2019 Ford Freestyle,2018,Jan-19,Diesel,51752,1498 cc,1st Owner,HR26,Manual,Third Party insurance,614835,645577,894065,24.4 kmpl,15,5,1498 CC,98.63bhp,215Nm
+611,2013 Renault Duster,2012,Jan-13,Diesel,38850,1461 cc,1st Owner,HR26,Manual,Third Party insurance,388500,407925,1200156,20.45 kmpl,16,5,1461 CC,83.8bhp,200Nm
+612,2018 Honda Amaze,2018,Nov-18,Petrol,19549,1199 cc,1st Owner,DL10,Manual,Not Available,610000,640500,863840,18.6 kmpl,R15,5,1199 CC,88.76bhp,110Nm
+613,2018 Maruti Alto 800,2018,Apr-18,Petrol,49645,796 cc,1st Owner,HR51,Manual,Third Party insurance,297523,312399,387363,24.7 kmpl,5,White,796 CC,47.3bhp,69Nm
+614,2020 Maruti Alto 800,2019,Jan-20,Petrol,7963,796 cc,1st Owner,DL6C,Manual,Third Party insurance,315000,330750,446420,22.05 kmpl,5,White,796 CC,47.33bhp,69Nm
+615,2017 Tata Nexon,2017,Dec-17,Diesel,11522,1497 cc,1st Owner,UP14,Manual,Third Party insurance,580000,609000,1271950,21.5 kmpl,16,5,1497 CC,108.5bhp,260Nm
+616,2017 Maruti Alto K10,2017,Apr-17,Petrol,44151,998 cc,2nd Owner,DL8C,Automatic,Third Party insurance,329000,345450,479009,23.95 kmpl,5,White,998 CC,67.05bhp,90Nm
+617,2018 Maruti Swift Dzire,2018,Apr-18,Diesel,36883,1248 cc,1st Owner,DL3C,Manual,Not Available,520000,546000,762753,28.4 kmpl,5,Silver,1248 CC,74.02bhp,190Nm
+618,2014 Maruti Swift,2014,Jul-14,Diesel,75526,1248 cc,1st Owner,UP16,Manual,Third Party insurance,350000,367500,790410,28.4 kmpl,5,White,1248 CC,74bhp,190Nm
+619,2016 Maruti Baleno,2015,Jan-16,Diesel,65425,1248 cc,1st Owner,DL2C,Manual,Third Party insurance,530000,556500,949889,27.39 kmpl,16,5,1248 CC,74bhp,190Nm
+620,2019 Toyota Etios Liva,2019,Oct-19,Petrol,18518,1197 cc,1st Owner,DL9C,Manual,Third Party insurance,620000,651000,655207,17.71 kmpl,5,White,1197 CC,78.9bhp,104Nm
+621,2018 Maruti Alto 800,2018,Apr-18,Petrol,49645,796 cc,1st Owner,HR51,Manual,Third Party insurance,297523,312399,387363,24.7 kmpl,5,White,796 CC,47.3bhp,69Nm
+622,2014 Honda Amaze,2014,Jun-14,Petrol,15916,1198 cc,2nd Owner,DL3C,Manual,Third Party insurance,390123,409629,680283,18 kmpl,5,Grey,1198 CC,86.7bhp,109Nm
+623,2019 Maruti Ignis,2019,Sep-19,Petrol,5598,1197 cc,1st Owner,DL9C,Automatic,Not Available,590000,619500,638995,20.89 kmpl,5,Grey,1197 CC,81.80bhp,113Nm
+624,2016 Renault KWID,2015,Jan-16,Petrol,15728,799 cc,1st Owner,DL1C,Manual,Third Party insurance,264000,277200,419592,25.17 kmpl,5,Red,799 CC,53.3bhp,72Nm
+625,2016 Maruti Alto K10,2016,Jul-16,Petrol,39557,998 cc,2nd Owner,DL9C,Manual,Third Party insurance,274000,287700,431144,23.95 kmpl,5,White,998 CC,67.05bhp,90Nm
+626,2015 Maruti Swift,2015,Sep-15,Petrol,35019,1197 cc,1st Owner,DL5C,Manual,Third Party insurance,390000,409500,553690,20.4 kmpl,5,White,1197 CC,81.80bhp,113Nm
+627,2019 Maruti Alto K10,2019,Mar-19,Petrol,9747,998 cc,1st Owner,DL8C,Manual,Third Party insurance,376500,395325,431144,23.95 kmpl,5,White,998 CC,67.05bhp,90Nm
+628,2016 Hyundai EON,2015,Jan-16,Petrol,46967,814 cc,2nd Owner,HR51,Manual,Third Party insurance,240000,252000,422034,21.1 kmpl,5,Other,814 CC,55.2bhp,74.5Nm
+629,2019 Honda Amaze,2019,Jan-19,Petrol,24667,1198 cc,1st Owner,DL4C,Manual,Not Available,584000,613200,636686,17.8 kmpl,5,Silver,1198 CC,86.7bhp,109Nm
+630,2017 Maruti Alto K10,2017,Apr-17,Petrol,44151,998 cc,2nd Owner,DL8C,Automatic,Third Party insurance,329000,345450,479009,23.95 kmpl,5,White,998 CC,67.05bhp,90Nm
+631,2018 Maruti Swift Dzire,2018,Sep-18,Petrol,29404,1197 cc,1st Owner,DL9C,Manual,Third Party insurance,575000,603750,739792,22 kmpl,5,Red,1197 CC,81.80bhp,113Nm
+632,2018 Maruti Eeco,2018,Jul-18,CNG,20960,1196 cc,1st Owner,DL01,Manual,Third Party insurance,391000,410550,564020,21.94 km/kg,5,Grey,1196 CC,61.7bhp,85Nm
+633,2015 Ford Ecosport,2015,Nov-15,Petrol,76725,1499 cc,1st Owner,DL12,Automatic,Third Party insurance,570000,598500,1088299,16.5 kmpl,16,5,1499 CC,110bhp,140Nm
+634,2016 Ford Ecosport,2016,Oct-16,Petrol,86546,1496 cc,2nd Owner,10 2021,Automatic,Automatic,560000,588000,1236387,14.7 kmpl,R16,5,1496 CC,120.69bhp,149Nm
+635,2016 Maruti Vitara Brezza,2016,May-16,Diesel,95655,1248 cc,1st Owner,DL3C,Manual,Not Available,575000,603750,1016982,24.3 kmpl,16,5,1248 CC,88.5bhp,200Nm
+636,2018 Maruti Swift,2018,Apr-18,Petrol,20878,1197 cc,1st Owner,DL6C,Automatic,Third Party insurance,670000,703500,781936,22 kmpl,15,5,1197 CC,81.80bhp,113Nm
+637,2016 Maruti Ciaz,2016,Apr-16,Diesel,79928,1248 cc,1st Owner,HR26,Manual,Third Party insurance,540000,567000,1081699,28.09 kmpl,16,5,1248 CC,88.5bhp,200Nm
+638,2018 Honda Amaze,2018,Nov-18,Petrol,19549,1199 cc,1st Owner,DL10,Manual,Not Available,610000,640500,863840,18.6 kmpl,R15,5,1199 CC,88.76bhp,110Nm
+639,2018 Maruti Swift,2018,Feb-18,Diesel,37075,1248 cc,1st Owner,UP16,Manual,Third Party insurance,629500,660975,790410,28.4 kmpl,5,Grey,1248 CC,74bhp,190Nm
+640,2017 Maruti Swift,2017,Mar-17,Diesel,97204,1248 cc,1st Owner,DL11,Manual,Not Available,425000,446250,715853,28.4 kmpl,5,Grey,1248 CC,74bhp,190Nm
+641,2017 Hyundai i20,2017,Apr-17,Petrol,36375,1197 cc,1st Owner,DL12,Manual,Third Party insurance,562000,590100,925863,21 kmpl,5,Other,1197 CC,81.86bhp,114.74nm
+642,2014 Maruti Swift Dzire,2014,Aug-14,Petrol,23518,1197 cc,1st Owner,DL14,Manual,Third Party insurance,396654,416487,656611,20.85 kmpl,5,Silver,1197 CC,83.14bhp,115Nm
+643,2017 Maruti Alto K10,2017,Aug-17,Petrol,59523,998 cc,1st Owner,UP16,Automatic,Third Party insurance,320500,336525,496119,23.95 kmpl,5,Grey,998 CC,67.05bhp,90Nm
+644,2014 Ford Ecosport,2014,May-14,Diesel,13581,1498 cc,1st Owner,DL1C,Manual,Third Party insurance,420000,441000,1093783,22.7 kmpl,16,5,1498 CC,89.84bhp,204Nm
+645,2011 Volkswagen Polo,2011,May-11,Petrol,11880,1198 cc,1st Owner,DL7C,Manual,Third Party insurance,271500,285075,688412,16.47 kmpl,15,5,1198 CC,73.9bhp,110Nm
+646,2015 Hyundai i20,2015,Apr-15,Petrol,10079,1197 cc,1st Owner,DL8C,Manual,Third Party insurance,480000,504000,800114,18.6 kmpl,16,5,1197 CC,81.83bhp,114.7Nm
+647,2017 Maruti Ciaz,2017,Oct-17,Petrol,24238,1373 cc,2nd Owner,DL8C,Manual,Third Party insurance,690414,724935,910329,20.73 kmpl,5,Other,1373 CC,91.1bhp,130Nm
+648,2016 Maruti Baleno,2016,Apr-16,Diesel,36993,1248 cc,1st Owner,DL5C,Manual,Third Party insurance,489000,513450,824733,27.39 kmpl,5,Other,1248 CC,74bhp,190Nm
+649,2019 Ford Freestyle,2018,Jan-19,Diesel,51752,1498 cc,1st Owner,HR26,Manual,Third Party insurance,614835,645577,894065,24.4 kmpl,15,5,1498 CC,98.63bhp,215Nm
+650,2016 Maruti Wagon R,2016,Nov-16,Petrol,38255,998 cc,1st Owner,UP16,Manual,Third Party insurance,310000,325500,507140,20.51 kmpl,5,White,998 CC,67.04bhp,90Nm
+651,2015 Hyundai i20,2015,Feb-15,Diesel,59646,1396 cc,1st Owner,DL12,Manual,Third Party insurance,544668,571901,900126,22.54 kmpl,16,5,1396 CC,88.73bhp,219.7Nm
+652,2015 Ford Ecosport,2015,Nov-15,Petrol,76725,1499 cc,1st Owner,DL12,Automatic,Third Party insurance,570000,598500,1088299,16.5 kmpl,16,5,1499 CC,110bhp,140Nm
+653,2015 Maruti Swift Dzire,2015,Nov-15,Diesel,66420,1248 cc,1st Owner,DL8C,Manual,Third Party insurance,410000,430500,724227,26.59 kmpl,5,Grey,1248 CC,74bhp,190Nm
+654,2016 Ford Ecosport,2016,Oct-16,Petrol,86546,1496 cc,2nd Owner,10 2021,Automatic,Automatic,560000,588000,1236387,14.7 kmpl,R16,5,1496 CC,120.69bhp,149Nm
+655,2016 Hyundai i20,2016,Oct-16,Diesel,13448,1396 cc,1st Owner,DL2C,Manual,Third Party insurance,479976,503975,885355,22.54 kmpl,5,Other,1396 CC,88.73bhp,219.7Nm
+656,2014 Honda City,2014,Jan-14,Diesel,10458,1498 cc,2nd Owner,DL4C,Manual,Third Party insurance,482190,506300,1266426,26 kmpl,15,5,1498 CC,98.6bhp,200Nm
+657,2013 Ford Ecosport,2013,Oct-13,Diesel,70802,1498 cc,1st Owner,HR26,Manual,Third Party insurance,460000,483000,1090546,22.7 kmpl,16,5,1498 CC,89.84bhp,204Nm
+658,2018 Maruti Baleno,2018,Dec-18,Petrol,47434,1197 cc,1st Owner,DL2C,Manual,Third Party insurance,556500,584325,770868,21.01 kmpl,5,Other,1197 CC,81.80bhp,113Nm
+659,2017 Honda Amaze,2017,Jul-17,Petrol,15703,1198 cc,2nd Owner,DL9C,Manual,Third Party insurance,540500,567525,729793,17.8 kmpl,5,Other,1198 CC,86.7bhp,109Nm
+660,2015 Honda Jazz,2015,Sep-15,Petrol,61289,1199 cc,2nd Owner,DL12,Manual,Third Party insurance,433458,455131,750828,18.7 kmpl,5,White,1199 CC,88.7bhp,110Nm
+661,2012 Toyota Etios,2012,Aug-12,Diesel,67585,1364 cc,1st Owner,HR29,Manual,Third Party insurance,297000,311850,903525,23.59 kmpl,White,,1364 CC,15,5
+662,2018 Hyundai i20,2018,Mar-18,Petrol,40899,1197 cc,1st Owner,3 2022,Automatic,Manual,645000,677250,742016,18.6 kmpl,5,Other,1197 CC,81.83bhp,114.7Nm
+663,2016 Maruti Ciaz,2015,Jan-16,Diesel,54217,1248 cc,1st Owner,1 2022,Automatic,Manual,550000,577500,1233072,26.21 kmpl,16,5,1248 CC,88.5bhp,200Nm
+664,2015 Toyota Etios Liva,2014,Jan-15,Diesel,67058,1364 cc,1st Owner,DL2F,Manual,Third Party insurance,429311,450777,749186,23.59 kmpl,5,Other,1364 CC,67.04bhp,170Nm
+665,2015 Hyundai Verna,2015,Apr-15,Diesel,33619,1582 cc,1st Owner,UP14,Manual,Not Available,614000,644700,1248939,23.9 kmpl,16,5,1582 CC,126.32bhp,259.8Nm
+666,2020 Maruti Baleno,2020,Jun-20,Petrol,3996,1197 cc,1st Owner,5 2021,Automatic,Manual,579000,607950,598825,21.4 kmpl,5,Grey,1197 CC,83.1bhp,115Nm
+667,2017 Maruti Wagon R,2017,Mar-17,Petrol,55892,998 cc,1st Owner,DL8C,Automatic,Third Party insurance,383000,402150,656752,21.79 kmpl,5,Other,998 CC,67.05bhp,90Nm
+668,2018 Renault KWID,2017,Feb-18,Petrol,34177,999 cc,1st Owner,DL8C,Manual,Third Party insurance,264606,277836,523815,21.74 kmpl,5,Silver,999 CC,67bhp,91nm
+669,2015 Honda City,2014,Jan-15,Petrol,52951,1497 cc,2nd Owner,DL4C,Manual,Third Party insurance,511500,537075,856978,17.8 kmpl,5,Other,1497 CC,117.3bhp,145Nm
+670,2018 Renault KWID,2018,Apr-18,Petrol,10620,799 cc,1st Owner,7 2021,Automatic,Manual,294500,309225,434545,25.17 kmpl,5,Silver,799 CC,53.3bhp,72Nm
+671,2014 Maruti Swift Dzire,2014,Mar-14,Diesel,64103,1248 cc,1st Owner,DL3C,Manual,Third Party insurance,370000,388500,764834,23.4 kmpl,14,5,1248 CC,74bhp,190Nm
+672,2013 Maruti Swift Dzire,2013,Sep-13,Diesel,13678,1248 cc,1st Owner,DL13,Manual,Third Party insurance,280000,294000,663165,23.4 kmpl,14,5,1248 CC,74bhp,190Nm
+673,2018 Tata Nexon,2017,Apr-18,Diesel,32832,1497 cc,1st Owner,DL3C,Manual,Third Party insurance,684000,718200,1306085,21.5 kmpl,16,5,1497 CC,108.5bhp,260Nm
+674,2015 Maruti Swift,2015,Sep-15,Petrol,35019,1197 cc,1st Owner,DL5C,Manual,Third Party insurance,390000,409500,553690,20.4 kmpl,5,White,1197 CC,81.80bhp,113Nm
+675,2018 Ford Ecosport,2018,Jul-18,Petrol,30953,1499 cc,1st Owner,DL12,Manual,Third Party insurance,743820,781011,827454,15.85 kmpl,5,Other,1499 CC,110.4bhp,140Nm
+676,2017 Maruti Alto K10,2016,Feb-17,Petrol,50097,998 cc,1st Owner,HR26,Manual,Third Party insurance,260000,273000,413462,23.95 kmpl,5,Grey,998 CC,67.05bhp,90Nm
+677,2019 Maruti Swift,2019,Aug-19,Petrol,30929,1197 cc,1st Owner,HR51,Manual,Third Party insurance,561000,589050,581632,22 kmpl,5,White,1197 CC,81.80bhp,113Nm
+678,2017 Renault KWID,2017,Apr-17,Petrol,56643,999 cc,2nd Owner,DL12,Manual,Not Available,242000,254100,500275,23.01 kmpl,5,White,999 CC,67bhp,91Nm
+679,2014 Hyundai i20,2014,Aug-14,Diesel,90555,1396 cc,1st Owner,DL8C,Manual,Not Available,320000,336000,767891,21.9 kmpl,14,5,1396 CC,88.8bhp,219.7Nm
+680,2013 Ford Ecosport,2013,Sep-13,Diesel,12447,1498 cc,1st Owner,DL10,Manual,Third Party insurance,370000,388500,959243,23 kmpl,5,Silver,1498 CC,98.96bhp,205Nm
+681,2018 Mahindra Bolero,2018,Jan-18,Diesel,25420,2523 cc,1st Owner,DL12,Manual,Third Party insurance,676508,710333,999506,15.96 kmpl,7,Other,2523 CC,62.1bhp,195Nm
+682,2018 Honda WR-V,2018,Aug-18,Diesel,61372,1498 cc,1st Owner,DL3C,Manual,Not Available,660000,693000,1043690,25.5 kmpl,16,5,1498 CC,98.6bhp,200Nm
+683,2019 Maruti Baleno,2019,Apr-19,Petrol,27729,1197 cc,1st Owner,HR26,Manual,Third Party insurance,655000,687750,845259,21.01 kmpl,R16,5,1197 CC,81.80bhp,113Nm
+684,2014 Maruti Swift,2014,Jul-14,Diesel,75526,1248 cc,1st Owner,UP16,Manual,Third Party insurance,350000,367500,790410,28.4 kmpl,5,White,1248 CC,74bhp,190Nm
+685,2017 Honda City,2017,Jun-17,Petrol,13035,1498 cc,1st Owner,HR29,Manual,Third Party insurance,785000,824250,1288844,17.8 kmpl,R15,5,1498 CC,119.35bhp,145nm
+686,2017 Hyundai i20,2016,Jan-17,Petrol,50024,1197 cc,1st Owner,1 2022,Automatic,Manual,550000,577500,940697,18.6 kmpl,16,5,1197 CC,81.86bhp,117nm
+687,2018 Maruti Vitara Brezza,2018,Nov-18,Diesel,37901,1248 cc,1st Owner,10 2021,Automatic,Automatic,906000,951300,1061702,24.3 kmpl,16,5,1248 CC,88.5bhp,200Nm
+688,2016 Ford Ecosport,2016,May-16,Petrol,57729,1499 cc,1st Owner,HR51,Manual,Third Party insurance,600000,630000,1035545,15.85 kmpl,16,5,1499 CC,110.4bhp,140Nm
+689,2014 Maruti Swift,2014,Aug-14,Petrol,72983,1197 cc,1st Owner,DL3C,Manual,Third Party insurance,380000,399000,756480,22 kmpl,15,5,1197 CC,81.80bhp,113Nm
+690,2012 Maruti Swift,2012,May-12,Diesel,36586,1248 cc,1st Owner,DL9C,Manual,Third Party insurance,343000,360150,717885,22.9 kmpl,14,5,1248 CC,74bhp,190Nm
+691,2016 Ford Ecosport,2016,Sep-16,Diesel,51281,1498 cc,1st Owner,HR51,Manual,Third Party insurance,545472,572746,1041499,21.7 kmpl,5,Other,1498 CC,98.96bhp,215Nm
+692,2018 Maruti Alto K10,2018,Jun-18,Petrol,13911,998 cc,1st Owner,DL3C,Manual,Third Party insurance,330000,346500,431144,23.95 kmpl,5,Other,998 CC,67.05bhp,90Nm
+693,2019 Maruti Wagon R,2019,Jun-19,Petrol,14553,1197 cc,1st Owner,UP16,Automatic,Third Party insurance,544000,571200,633087,21.5 kmpl,5,Other,1197 CC,81.80bhp,113Nm
+694,2015 Hyundai i10,2015,Nov-15,Petrol,63324,1086 cc,1st Owner,UP14,Manual,Third Party insurance,346758,364096,537001,19.81 kmpl,5,Silver,1086 CC,68.05bhp,99.04Nm
+695,2012 Volkswagen Vento,2012,Sep-12,Diesel,85123,1598 cc,1st Owner,DL10,Manual,Third Party insurance,307500,322875,1209038,20.54 kmpl,15,5,1598 CC,103.6bhp,250Nm
+696,2018 Volkswagen Vento,2018,May-18,Petrol,53738,1197 cc,1st Owner,DL10,Automatic,Third Party insurance,711000,746550,1369913,18.19 kmpl,15,5,1197 CC,103.2bhp,175Nm
+697,2017 Maruti SX4 S Cross,2017,Apr-17,Diesel,96780,1248 cc,1st Owner,DL12,Manual,Third Party insurance,535866,562659,994249,25.1 kmpl,5,Grey,1248 CC,88.5bhp,200Nm
+698,2013 Maruti Swift Dzire,2013,Mar-13,Diesel,43080,1248 cc,1st Owner,DL8C,Manual,Third Party insurance,360000,378000,764834,23.4 kmpl,14,5,1248 CC,74bhp,190Nm
+699,2017 Maruti Ciaz,2017,Mar-17,Petrol,53764,1373 cc,1st Owner,HR26,Manual,Third Party insurance,579336,608303,910329,20.73 kmpl,5,White,1373 CC,91.1bhp,130Nm
+700,2016 Hyundai EON,2015,Mar-16,Petrol,35010,814 cc,1st Owner,DL12,Manual,Third Party insurance,221748,232835,421631,21.1 kmpl,5,Other,814 CC,55.2bhp,74.5Nm
+701,2012 Hyundai i10,2012,Jun-12,Petrol,64543,1197 cc,1st Owner,DL2C,Automatic,Third Party insurance,326000,342300,586549,16.95 kmpl,13,5,1197 CC,78.9bhp,111.8Nm
+702,2019 Maruti S-Presso,2019,Dec-19,Petrol,8552,998 cc,1st Owner,UP14,Manual,Third Party insurance,400000,420000,528228,21.7 kmpl,5,Silver,998 CC,67.05bhp,90nm
+703,2018 Nissan Terrano,2018,Sep-18,Diesel,55245,1461 cc,1st Owner,HR26,Manual,Third Party insurance,722868,759011,1337760,20.45 kmpl,16,5,1461 CC,83.8bhp,200Nm
+704,2017 Honda City,2017,Apr-17,Petrol,14815,1497 cc,2nd Owner,DL10,Manual,Third Party insurance,814432,855154,1126480,17.8 kmpl,15,5,1497 CC,117.3bhp,145Nm
+705,2014 Volkswagen Polo,2014,Aug-14,Diesel,76025,1498 cc,1st Owner,DL11,Manual,Third Party insurance,300000,315000,904480,20.14 kmpl,15,5,1498 CC,88.8bhp,230Nm
+706,2013 Maruti Swift Dzire,2013,May-13,Diesel,82171,1248 cc,1st Owner,DL8C,Manual,Third Party insurance,339737,356724,680532,23.4 kmpl,14,5,1248 CC,74bhp,190Nm
+707,2017 Ford Ecosport,2017,Jul-17,Petrol,40049,1496 cc,1st Owner,7 2022,Automatic,Manual,650000,682500,1103942,15.9 kmpl,R16,5,1496 CC,120.69bhp,149Nm
+708,2012 Hyundai i20,2011,Jan-12,Diesel,16247,1396 cc,1st Owner,HR07,Manual,Third Party insurance,219000,229950,757382,23 kmpl,14,5,1396 CC,90PS at 4000rpm,22.4 kgm at 1750-2750rpm
+709,2015 Hyundai Verna,2015,Apr-15,Diesel,57629,1582 cc,2nd Owner,DL9C,Manual,Third Party insurance,540000,567000,1153166,23.9 kmpl,5,White,1582 CC,126.2bhp,259.9Nm
+710,2018 Maruti Ciaz,2018,Apr-18,Petrol,21160,1373 cc,1st Owner,HR26,Automatic,Third Party insurance,844000,886200,1207495,19.12 kmpl,16,5,1373 CC,91.1bhp,130Nm
+711,2019 Honda City,2019,May-19,Petrol,28860,1498 cc,1st Owner,HR26,Manual,Third Party insurance,965000,1013250,1286254,17.8 kmpl,R15,5,1498 CC,119.35bhp,145nm
+712,2015 Honda City,2015,Jan-15,Diesel,98239,1498 cc,2nd Owner,DL4C,Manual,Third Party insurance,520000,546000,1381753,25.1 kmpl,15,5,1498 CC,98.6bhp,200Nm
+713,2013 Maruti Wagon R,2013,Apr-13,Petrol,56699,998 cc,1st Owner,DL6C,Manual,Third Party insurance,259000,271950,577212,21.79 kmpl,5,Silver,998 CC,67.05bhp,90Nm
+714,2016 Hyundai Verna,2016,Sep-16,Diesel,13111,1582 cc,1st Owner,UP16,Automatic,Third Party insurance,690000,724500,1476524,19.08 kmpl,16,5,1582 CC,126.2bhp,259.9Nm
+715,2014 Hyundai Grand i10,2014,Jul-14,Diesel,68442,1120 cc,1st Owner,DL1C,Manual,Third Party insurance,280000,294000,727711,24 kmpl,5,Other,1120 CC,70bhp,160Nm
+716,2012 Hyundai Santa Fe,2012,Aug-12,Diesel,11887,2199 cc,2nd Owner,UP14,Automatic,Third Party insurance,572500,601125,3768743,13.01 kmpl,18,7,2199 CC,194.3bhp,436.39Nm
+717,2015 Maruti Ritz,2015,Apr-15,Petrol,8566,1197 cc,1st Owner,DL3C,Manual,Third Party insurance,355000,372750,562002,18.5 kmpl,5,Silver,1197 CC,85.80bhp,114Nm
+718,2015 Hyundai Grand i10,2015,Jun-15,Petrol,73504,1197 cc,1st Owner,7 2021,Automatic,Manual,366500,384825,554801,18.9 kmpl,5,Other,1197 CC,82bhp,114Nm
+719,2018 Renault KWID,2017,Jan-18,Petrol,46570,799 cc,1st Owner,DL12,Manual,Third Party insurance,270000,283500,451843,25.17 kmpl,5,Silver,799 CC,53.3bhp,72Nm
+720,2017 Maruti Swift Dzire,2017,Feb-17,Diesel,66037,1248 cc,1st Owner,UP16,Manual,Third Party insurance,499500,524475,762753,28.4 kmpl,5,Other,1248 CC,74.02bhp,190Nm
+721,2013 Maruti Swift Dzire,2013,Jul-13,Diesel,93558,1248 cc,2nd Owner,DL3C,Manual,Third Party insurance,300000,315000,663165,23.4 kmpl,14,5,1248 CC,74bhp,190Nm
+722,2013 Nissan Terrano,2013,Nov-13,Diesel,12138,1461 cc,2nd Owner,DL8C,Manual,Third Party insurance,320527,336553,1268779,19.01 kmpl,5,Other,1461 CC,108.5bhp,248Nm
+723,2019 Maruti Swift,2019,Nov-19,Petrol,12136,1197 cc,1st Owner,HR51,Manual,Third Party insurance,565500,593775,607690,21.21 kmpl,5,White,1197 CC,81.80bhp,113Nm
+724,2014 Honda Amaze,2014,Jun-14,Petrol,15916,1198 cc,2nd Owner,DL3C,Manual,Third Party insurance,390123,409629,680283,18 kmpl,5,Grey,1198 CC,86.7bhp,109Nm
+725,2013 Honda Brio,2013,Apr-13,Petrol,78279,1198 cc,1st Owner,UP16,Manual,Third Party insurance,280000,294000,575000,18.5 kmpl,5,White,1198 CC,86.8bhp,109Nm
+726,2017 Maruti Swift Dzire,2017,Jun-17,Diesel,71549,1248 cc,1st Owner,DL6C,Manual,Third Party insurance,612000,642600,1032622,28.4 kmpl,15,5,1248 CC,74.02bhp,190Nm
+727,2017 Honda WR-V,2017,Mar-17,Diesel,70044,1498 cc,1st Owner,DL4C,Manual,Third Party insurance,643000,675150,1389429,23.7 kmpl,R16,5,1498 CC,97.89bhp,200nm
+728,2014 Maruti Swift Dzire,2014,Dec-14,Diesel,49470,1248 cc,1st Owner,DL5C,Manual,Third Party insurance,330000,346500,772281,23.4 kmpl,14,5,1248 CC,74bhp,190Nm
+729,2015 Maruti Alto 800,2015,Jul-15,Petrol,77289,796 cc,1st Owner,HR29,Manual,Third Party insurance,219500,230475,384206,24.7 kmpl,5,White,796 CC,47.3bhp,69Nm
+730,2016 Hyundai Grand i10,2015,Jan-16,Petrol,41031,1197 cc,2nd Owner,DL8C,Manual,Third Party insurance,365000,383250,671802,18.9 kmpl,5,White,1197 CC,81.86bhp,113.75nm
+731,2015 Hyundai i10,2015,Apr-15,Petrol,63890,1086 cc,2nd Owner,UP14,Manual,Third Party insurance,286500,300825,509192,19.81 kmpl,5,Red,1086 CC,68.05bhp,99.04Nm
+732,2017 Maruti Vitara Brezza,2017,Apr-17,Diesel,33434,1248 cc,1st Owner,HR26,Manual,Third Party insurance,725000,761250,1014057,24.3 kmpl,16,5,1248 CC,88.5bhp,200Nm
+733,2013 Hyundai i10,2013,Nov-13,Petrol,62594,1086 cc,1st Owner,UP15,Manual,Third Party insurance,230000,241500,509192,19.81 kmpl,5,Grey,1086 CC,68.05bhp,99.04Nm
+734,2015 Honda City,2015,May-15,Petrol,79502,1497 cc,1st Owner,DL9C,Automatic,Third Party insurance,690772,725311,1333020,18 kmpl,15,5,1497 CC,117.3bhp,145Nm
+735,2020 Maruti Vitara Brezza,2020,Nov-20,Petrol,27675,1462 cc,1st Owner,UP16,Manual,Not Available,920000,966000,1090042,17.03 kmpl,R16,5,1462 CC,103.26bhp,138nm
+736,2016 Volkswagen Polo,2016,May-16,Petrol,79991,1197 cc,1st Owner,DL2C,Automatic,Third Party insurance,535617,562398,1073579,17.21 kmpl,16,5,1197 CC,103.5bhp,175Nm
+737,2019 Tata Tiago,2019,Jun-19,Diesel,63318,1047 cc,1st Owner,DL7C,Manual,Third Party insurance,489500,513975,735389,27.28 kmpl,14,5,1047 CC,69bhp,140Nm
+738,2013 Volkswagen Vento,2013,Aug-13,Diesel,86764,1598 cc,1st Owner,DL3C,Manual,Not Available,320000,336000,1133313,20.54 kmpl,15,5,1598 CC,103.6bhp,250Nm
+739,2015 Maruti Ciaz,2014,Apr-15,Diesel,43248,1248 cc,1st Owner,DL8C,Manual,Not Available,543000,570150,1016745,26.21 kmpl,5,Other,1248 CC,88.5bhp,200Nm
+740,2019 Hyundai Verna,2019,Feb-19,Petrol,28692,1591 cc,1st Owner,UP16,Manual,Third Party insurance,890000,934500,1145493,17 kmpl,16,5,1591 CC,121.3bhp,151Nm
+741,2016 Maruti Baleno,2016,Feb-16,Petrol,57059,1197 cc,1st Owner,HR26,Manual,Third Party insurance,489500,513975,684273,21.4 kmpl,5,Silver,1197 CC,83.1bhp,115Nm
+742,2017 Maruti Ciaz,2017,Dec-17,Petrol,39466,1373 cc,1st Owner,UP16,Automatic,Third Party insurance,625000,656250,1039395,19.12 kmpl,5,Grey,1373 CC,91.1bhp,130Nm
+743,2015 Maruti Swift,2015,Aug-15,Petrol,10038,1197 cc,1st Owner,DL8C,Manual,Third Party insurance,365500,383775,565078,22 kmpl,5,White,1197 CC,81.80bhp,113Nm
+744,2018 Tata Nexon,2018,Jun-18,Diesel,41492,1497 cc,1st Owner,DL5C,Manual,Third Party insurance,570000,598500,1048260,21.5 kmpl,5,White,1497 CC,108.5bhp,260Nm
+745,2016 Ford Figo Aspire,2015,May-16,Diesel,59092,1498 cc,1st Owner,DL12,Manual,Third Party insurance,360000,378000,904874,25.83 kmpl,14,5,1498 CC,99bhp,215Nm
+746,2017 Honda City,2017,Jun-17,Petrol,13035,1498 cc,1st Owner,HR29,Manual,Third Party insurance,785000,824250,1288844,17.8 kmpl,R15,5,1498 CC,119.35bhp,145nm
+747,2019 Hyundai Venue,2019,Aug-19,Petrol,40287,1197 cc,1st Owner,UP14,Manual,Third Party insurance,733500,770175,939909,17.52 kmpl,5,Other,1197 CC,81.86bhp,113.76nm
+748,2014 Maruti Celerio,2014,May-14,Petrol,39815,998 cc,1st Owner,HR26,Automatic,Third Party insurance,331500,348075,545568,23.1 kmpl,5,Other,998 CC,67.04bhp,90Nm
+749,2013 Honda Accord,2013,Mar-13,Petrol,46121,2354 cc,1st Owner,DL3C,Automatic,Not Available,607000,637350,2467217,11.7 kmpl,16,5,2354 CC,177.6bhp,222Nm
+750,2019 Honda Amaze,2019,May-19,Petrol,49218,1199 cc,1st Owner,HR30,Manual,Third Party insurance,640000,672000,822888,19.5 kmpl,5,Other,1199 CC,88.76bhp,110Nm
+751,2016 Maruti Swift Dzire,2015,Jan-16,Diesel,54632,1248 cc,1st Owner,DL5C,Manual,Third Party insurance,450000,472500,917331,26.59 kmpl,15,5,1248 CC,74bhp,190Nm
+752,2017 Maruti Celerio,2017,Apr-17,Petrol,37743,998 cc,1st Owner,DL9C,Automatic,Third Party insurance,419388,440357,629453,21.63 kmpl,5,White,998 CC,67.05bhp,90Nm
+753,2020 Maruti Alto 800,2019,Jan-20,Petrol,7963,796 cc,1st Owner,DL6C,Manual,Third Party insurance,315000,330750,446420,22.05 kmpl,5,White,796 CC,47.33bhp,69Nm
+754,2018 Maruti Alto K10,2018,Apr-18,Petrol,44973,998 cc,1st Owner,UP14,Manual,Third Party insurance,345000,362250,446517,23.95 kmpl,5,White,998 CC,67.05bhp,90Nm
+755,2016 Maruti Celerio,2016,Feb-16,Petrol,48964,998 cc,1st Owner,2 2022,Automatic,Manual,381500,400575,474039,23.1 kmpl,5,Other,998 CC,67.04bhp,90Nm
+756,2019 Maruti Wagon R,2019,Dec-19,Petrol,5627,998 cc,1st Owner,DL2C,Manual,Third Party insurance,473000,496650,567187,21.79 kmpl,5,White,998 CC,67.05bhp,90Nm
+757,2017 Maruti Alto K10,2017,Jul-17,Petrol,23354,998 cc,1st Owner,DL3C,Manual,Third Party insurance,327000,343350,431144,23.95 kmpl,5,Grey,998 CC,67.05bhp,90Nm
+758,2016 Maruti Eeco,2016,Nov-16,CNG,59392,1196 cc,1st Owner,DL9C,Manual,Third Party insurance,308500,323925,646741,20.88 km/kg,5,Silver,1196 CC,61.7bhp,85Nm
+759,2019 Honda Amaze,2019,Mar-19,Petrol,26347,1199 cc,1st Owner,DL3C,Manual,Third Party insurance,570000,598500,762516,19.5 kmpl,5,Other,1199 CC,88.76bhp,110Nm
+760,2012 Maruti Alto K10,2012,Dec-12,Petrol,42641,998 cc,1st Owner,DL3C,Manual,Third Party insurance,224000,235200,373048,20.92 kmpl,13,5,998 CC,67.1bhp,90Nm
+761,2013 Hyundai i10,2013,Nov-13,Petrol,62594,1086 cc,1st Owner,UP15,Manual,Third Party insurance,230000,241500,509192,19.81 kmpl,5,Grey,1086 CC,68.05bhp,99.04Nm
+762,2012 Hyundai i10,2012,May-12,Petrol,85915,1197 cc,2nd Owner,DL10,Automatic,Third Party insurance,275000,288750,586549,16.95 kmpl,13,5,1197 CC,78.9bhp,111.8Nm
+763,2017 Maruti Ciaz,2016,Jan-17,Petrol,21231,1373 cc,1st Owner,UP16,Manual,Third Party insurance,660948,693995,924412,20.73 kmpl,5,White,1373 CC,91.1bhp,130Nm
+764,2013 Maruti Wagon R,2012,Jan-13,Petrol,59331,998 cc,2nd Owner,DL8C,Manual,Third Party insurance,230000,241500,417118,18.9 kmpl,13,5,998 CC,67.1bhp,90Nm
+765,2015 Maruti Ritz,2015,Apr-15,Petrol,8566,1197 cc,1st Owner,DL3C,Manual,Third Party insurance,355000,372750,562002,18.5 kmpl,5,Silver,1197 CC,85.80bhp,114Nm
+766,2018 Tata Nexon,2018,Mar-18,Diesel,98551,1497 cc,1st Owner,DL2C,Manual,Third Party insurance,655908,688703,1306085,21.5 kmpl,16,5,1497 CC,108.5bhp,260Nm
+767,2017 Maruti Swift,2017,Nov-17,Petrol,23372,1197 cc,1st Owner,DL3C,Manual,Third Party insurance,440000,462000,529062,20.4 kmpl,5,Grey,1197 CC,81.80bhp,113Nm
+768,2017 Maruti Alto 800,2016,Feb-17,Petrol,38200,796 cc,2nd Owner,DL9C,Manual,Third Party insurance,250000,262500,359781,22.74 kmpl,5,White,796 CC,47.3bhp,69Nm
+769,2017 Hyundai Grand i10,2017,Apr-17,Diesel,62547,1186 cc,1st Owner,DL2C,Manual,Third Party insurance,435000,456750,758821,24 kmpl,5,White,1186 CC,73.97bhp,190.24nm
+770,2013 Hyundai i20,2013,Apr-13,Petrol,54952,1197 cc,1st Owner,DL10,Manual,Third Party insurance,340357,357375,621468,18.5 kmpl,14,5,1197 CC,82.9bhp,113.8Nm
+771,2017 Maruti Celerio,2016,Jan-17,Petrol,15785,998 cc,1st Owner,6 2021,Automatic,Manual,425500,446775,474039,23.1 kmpl,5,White,998 CC,67.04bhp,90Nm
+772,2020 Hyundai Grand i10,2020,Aug-20,Petrol,8509,1197 cc,1st Owner,UP16,Manual,Third Party insurance,570000,598500,720827,18.9 kmpl,5,Grey,1197 CC,81.86bhp,113.75nm
+773,2013 Volkswagen Vento,2013,Aug-13,Diesel,86764,1598 cc,1st Owner,DL3C,Manual,Not Available,320000,336000,1133313,20.54 kmpl,15,5,1598 CC,103.6bhp,250Nm
+774,2015 Maruti Ciaz,2015,Jun-15,Diesel,78667,1248 cc,1st Owner,DL8C,Manual,Not Available,470000,493500,944191,26.21 kmpl,5,Other,1248 CC,88.5bhp,200Nm
+775,2014 Renault Duster,2014,Feb-14,Diesel,65675,1461 cc,2nd Owner,DL1C,Manual,Third Party insurance,332000,348600,1256172,20.45 kmpl,16,5,1461 CC,83.8bhp,200Nm
+776,2017 Maruti Vitara Brezza,2017,Aug-17,Diesel,57301,1248 cc,1st Owner,DL8C,Manual,Third Party insurance,650000,682500,929655,24.3 kmpl,5,Red,1248 CC,88.5bhp,200Nm
+777,2018 Maruti Swift,2018,Oct-18,Diesel,75710,1248 cc,1st Owner,UP14,Manual,Third Party insurance,618500,649425,746465,25.2 kmpl,5,Other,1248 CC,74bhp,190Nm
+778,2015 Maruti Swift,2015,Sep-15,Petrol,67565,1197 cc,1st Owner,UP14,Manual,Third Party insurance,490000,514500,696685,22 kmpl,5,Grey,1197 CC,81.80bhp,113Nm
+779,2019 Maruti Celerio,2019,Oct-19,Petrol,7347,998 cc,1st Owner,HR26,Automatic,Third Party insurance,489112,513568,639546,21.63 kmpl,5,White,998 CC,67.05bhp,90Nm
+780,2019 Maruti Swift Dzire,2018,Feb-19,Diesel,54348,1248 cc,1st Owner,DL3C,Manual,Third Party insurance,565000,593250,762753,28.4 kmpl,5,White,1248 CC,74.02bhp,190Nm
+781,2015 Hyundai i10,2015,Aug-15,Petrol,73016,1086 cc,1st Owner,HR51,Manual,Not Available,290500,305025,545246,19.81 kmpl,5,Silver,1086 CC,68.05bhp,99.04Nm
+782,2018 Ford Figo Aspire,2018,Jul-18,Petrol,22616,1196 cc,1st Owner,DL10,Manual,Third Party insurance,533500,560175,752028,18.16 kmpl,14,5,1196 CC,86.8bhp,112Nm
+783,2017 Maruti Swift,2017,Nov-17,Petrol,23372,1197 cc,1st Owner,DL3C,Manual,Third Party insurance,440000,462000,529062,20.4 kmpl,5,Grey,1197 CC,81.80bhp,113Nm
+784,2017 Maruti Ertiga,2017,Jan-17,Diesel,44494,1248 cc,2nd Owner,DL9C,Manual,Third Party insurance,654000,686700,1090934,24.52 kmpl,7,Other,1248 CC,88.5bhp,200Nm
+785,2018 Maruti Baleno,2018,Aug-18,Petrol,15295,1197 cc,1st Owner,DL12,Manual,Third Party insurance,560000,588000,782606,21.01 kmpl,5,Blue,1197 CC,81.80bhp,113Nm
+786,2015 Maruti Swift Dzire,2014,Jan-15,Diesel,11853,1248 cc,1st Owner,HR26,Manual,Not Available,437000,458850,911420,26.59 kmpl,15,5,1248 CC,74bhp,190Nm
+787,2019 Maruti Baleno,2018,Jan-19,Petrol,21377,1197 cc,1st Owner,DL3C,Manual,Third Party insurance,526500,552825,682091,21.01 kmpl,5,Grey,1197 CC,81.80bhp,113Nm
+788,2018 Maruti Swift,2018,Dec-18,Petrol,14096,1197 cc,1st Owner,DL8C,Manual,Third Party insurance,572794,601434,702264,21.21 kmpl,5,Grey,1197 CC,81.80bhp,113Nm
+789,2015 Maruti Swift,2015,Sep-15,Petrol,67565,1197 cc,1st Owner,UP14,Manual,Third Party insurance,490000,514500,696685,22 kmpl,5,Grey,1197 CC,81.80bhp,113Nm
+790,2015 Hyundai Xcent,2015,Nov-15,Petrol,47759,1197 cc,2nd Owner,DL01,Manual,Third Party insurance,346000,363300,572578,19.1 kmpl,5,White,1197 CC,82bhp,114Nm
+791,2014 Hyundai Verna,2014,Jun-14,Petrol,10042,1591 cc,1st Owner,DL8C,Manual,Third Party insurance,448500,470925,1136582,17 kmpl,16,5,1591 CC,121.3bhp,151Nm
+792,2012 Maruti Alto K10,2012,Dec-12,Petrol,42641,998 cc,1st Owner,DL3C,Manual,Third Party insurance,224000,235200,373048,20.92 kmpl,13,5,998 CC,67.1bhp,90Nm
+793,2018 Maruti Alto K10,2018,Apr-18,Petrol,32915,998 cc,1st Owner,DL3C,Manual,Third Party insurance,356000,373800,446517,23.95 kmpl,5,Grey,998 CC,67.05bhp,90Nm
+794,2020 Tata Tiago,2019,Mar-20,Petrol,6947,1199 cc,1st Owner,1 2022,Automatic,Manual,540500,567525,613327,23.84 kmpl,14,5,1199 CC,84bhp,114Nm
+795,2021 Hyundai Venue,2021,Jan-21,Petrol,11420,998 cc,1st Owner,DL12,Manual,Third Party insurance,1074500,1128225,1339112,18 kmpl,16,5,998 CC,118.35bhp,171.6Nm
+796,2018 Maruti Ertiga,2018,Jun-18,Diesel,61500,1248 cc,1st Owner,HR26,Manual,Third Party insurance,780000,819000,1120854,24.52 kmpl,15,7,1248 CC,88.5bhp,200Nm
+797,2013 Maruti Wagon R Stingray,2013,Sep-13,Petrol,61825,998 cc,1st Owner,DL2C,Manual,Third Party insurance,298000,312900,500291,20.51 kmpl,14,5,998 CC,67.04bhp,90Nm
+798,2017 Renault KWID,2017,Oct-17,Petrol,51479,799 cc,1st Owner,HR51,Manual,Not Available,278500,292425,408097,25.17 kmpl,5,White,799 CC,53.3bhp,72Nm
+799,2020 Hyundai Grand i10,2020,Aug-20,Petrol,8509,1197 cc,1st Owner,UP16,Manual,Third Party insurance,570000,598500,720827,18.9 kmpl,5,Grey,1197 CC,81.86bhp,113.75nm
+800,2019 Maruti Swift,2019,Jan-19,Petrol,38456,1197 cc,1st Owner,DL2C,Manual,Not Available,450000,472500,602766,21.21 kmpl,5,Blue,1197 CC,81.80bhp,113Nm
+801,2018 Tata Tigor,2018,Apr-18,Petrol,67371,1199 cc,1st Owner,DL3C,Manual,Third Party insurance,415000,435750,657682,20.3 kmpl,15,5,1199 CC,84bhp,114Nm
+802,2014 Maruti Swift Dzire,2014,Mar-14,Petrol,89888,1197 cc,1st Owner,DL8C,Manual,Third Party insurance,372000,390600,618697,19.1 kmpl,14,5,1197 CC,85.8bhp,114Nm
+803,2019 Hyundai Venue,2019,Oct-19,Petrol,16860,998 cc,1st Owner,DL4C,Manual,Third Party insurance,940000,987000,1229981,18.27 kmpl,5,Blue,998 CC,118.35bhp,172Nm
+804,2020 Hyundai Venue,2020,Jul-20,Petrol,9437,998 cc,1st Owner,DL12,Automatic,Third Party insurance,1240500,1302525,1416718,18.15 kmpl,R16,5,998 CC,118.35bhp,172Nm
+805,2015 Maruti Ciaz,2014,Mar-15,Diesel,77891,1248 cc,1st Owner,DL3C,Manual,Third Party insurance,507000,532350,944191,26.21 kmpl,5,Grey,1248 CC,88.5bhp,200Nm
+806,2017 Maruti Ciaz,2017,Sep-17,Petrol,68634,1373 cc,1st Owner,UP14,Manual,Not Available,700500,735525,939667,20.73 kmpl,5,Grey,1373 CC,91.1bhp,130Nm
+807,2019 Hyundai i20,2019,Dec-19,Petrol,17674,1197 cc,1st Owner,DL12,Manual,Not Available,665500,698775,816846,18.6 kmpl,15,5,1197 CC,81.86bhp,117nm
+808,2019 Volkswagen Polo,2018,Jan-19,Petrol,13739,999 cc,1st Owner,DL10,Manual,Third Party insurance,590000,619500,832908,17.74 kmpl,R15,5,999 CC,75.10bhp,95Nm
+809,2015 Maruti Swift Dzire,2015,Jul-15,Diesel,88285,1248 cc,1st Owner,DL2C,Manual,Third Party insurance,456500,479325,808136,26.59 kmpl,5,White,1248 CC,74bhp,190Nm
+810,2013 Hyundai Elantra,2013,May-13,Diesel,66175,1582 cc,1st Owner,DL8C,Automatic,Not Available,530000,556500,1976661,19.5 kmpl,16,5,1582 CC,126.24bhp,259.87Nm
+811,2013 Maruti Alto K10,2013,Jan-13,Petrol,63762,998 cc,1st Owner,DL5C,Manual,Third Party insurance,210000,220500,373048,20.92 kmpl,13,5,998 CC,67.1bhp,90Nm
+812,2016 Maruti Swift Dzire,2016,Mar-16,Petrol,35687,1197 cc,1st Owner,DL3C,Manual,Third Party insurance,380000,399000,613686,20.85 kmpl,5,White,1197 CC,83.14bhp,115Nm
+813,2018 Maruti Eeco,2018,Jul-18,CNG,20960,1196 cc,1st Owner,DL01,Manual,Third Party insurance,391000,410550,564020,21.94 km/kg,5,Grey,1196 CC,61.7bhp,85Nm
+814,2018 Hyundai i20,2018,Oct-18,Petrol,17950,1197 cc,2nd Owner,DL12,Automatic,Third Party insurance,638000,669900,931555,17.4 kmpl,15,5,1197 CC,81.86bhp,114.73nm
+815,2019 Maruti Celerio,2018,Jan-19,Petrol,9277,998 cc,1st Owner,UP14,Automatic,Third Party insurance,478500,502425,612784,23.1 kmpl,5,White,998 CC,67.04bhp,90Nm
+816,2019 Maruti Alto K10,2019,Feb-19,Petrol,7213,998 cc,1st Owner,DL2C,Manual,Third Party insurance,330000,346500,413462,23.95 kmpl,5,White,998 CC,67.05bhp,90Nm
+817,2017 Maruti Alto 800,2016,Feb-17,Petrol,38200,796 cc,2nd Owner,DL9C,Manual,Third Party insurance,250000,262500,359781,22.74 kmpl,5,White,796 CC,47.3bhp,69Nm
+818,2016 Renault KWID,2015,Jan-16,Petrol,15728,799 cc,1st Owner,DL1C,Manual,Third Party insurance,264000,277200,419592,25.17 kmpl,5,Red,799 CC,53.3bhp,72Nm
+819,2018 Maruti Wagon R,2018,Apr-18,Petrol,10448,998 cc,1st Owner,DL14,Manual,Third Party insurance,410000,430500,610187,21.79 kmpl,5,Grey,998 CC,67.05bhp,90Nm
+820,2011 Maruti Swift,2011,May-11,Petrol,47914,1197 cc,1st Owner,HR26,Manual,Third Party insurance,245000,257250,548912,18.6 kmpl,14,5,1197 CC,85.8bhp,114Nm
+821,2015 Ford Ecosport,2015,Feb-15,Diesel,86059,1498 cc,1st Owner,DL10,Manual,Third Party insurance,548000,575400,1083188,22.7 kmpl,16,5,1498 CC,89.84bhp,204Nm
+822,2016 Maruti Alto K10,2016,Dec-16,CNG,55252,998 cc,1st Owner,DL09,Manual,Third Party insurance,325500,341775,463454,32.26 kmpl,4,Grey,998 CC,58.2bhp,78Nm
+823,2019 Maruti Celerio,2019,Oct-19,Petrol,7347,998 cc,1st Owner,HR26,Automatic,Third Party insurance,489112,513568,639546,21.63 kmpl,5,White,998 CC,67.05bhp,90Nm
+824,2014 Hyundai Verna,2014,Jun-14,Petrol,10042,1591 cc,1st Owner,DL8C,Manual,Third Party insurance,448500,470925,1136582,17 kmpl,16,5,1591 CC,121.3bhp,151Nm
+825,2013 Maruti Wagon R Stingray,2013,Sep-13,Petrol,61825,998 cc,1st Owner,DL2C,Manual,Third Party insurance,298000,312900,500291,20.51 kmpl,14,5,998 CC,67.04bhp,90Nm
+826,2018 Tata Nexon,2018,Jun-18,Diesel,41492,1497 cc,1st Owner,DL5C,Manual,Third Party insurance,570000,598500,1048260,21.5 kmpl,5,White,1497 CC,108.5bhp,260Nm
+827,2016 Maruti Celerio,2016,Feb-16,Petrol,48964,998 cc,1st Owner,2 2022,Automatic,Manual,381500,400575,474039,23.1 kmpl,5,Other,998 CC,67.04bhp,90Nm
+828,2019 Maruti Swift,2019,Jan-19,Petrol,38456,1197 cc,1st Owner,DL2C,Manual,Not Available,450000,472500,602766,21.21 kmpl,5,Blue,1197 CC,81.80bhp,113Nm
+829,2011 Hyundai i10,2011,Mar-11,Petrol,87964,1086 cc,1st Owner,DL8C,Manual,Third Party insurance,180000,189000,479880,19.81 kmpl,5,Grey,1086 CC,68.05bhp,99.04Nm
+830,2016 Maruti Swift Dzire,2016,Mar-16,Petrol,35687,1197 cc,1st Owner,DL3C,Manual,Third Party insurance,380000,399000,613686,20.85 kmpl,5,White,1197 CC,83.14bhp,115Nm
+831,2020 Maruti Swift Dzire,2020,Sep-20,Petrol,17550,1197 cc,1st Owner,DL8C,Manual,Not Available,675000,708750,763121,21.21 kmpl,5,Other,1197 CC,81.80bhp,113Nm
+832,2020 Hyundai Venue,2020,Jul-20,Petrol,9437,998 cc,1st Owner,DL12,Automatic,Third Party insurance,1240500,1302525,1416718,18.15 kmpl,R16,5,998 CC,118.35bhp,172Nm
+833,2019 Maruti Alto K10,2019,Feb-19,Petrol,7213,998 cc,1st Owner,DL2C,Manual,Third Party insurance,330000,346500,413462,23.95 kmpl,5,White,998 CC,67.05bhp,90Nm
+834,2018 Maruti Baleno,2018,Feb-18,Petrol,58458,1197 cc,1st Owner,DL3C,Manual,Third Party insurance,440000,462000,566438,21.4 kmpl,5,Blue,1197 CC,83.1bhp,115Nm
+835,2013 Hyundai Verna,2013,Apr-13,Diesel,75114,1582 cc,1st Owner,DL4C,Manual,Not Available,410000,430500,1200330,22.32 kmpl,16,5,1582 CC,126.32bhp,259.8Nm
+836,2019 Hyundai Venue,2019,Oct-19,Petrol,16860,998 cc,1st Owner,DL4C,Manual,Third Party insurance,940000,987000,1229981,18.27 kmpl,5,Blue,998 CC,118.35bhp,172Nm
+837,2021 Hyundai Venue,2021,Jan-21,Petrol,11420,998 cc,1st Owner,DL12,Manual,Third Party insurance,1074500,1128225,1339112,18 kmpl,16,5,998 CC,118.35bhp,171.6Nm
+838,2019 Hyundai Venue,2019,Dec-19,Diesel,58169,1396 cc,1st Owner,UP16,Manual,Third Party insurance,975000,1023750,1108405,23.7 kmpl,16,5,1396 CC,88.76bhp,219.6Nm
+839,2018 Hyundai Creta,2018,Mar-18,Diesel,68110,1396 cc,1st Owner,DL2C,Manual,Third Party insurance,895500,940275,1138393,22.1 kmpl,5,White,1396 CC,88.7bhp,219.7Nm
+840,2017 Hyundai Creta,2017,May-17,Diesel,39977,1396 cc,1st Owner,DL8C,Manual,Third Party insurance,837000,878850,1138393,22.1 kmpl,5,Other,1396 CC,88.7bhp,219.7Nm
+841,2016 Hyundai Creta,2016,Nov-16,Diesel,70594,1582 cc,1st Owner,DL12,Manual,Third Party insurance,863500,906675,1486060,19.67 kmpl,16,5,1582 CC,126.2bhp,259.9Nm
+842,2019 Volkswagen Polo,2019,Mar-19,Petrol,8559,999 cc,1st Owner,UP16,Manual,Third Party insurance,537500,564375,729193,17.74 kmpl,5,Red,999 CC,75.10bhp,95Nm
+843,2018 Maruti Ertiga,2018,May-18,Petrol,27668,1373 cc,1st Owner,HR26,Manual,Third Party insurance,710500,746025,933998,17.5 kmpl,7,Silver,1373 CC,91.1bhp,130Nm
+844,2016 Maruti Baleno,2016,Aug-16,Petrol,55291,1197 cc,1st Owner,DL1C,Manual,Third Party insurance,487500,511875,770868,21.01 kmpl,5,Blue,1197 CC,81.80bhp,113Nm
+845,2019 Hyundai Venue,2019,Dec-19,Diesel,58169,1396 cc,1st Owner,UP16,Manual,Third Party insurance,975000,1023750,1108405,23.7 kmpl,16,5,1396 CC,88.76bhp,219.6Nm
+846,2015 Maruti Ertiga,2015,Apr-15,Diesel,12934,1248 cc,1st Owner,DL08,Manual,Third Party insurance,539000,565950,1123405,25.47 kmpl,7,Grey,1248 CC,88.50bhp,200Nm
+847,2018 Honda City,2018,Mar-18,Petrol,14856,1498 cc,1st Owner,DL10,Automatic,Third Party insurance,1057500,1110375,1446757,18.4 kmpl,R15,5,1498 CC,119.35bhp,145nm
+848,2017 Hyundai Grand i10,2017,Apr-17,Diesel,62547,1186 cc,1st Owner,DL2C,Manual,Third Party insurance,435000,456750,758821,24 kmpl,5,White,1186 CC,73.97bhp,190.24nm
+849,2017 Hyundai i20,2017,Jul-17,Petrol,23091,1197 cc,2nd Owner,DL9C,Manual,Third Party insurance,585000,614250,808857,18.6 kmpl,16,5,1197 CC,81.83bhp,114.7Nm
+850,2020 Datsun RediGO,2019,Feb-20,Petrol,15598,799 cc,1st Owner,DL3C,Manual,Third Party insurance,270000,283500,378986,22.7 kmpl,5,Grey,799 CC,53.64bhp,72Nm
+851,2018 Maruti Swift Dzire,2018,Mar-18,Petrol,38694,1197 cc,1st Owner,DL8C,Manual,Third Party insurance,579000,607950,762641,22 kmpl,5,Blue,1197 CC,81.80bhp,113Nm
+852,2015 Hyundai Grand i10,2015,Nov-15,Petrol,10203,1197 cc,1st Owner,DL8C,Manual,Third Party insurance,356500,374325,597641,18.9 kmpl,5,Red,1197 CC,82bhp,114Nm
+853,2014 Mahindra XUV500,2014,Apr-14,Diesel,10414,2179 cc,2nd Owner,HR26,Manual,Third Party insurance,504000,529200,1498825,15.1 kmpl,7,Silver,2179 CC,140bhp,330Nm
+854,2016 Maruti Eeco,2016,Aug-16,CNG,14342,1196 cc,1st Owner,DL12,Manual,Third Party insurance,300000,315000,630740,20.88 km/kg,5,Grey,1196 CC,61.7bhp,85Nm
+855,2018 Maruti Alto K10,2018,Feb-18,Petrol,18819,998 cc,1st Owner,DL12,Manual,Not Available,315000,330750,446517,23.95 kmpl,5,Grey,998 CC,67.05bhp,90Nm
+856,2020 Maruti Ertiga,2020,Feb-20,Petrol,45458,1462 cc,1st Owner,DL8C,Manual,Third Party insurance,974000,1022700,1053103,19.34 kmpl,7,Other,1462 CC,103bhp,138Nm
+857,2019 Maruti Alto K10,2019,Feb-19,Petrol,7213,998 cc,1st Owner,DL2C,Manual,Third Party insurance,330000,346500,413462,23.95 kmpl,5,White,998 CC,67.05bhp,90Nm
+858,2019 Maruti Wagon R,2019,Mar-19,Petrol,21598,1197 cc,1st Owner,UP14,Manual,Third Party insurance,460000,483000,663540,20.52 kmpl,5,Grey,1197 CC,81.80bhp,113Nm
+859,2011 Maruti Wagon R,2011,Nov-11,Petrol,44545,998 cc,2nd Owner,DL5C,Manual,Not Available,214155,224863,460246,18.9 kmpl,14,5,998 CC,67.1bhp,90Nm
+860,2015 Maruti Swift Dzire,2015,May-15,Petrol,79842,1197 cc,1st Owner,DL3C,Manual,Third Party insurance,385000,404250,688551,20.85 kmpl,5,Grey,1197 CC,83.14bhp,115Nm
+861,2016 Maruti Alto K10,2016,Dec-16,CNG,55252,998 cc,1st Owner,12 2021,Automatic,Manual,325500,341775,480318,32.26 kmpl,4,Grey,998 CC,58.3bhp,78Nm
+862,2016 Maruti Alto K10,2016,Dec-16,CNG,55252,998 cc,1st Owner,DL09,Manual,Third Party insurance,325500,341775,463454,32.26 kmpl,4,Grey,998 CC,58.2bhp,78Nm
+863,2017 Hyundai Grand i10,2017,Dec-17,Petrol,3942,1197 cc,1st Owner,DL8C,Manual,Third Party insurance,561500,589575,750285,18.9 kmpl,14,5,1197 CC,81.86bhp,113.75nm
+864,2018 Maruti Swift,2018,Aug-18,Petrol,47393,1197 cc,1st Owner,UP14,Automatic,Third Party insurance,565000,593250,814957,22 kmpl,15,5,1197 CC,81.80bhp,113Nm
+865,2019 Maruti Baleno,2019,Apr-19,Petrol,5932,1197 cc,1st Owner,UP14,Manual,Third Party insurance,695500,730275,936319,21.01 kmpl,R16,5,1197 CC,81.80bhp,113Nm
+866,2019 Maruti Vitara Brezza,2019,Dec-19,Diesel,46244,1248 cc,1st Owner,UP14,Manual,Not Available,810000,850500,1013841,24.3 kmpl,16,5,1248 CC,88.5bhp,200Nm
+867,2011 Hyundai i10,2011,Feb-11,Petrol,63015,1197 cc,1st Owner,HR29,Manual,Third Party insurance,195000,204750,525181,20.36 kmpl,13,5,1197 CC,78.9bhp,111.8Nm
+868,2017 Volkswagen Polo,2017,Sep-17,Petrol,38145,1198 cc,1st Owner,UP14,Manual,Not Available,434000,455700,616127,18.78 kmpl,5,White,1198 CC,74bhp,110Nm
+869,2014 Mahindra XUV500,2014,Apr-14,Diesel,55405,2179 cc,1st Owner,DL10,Manual,Not Available,535500,562275,1635015,16 kmpl,7,Silver,2179 CC,140bhp,330Nm
+870,2018 Maruti Ciaz,2018,Jul-18,Petrol,24556,1373 cc,1st Owner,HR26,Manual,Third Party insurance,748194,785604,934010,20.73 kmpl,5,Blue,1373 CC,91.1bhp,130Nm
+871,2019 Mahindra XUV300,2019,Jul-19,Diesel,71719,1497 cc,1st Owner,DL2C,Manual,Third Party insurance,844500,886725,1121838,20 kmpl,5,Other,1497 CC,115bhp,300Nm
+872,2020 Maruti Swift Dzire,2020,Sep-20,Petrol,17550,1197 cc,1st Owner,DL8C,Manual,Not Available,675000,708750,763121,21.21 kmpl,5,Other,1197 CC,81.80bhp,113Nm
+873,2017 Maruti Eeco,2017,Aug-17,CNG,82345,1196 cc,1st Owner,DL5C,Manual,Third Party insurance,275000,288750,630740,20.88 km/kg,5,White,1196 CC,61.7bhp,85Nm
+874,2020 Maruti Swift,2019,Jan-20,Petrol,14592,1197 cc,1st Owner,1 2022,Automatic,Manual,532500,559125,568372,22 kmpl,5,Other,1197 CC,81.80bhp,113Nm
+875,2015 Mahindra XUV500,2015,Aug-15,Diesel,73490,2179 cc,1st Owner,UP14,Manual,Third Party insurance,680000,714000,1803608,15.1 kmpl,17,7,2179 CC,140bhp,330Nm
+876,2017 Hyundai i20,2017,Aug-17,Petrol,40486,1197 cc,1st Owner,UP14,Manual,Third Party insurance,560000,588000,756267,18.6 kmpl,5,Grey,1197 CC,81.86bhp,114.73nm
+877,2017 Maruti Wagon R,2017,Dec-17,Petrol,75827,998 cc,1st Owner,DL14,Manual,Not Available,341000,358050,453597,20.51 kmpl,5,Silver,998 CC,67.04bhp,90Nm
+878,2019 Hyundai Venue,2019,Jul-19,Petrol,21474,998 cc,1st Owner,DL11,Automatic,Third Party insurance,1065000,1118250,1284842,18.15 kmpl,16,5,998 CC,118.35bhp,171.6Nm
+879,2011 Maruti Ritz,2011,Sep-11,Petrol,90091,1197 cc,1st Owner,DL5C,Manual,Third Party insurance,150000,157500,603561,18.5 kmpl,14,5,1197 CC,85.80bhp,114Nm
+880,2015 Hyundai Grand i10,2015,Dec-15,Petrol,51880,1197 cc,1st Owner,DL3C,Manual,Third Party insurance,423500,444675,618849,18.9 kmpl,5,Silver,1197 CC,82bhp,114Nm
+881,2013 Maruti Ertiga,2013,Jun-13,Petrol,29077,1373 cc,1st Owner,DL8C,Manual,Third Party insurance,448500,470925,926583,17.5 kmpl,7,Other,1373 CC,91.1bhp,130Nm
+882,2013 Hyundai Verna,2013,Apr-13,Diesel,75114,1582 cc,1st Owner,DL4C,Manual,Not Available,410000,430500,1200330,22.32 kmpl,16,5,1582 CC,126.32bhp,259.8Nm
+883,2019 Maruti Wagon R,2019,Nov-19,Petrol,6732,998 cc,1st Owner,UP14,Manual,Third Party insurance,455000,477750,581632,21.79 kmpl,5,Silver,998 CC,67.05bhp,90Nm
+884,2020 Maruti S-Presso,2020,Oct-20,CNG,8786,998 cc,1st Owner,DL2C,Manual,Third Party insurance,551040,578592,600770,31.2 kmpl,4,Grey,998 CC,58.33bhp,78nm
+885,2018 Honda City,2018,Feb-18,Petrol,38748,1497 cc,1st Owner,DL8C,Manual,Not Available,861500,904575,1233979,17.4 kmpl,15,5,1497 CC,117.6bhp,145Nm
+886,2015 Hyundai Creta,2015,Sep-15,Diesel,11910,1582 cc,1st Owner,HR51,Manual,Third Party insurance,770000,808500,1575250,19.67 kmpl,16,5,1582 CC,126.2bhp,259.9Nm
+887,2011 Toyota Corolla Altis,2011,Jul-11,Petrol,94280,1794 cc,2nd Owner,DL4C,Automatic,Third Party insurance,360000,378000,1755940,14.53 kmpl,15,5,1794 CC,138.1bhp,173Nm
+888,2013 Toyota Corolla Altis,2013,Apr-13,Diesel,51307,1364 cc,2nd Owner,HR26,Manual,Not Available,695000,729750,1779145,21.43 kmpl,5,Other,1364 CC,87.2bhp,205Nm
+889,2012 Hyundai EON,2011,Jan-12,Petrol,75986,814 cc,1st Owner,DL8C,Manual,Third Party insurance,157500,165375,434372,22 kmpl,13,5,814 CC,55 Bhp,76.5 Nm
+890,2011 Maruti Alto K10,2011,Apr-11,Petrol,64147,998 cc,1st Owner,DL3C,Manual,Third Party insurance,178500,187425,373048,20.92 kmpl,13,5,998 CC,67.1bhp,90Nm
+891,2011 Maruti Alto K10,2011,Sep-11,Petrol,81840,998 cc,1st Owner,UP16,Manual,Third Party insurance,173500,182175,413462,23.95 kmpl,5,Silver,998 CC,67.05bhp,90Nm
+892,2020 Mahindra XUV500,2019,Apr-20,Diesel,47798,2179 cc,1st Owner,2 2022,Automatic,Manual,1321242,1387304,1772531,15.1 kmpl,7,White,2179 CC,152.87bhp,360Nm
+893,2019 Maruti Swift,2019,May-19,Diesel,42268,1248 cc,1st Owner,HR26,Manual,Third Party insurance,614000,644700,790410,28.4 kmpl,5,Grey,1248 CC,74bhp,190Nm
+894,2016 Maruti Alto K10,2016,Oct-16,Petrol,59872,998 cc,1st Owner,HR51,Manual,Not Available,280000,294000,416865,23.95 kmpl,5,Other,998 CC,67.05bhp,90Nm
+895,2017 Hyundai Creta,2017,Jun-17,Petrol,35096,1591 cc,1st Owner,UP14,Manual,Third Party insurance,770000,808500,1145594,15.8 kmpl,5,White,1591 CC,121.3bhp,151Nm
+896,2014 Maruti Eeco,2014,May-14,CNG,67575,1196 cc,2nd Owner,DL5C,Manual,Third Party,227500,238875,544727,21.94 km/kg,5,Grey,1196 CC,61.7bhp,85Nm
+897,2012 Maruti Alto K10,2012,Apr-12,Petrol,58877,998 cc,2nd Owner,DL3C,Manual,Not Available,192000,201600,373048,20.92 kmpl,13,5,998 CC,67.1bhp,90Nm
+898,2019 Hyundai Santro,2018,Jan-19,Petrol,#VALUE!,1086 cc,1st Owner,HR51,Manual,Third Party insurance,462500,485625,558820,20.3 kmpl,5,White,1086 CC,68bhp,99Nm
+899,2017 Honda Jazz,2016,Jan-17,Petrol,21369,1199 cc,1st Owner,DL1C,Automatic,Third Party insurance,584000,613200,988046,17.1 kmpl,R15,5,1199 CC,88.50bhp,110Nm
+900,2014 Volkswagen Polo,2014,Oct-14,Petrol,53019,1197 cc,2nd Owner,DL14,Automatic,Third Party insurance,440000,462000,942938,17.21 kmpl,15,5,1197 CC,103.6bhp,175Nm
+901,2017 Maruti Alto 800,2017,Mar-17,Petrol,23845,796 cc,1st Owner,UP16,Manual,Third Party insurance,240000,252000,421642,24.7 kmpl,5,Other,796 CC,47.3bhp,69Nm
+902,2016 Maruti Celerio,2016,Jun-16,Petrol,57136,998 cc,1st Owner,DL8C,Manual,Not Available,335000,351750,440915,23.1 kmpl,5,White,998 CC,67.04bhp,90Nm
+903,2014 Maruti Ertiga,2014,Dec-14,Petrol,58640,1373 cc,1st Owner,DL1C,Manual,Third Party insurance,486420,510741,777045,16.02 kmpl,7,Silver,1373 CC,93.7bhp,130Nm
+904,2019 Honda Amaze,2019,Jan-19,Petrol,24667,1198 cc,1st Owner,DL4C,Manual,Not Available,584000,613200,636686,17.8 kmpl,5,Silver,1198 CC,86.7bhp,109Nm
+905,2015 Toyota Corolla Altis,2015,Feb-15,Petrol,43241,1798 cc,1st Owner,DL10,Automatic,Third Party insurance,945000,992250,2171940,14.28 kmpl,16,5,1798 CC,138.03bhp,173Nm
+906,2020 Maruti Baleno,2020,Jun-20,Petrol,15469,1197 cc,1st Owner,DL12,Manual,Third Party insurance,631000,662550,782606,21.01 kmpl,5,Other,1197 CC,81.80bhp,113Nm
+907,2013 Maruti Swift,2013,Mar-13,Petrol,46699,1197 cc,1st Owner,DL9C,Manual,Not Available,387500,406875,548912,18.6 kmpl,14,5,1197 CC,85.8bhp,114Nm
+908,2017 Maruti Ciaz,2017,May-17,Diesel,46273,1248 cc,1st Owner,DL10,Manual,Not Available,680500,714525,1120678,28.09 kmpl,5,Other,1248 CC,88.5bhp,200Nm
+909,2016 Maruti Celerio,2015,May-16,Diesel,63922,793 cc,1st Owner,5 2021,Automatic,Manual,316500,332325,563435,27.62 kmpl,5,White,793 CC,47bhp,125Nm
+910,2016 Maruti Wagon R,2016,Dec-16,Petrol,81944,998 cc,1st Owner,HR51,Manual,Third Party insurance,352000,369600,453597,20.51 kmpl,5,White,998 CC,67.04bhp,90Nm
+911,2011 Hyundai i20,2011,Dec-11,Petrol,69356,1197 cc,2nd Owner,HR26,Manual,Third Party insurance,300000,315000,547106,18.5 kmpl,14,5,1197 CC,80 PS at 5200 rpm,"11.4 kgm at 4,000 rpm"
+912,2021 Maruti Swift,2021,Feb-21,Petrol,1669,1197 cc,1st Owner,UP14,Manual,Third Party insurance,629000,660450,624160,21.21 kmpl,5,Other,1197 CC,81.80bhp,113Nm
+913,2015 Honda Amaze,2015,Dec-15,Petrol,70418,1198 cc,1st Owner,DL10,Manual,Not Available,433500,455175,675932,18 kmpl,5,Blue,1198 CC,86.7bhp,109Nm
+914,2011 Honda City,2011,Apr-11,Petrol,70805,1497 cc,1st Owner,DL3C,Manual,Third Party insurance,362500,380625,968765,17 kmpl,15,5,1497 CC,"118PS at 6,600 rpm",146Nm at 4800 rpm
+915,2011 Hyundai i10,2011,Mar-11,Petrol,87964,1086 cc,1st Owner,DL8C,Manual,Third Party insurance,180000,189000,479880,19.81 kmpl,5,Grey,1086 CC,68.05bhp,99.04Nm
+916,2016 Hyundai Creta,2016,May-16,Diesel,89336,1582 cc,1st Owner,HR51,Manual,Third Party insurance,861000,904050,1665924,19.67 kmpl,17,5,1582 CC,126.2bhp,259.9Nm
+917,2019 Toyota Yaris,2019,Apr-19,Petrol,5021,1496 cc,1st Owner,DL3C,Automatic,Third Party insurance,1017390,1068260,1518291,17.8 kmpl,R15,5,1496 CC,105.94bhp,140Nm
+918,2015 Honda City,2015,Oct-15,Petrol,96400,1497 cc,1st Owner,HR26,Automatic,Not Available,620000,651000,1514854,17.4 kmpl,16,5,1497 CC,117.6bhp,145Nm
+919,2016 Hyundai Creta,2016,Nov-16,Diesel,70594,1582 cc,1st Owner,DL12,Manual,Third Party insurance,863500,906675,1486060,19.67 kmpl,16,5,1582 CC,126.2bhp,259.9Nm
+920,2019 Toyota Yaris,2019,Apr-19,Petrol,5021,1496 cc,1st Owner,DL3C,Automatic,Third Party insurance,1017390,1068260,1518291,17.8 kmpl,R15,5,1496 CC,105.94bhp,140Nm
+921,2013 Maruti Swift Dzire,2013,Mar-13,Diesel,67394,1248 cc,2nd Owner,DL1C,Manual,Not Available,409000,429450,858381,23.4 kmpl,15,5,1248 CC,74bhp,190Nm
+922,2021 Maruti Swift,2021,Feb-21,Petrol,1669,1197 cc,1st Owner,UP14,Manual,Third Party insurance,629000,660450,624160,21.21 kmpl,5,Other,1197 CC,81.80bhp,113Nm
+923,2018 Maruti Ertiga,2018,Jun-18,Diesel,61500,1248 cc,1st Owner,HR26,Manual,Third Party insurance,780000,819000,1120854,24.52 kmpl,15,7,1248 CC,88.5bhp,200Nm
+924,2014 Mahindra XUV500,2014,Apr-14,Diesel,10414,2179 cc,2nd Owner,HR26,Manual,Third Party insurance,504000,529200,1498825,15.1 kmpl,7,Silver,2179 CC,140bhp,330Nm
+925,2018 Honda City,2018,Feb-18,Petrol,38748,1497 cc,1st Owner,DL8C,Manual,Not Available,861500,904575,1233979,17.4 kmpl,15,5,1497 CC,117.6bhp,145Nm
+926,2017 Maruti Ertiga,2017,Jan-17,Diesel,44494,1248 cc,2nd Owner,DL9C,Manual,Third Party insurance,654000,686700,1090934,24.52 kmpl,7,Other,1248 CC,88.5bhp,200Nm
+927,2017 Maruti Alto 800,2017,Mar-17,Petrol,23845,796 cc,1st Owner,UP16,Manual,Third Party insurance,240000,252000,421642,24.7 kmpl,5,Other,796 CC,47.3bhp,69Nm
+928,2018 Maruti Vitara Brezza,2018,Jun-18,Diesel,60627,1248 cc,1st Owner,HR51,Manual,Third Party insurance,754000,791700,919441,24.3 kmpl,5,Grey,1248 CC,88.5bhp,200Nm
+929,2015 Mahindra XUV500,2015,Aug-15,Diesel,73490,2179 cc,1st Owner,UP14,Manual,Third Party insurance,680000,714000,1803608,15.1 kmpl,17,7,2179 CC,140bhp,330Nm
+930,2017 Hyundai Creta,2017,Jun-17,Petrol,35096,1591 cc,1st Owner,UP14,Manual,Third Party insurance,770000,808500,1145594,15.8 kmpl,5,White,1591 CC,121.3bhp,151Nm
+931,2018 Hyundai Creta,2018,Mar-18,Diesel,68110,1396 cc,1st Owner,DL2C,Manual,Third Party insurance,895500,940275,1138393,22.1 kmpl,5,White,1396 CC,88.7bhp,219.7Nm
+932,2011 Maruti Wagon R,2011,Nov-11,Petrol,11141,998 cc,1st Owner,HR26,Manual,Third Party insurance,242500,254625,481593,20.51 kmpl,5,Silver,998 CC,67.04bhp,90Nm
+933,2014 Honda City,2014,May-14,Petrol,89037,1497 cc,1st Owner,DL09,Manual,Third Party insurance,583000,612150,1209781,17.4 kmpl,15,5,1497 CC,117.3bhp,145Nm
+934,2011 Toyota Corolla Altis,2011,Jul-11,Petrol,94280,1794 cc,2nd Owner,DL4C,Automatic,Third Party insurance,360000,378000,1755940,14.53 kmpl,15,5,1794 CC,138.1bhp,173Nm
+935,2017 Maruti Wagon R,2016,Jan-17,Petrol,65069,998 cc,1st Owner,DL14,Manual,Not Available,314500,330225,453597,20.51 kmpl,5,White,998 CC,67.04bhp,90Nm
+936,2019 Mahindra XUV300,2019,Jul-19,Diesel,91793,1497 cc,1st Owner,HR26,Manual,Third Party insurance,946500,993825,1440240,20 kmpl,17,5,1497 CC,115bhp,300Nm
+937,2017 Volkswagen Ameo,2016,Mar-17,Petrol,46846,1198 cc,1st Owner,DL12,Manual,Third Party insurance,390000,409500,816801,17 kmpl,15,5,1198 CC,73.75bhp,110Nm
+938,2013 Hyundai i10,2013,Jul-13,Petrol,44890,1197 cc,2nd Owner,DL3C,Manual,Third Party insurance,260000,273000,527676,20.36 kmpl,13,5,1197 CC,78.9bhp,111.7Nm
+939,2010 Hyundai i10,2010,Jul-10,Petrol,77501,1086 cc,1st Owner,HR20,Manual,Third Party insurance,146500,153825,467592,19.81 kmpl,5,Grey,1086 CC,68.05bhp,99.04Nm
+940,2010 Maruti Wagon R,2010,Dec-10,Petrol,87642,998 cc,1st Owner,UP14,Manual,Third Party insurance,170000,178500,507140,20.51 kmpl,5,Grey,998 CC,67.04bhp,90Nm
+941,2017 Maruti Wagon R,2016,Jan-17,Petrol,46742,998 cc,1st Owner,DL5C,Manual,Third Party insurance,300000,315000,477957,20.51 kmpl,5,Silver,998 CC,67.04bhp,90Nm
+942,2016 Maruti Wagon R,2016,Dec-16,Petrol,19718,998 cc,1st Owner,HR51,Automatic,Third Party insurance,378500,397425,567325,20.51 kmpl,5,White,998 CC,67bhp,90Nm
+943,2014 Honda City,2014,May-14,Petrol,89037,1497 cc,1st Owner,DL09,Manual,Third Party insurance,583000,612150,1209781,17.4 kmpl,15,5,1497 CC,117.3bhp,145Nm
+944,2016 Renault KWID,2015,Feb-16,Petrol,80036,799 cc,2nd Owner,UP16,Manual,Third Party insurance,198500,208425,419592,25.17 kmpl,5,Silver,799 CC,53.3bhp,72Nm
+945,2015 Maruti Swift,2015,Apr-15,Diesel,72786,1248 cc,1st Owner,DL3C,Manual,Third Party insurance,369000,387450,686575,25.2 kmpl,5,Other,1248 CC,74bhp,190Nm
+946,2013 Maruti Swift Dzire,2013,Mar-13,Diesel,67394,1248 cc,2nd Owner,DL1C,Manual,Not Available,409000,429450,858381,23.4 kmpl,15,5,1248 CC,74bhp,190Nm
+947,2017 Volkswagen Ameo,2016,Mar-17,Petrol,46846,1198 cc,1st Owner,DL12,Manual,Third Party insurance,390000,409500,816801,17 kmpl,15,5,1198 CC,73.75bhp,110Nm
+948,2017 Hyundai i20,2017,Jul-17,Petrol,52938,1197 cc,1st Owner,DL4C,Manual,Third Party insurance,540000,567000,742655,18.6 kmpl,5,White,1197 CC,81.83bhp,114.7Nm
+949,2015 Honda City,2015,May-15,Diesel,12281,1498 cc,1st Owner,DL9C,Manual,Third Party insurance,460000,483000,1318912,26 kmpl,15,5,1498 CC,98.6bhp,200Nm
+950,2017 Maruti Wagon R,2017,May-17,Petrol,26892,998 cc,1st Owner,DL12,Manual,Third Party insurance,475000,498750,481593,20.51 kmpl,5,Other,998 CC,67.04bhp,90Nm
+951,2011 Maruti Wagon R,2011,Nov-11,Petrol,11141,998 cc,1st Owner,HR26,Manual,Third Party insurance,242500,254625,481593,20.51 kmpl,5,Silver,998 CC,67.04bhp,90Nm
+952,2013 Maruti Wagon R,2013,Mar-13,Petrol,52784,998 cc,1st Owner,HR26,Manual,Third Party insurance,299500,314475,567187,21.79 kmpl,5,Grey,998 CC,67.05bhp,90Nm
+953,2018 Maruti Vitara Brezza,2018,Jun-18,Diesel,60627,1248 cc,1st Owner,HR51,Manual,Third Party insurance,754000,791700,919441,24.3 kmpl,5,Grey,1248 CC,88.5bhp,200Nm
+954,2019 Mahindra XUV300,2019,Jul-19,Diesel,91793,1497 cc,1st Owner,HR26,Manual,Third Party insurance,946500,993825,1440240,20 kmpl,17,5,1497 CC,115bhp,300Nm
+955,2017 Maruti Swift,2017,Dec-17,Petrol,25165,1197 cc,1st Owner,DL9C,Manual,Third Party insurance,436205,458015,573484,20.4 kmpl,5,Silver,1197 CC,83.11bhp,113Nm
+956,2013 Nissan Sunny,2013,May-13,Diesel,54251,1461 cc,1st Owner,DL8C,Manual,Third Party insurance,230000,241500,958301,21.64 kmpl,14,5,1461 CC,84.8bhp,200Nm
+957,2015 Honda Mobilio,2014,Jun-15,Petrol,10913,1497 cc,1st Owner,DL01,Manual,Third Party insurance,470500,494025,1070701,17.3 kmpl,15,7,1497 CC,117.3bhp,145Nm
+958,2017 Maruti Ciaz,2017,May-17,Petrol,60437,1373 cc,1st Owner,DL10,Automatic,Not Available,692500,727125,1234550,19.12 kmpl,16,5,1373 CC,91.1bhp,130Nm
+959,2010 Maruti Wagon R,2010,Dec-10,Petrol,87642,998 cc,1st Owner,UP14,Manual,Third Party insurance,170000,178500,507140,20.51 kmpl,5,Grey,998 CC,67.04bhp,90Nm
+960,2017 Hyundai Creta,2017,May-17,Diesel,39977,1396 cc,1st Owner,DL8C,Manual,Third Party insurance,837000,878850,1138393,22.1 kmpl,5,Other,1396 CC,88.7bhp,219.7Nm
+961,2019 Mahindra XUV300,2019,Jul-19,Diesel,71719,1497 cc,1st Owner,DL2C,Manual,Third Party insurance,844500,886725,1121838,20 kmpl,5,Other,1497 CC,115bhp,300Nm
+962,2016 Maruti Wagon R,2016,Dec-16,Petrol,19718,998 cc,1st Owner,HR51,Automatic,Third Party insurance,378500,397425,567325,20.51 kmpl,5,White,998 CC,67bhp,90Nm
+963,2017 Maruti Swift,2017,Dec-17,Petrol,25165,1197 cc,1st Owner,DL9C,Manual,Third Party insurance,436205,458015,573484,20.4 kmpl,5,Silver,1197 CC,83.11bhp,113Nm
+964,2017 Maruti Wagon R,2017,May-17,Petrol,26892,998 cc,1st Owner,DL12,Manual,Third Party insurance,475000,498750,481593,20.51 kmpl,5,Other,998 CC,67.04bhp,90Nm
+965,2014 Mahindra Thar,2014,Mar-14,Diesel,45495,2498 cc,1st Owner,DL12,Manual,Third Party insurance,700000,735000,902069,16.55 kmpl,7,Other,2498 CC,105bhp,247Nm
+966,2018 Maruti Ciaz,2018,Jun-18,Petrol,57902,1373 cc,1st Owner,DL2C,Manual,Third Party insurance,724500,760725,864468,20.73 kmpl,5,White,1373 CC,91.1bhp,130Nm
+967,2011 Hyundai Santro Xing,2011,Mar-11,Petrol,26900,1086 cc,1st Owner,DL2C,Manual,Third Party insurance,196000,205800,422860,17.92 kmpl,13,5,1086 CC,62.1bhp,96.1Nm
+968,2018 Maruti Wagon R,2018,Dec-18,Petrol,42791,998 cc,2nd Owner,HR30,Manual,Third Party insurance,364500,382725,577212,21.79 kmpl,5,Silver,998 CC,67.05bhp,90Nm
+969,2016 Maruti Wagon R,2016,Jun-16,Petrol,11574,998 cc,1st Owner,HR51,Manual,Third Party insurance,354750,372488,577212,21.79 kmpl,5,Grey,998 CC,67.05bhp,90Nm
+970,2015 Honda Mobilio,2014,Jun-15,Petrol,10913,1497 cc,1st Owner,DL01,Manual,Third Party insurance,470500,494025,1070701,17.3 kmpl,15,7,1497 CC,117.3bhp,145Nm
+971,2015 Hyundai Creta,2015,Sep-15,Diesel,11910,1582 cc,1st Owner,HR51,Manual,Third Party insurance,770000,808500,1575250,19.67 kmpl,16,5,1582 CC,126.2bhp,259.9Nm
+972,2016 Maruti Baleno,2016,Jul-16,Petrol,60078,1197 cc,1st Owner,DL2C,Manual,Third Party insurance,549000,576450,721292,21.4 kmpl,16,5,1197 CC,83.1bhp,115Nm
+973,2012 Maruti Alto,2012,Jul-12,Petrol,28123,796 cc,1st Owner,DL3C,Manual,Third Party insurance,185000,194250,320915,19.7 kmpl,12,5,796 CC,46.3bhp,62Nm
+974,2013 Toyota Innova,2013,Jul-13,Diesel,11500,2494 cc,2nd Owner,DL3C,Manual,Third Party insurance,500000,525000,1496144,12.99 kmpl,15,7,2494 CC,100bhp,200Nm
+975,2014 Mahindra XUV500,2014,Apr-14,Diesel,55405,2179 cc,1st Owner,DL10,Manual,Not Available,535500,562275,1635015,16 kmpl,7,Silver,2179 CC,140bhp,330Nm
+976,2018 Maruti Baleno,2018,Apr-18,Petrol,96850,1197 cc,1st Owner,HR72,Manual,Third Party insurance,560000,588000,684273,21.4 kmpl,5,Other,1197 CC,83.1bhp,115Nm
+977,2016 Maruti Wagon R,2016,Feb-16,Petrol,63691,998 cc,1st Owner,DL14,Manual,Third Party insurance,285000,299250,453597,20.51 kmpl,5,White,998 CC,67.04bhp,90Nm
+978,2010 Chevrolet Spark,2010,Apr-10,LPG,82017,995 cc,2nd Owner,UP70,Manual,Third Party insurance,106000,111300,429517,13.2 kmpl,13,5,995 CC,60.2bhp,90.3Nm
+979,2017 Maruti Ciaz,2017,May-17,Petrol,60437,1373 cc,1st Owner,DL10,Automatic,Not Available,692500,727125,1234550,19.12 kmpl,16,5,1373 CC,91.1bhp,130Nm
+980,2014 Hyundai Verna,2014,May-14,Petrol,60062,1591 cc,2nd Owner,DL7C,Manual,Third Party insurance,502000,527100,1194501,17.01 kmpl,16,5,1591 CC,121.3bhp,154.9Nm
+981,2020 Maruti S-Presso,2020,Mar-20,Petrol,2293,998 cc,1st Owner,UP16,Automatic,Third Party insurance,469500,492975,601015,21.7 kmpl,5,Grey,998 CC,67.05bhp,90nm
+982,2019 Hyundai Santro,2018,Jan-19,Petrol,#VALUE!,1086 cc,1st Owner,HR51,Manual,Third Party insurance,462500,485625,558820,20.3 kmpl,5,White,1086 CC,68bhp,99Nm
+983,2014 Maruti Ertiga,2014,Dec-14,Petrol,58640,1373 cc,1st Owner,DL1C,Manual,Third Party insurance,486420,510741,777045,16.02 kmpl,7,Silver,1373 CC,93.7bhp,130Nm
+984,2013 Maruti Ertiga,2013,Jun-13,Petrol,29077,1373 cc,1st Owner,DL8C,Manual,Third Party insurance,448500,470925,926583,17.5 kmpl,7,Other,1373 CC,91.1bhp,130Nm
+985,2011 Maruti Zen Estilo,2011,Apr-11,Petrol,17520,998 cc,1st Owner,DL09,Manual,Third Party insurance,245500,257775,403885,19 kmpl,13,5,998 CC,67.1bhp,90Nm
+986,2016 Datsun RediGO,2016,Dec-16,Petrol,60957,799 cc,1st Owner,DL01,Manual,Third Party insurance,195000,204750,407305,22.7 kmpl,5,Other,799 CC,53.64bhp,72Nm
+987,2017 Maruti Wagon R,2017,Oct-17,Petrol,40129,998 cc,1st Owner,UP16,Manual,Third Party insurance,311000,326550,477957,20.51 kmpl,5,Silver,998 CC,67.04bhp,90Nm
+988,2013 Nissan Sunny,2013,May-13,Diesel,54251,1461 cc,1st Owner,DL8C,Manual,Third Party insurance,230000,241500,958301,21.64 kmpl,14,5,1461 CC,84.8bhp,200Nm
+989,2010 Maruti Alto,2010,Jun-10,Petrol,95404,796 cc,1st Owner,UP16,Manual,Third Party insurance,139000,145950,332287,19.7 kmpl,12,5,796 CC,46.3bhp,62Nm
+990,2014 Maruti Ertiga,2014,Aug-14,Diesel,72395,1248 cc,1st Owner,DL9C,Manual,Third Party insurance,537000,563850,927593,20.77 kmpl,7,Grey,1248 CC,88.76bhp,200Nm
+991,2019 Mahindra XUV300,2019,Mar-19,Petrol,11330,1197 cc,1st Owner,DL10,Manual,Third Party insurance,779500,818475,1022437,17 kmpl,5,Silver,1197 CC,108.6bhp,200Nm
+992,2016 Renault KWID,2016,May-16,Petrol,7421,799 cc,1st Owner,DL01,Manual,Third Party insurance,294000,308700,395388,25.17 kmpl,5,Red,799 CC,53.3bhp,72Nm
+993,2017 Hyundai Verna,2017,Sep-17,Diesel,40599,1396 cc,1st Owner,HR26,Manual,Third Party insurance,637000,668850,1041495,24.8 kmpl,5,Other,1396 CC,88.7bhp,219.7Nm
+994,2012 Tata Nano,2012,Apr-12,Petrol,27236,624 cc,2nd Owner,DL4C,Manual,Third Party insurance,779500,818475,1022437,25.4 kmpl,4,Silver,624 CC,37.48bhp,51Nm
+995,2011 Maruti Alto,2011,Sep-11,Petrol,39756,796 cc,2nd Owner,DL8C,Manual,Third Party insurance,294000,308700,395388,19.7 kmpl,12,5,796 CC,46.3bhp,62Nm
+996,2017 Hyundai Creta,2017,Sep-17,Diesel,48067,1396 cc,1st Owner,HR51,Manual,Third Party insurance,760000,798000,1127362,22.1 kmpl,5,Other,1396 CC,88.7bhp,219.7Nm
+997,2017 Hyundai Creta,2017,Sep-17,Diesel,51742,1582 cc,1st Owner,HR29,Automatic,Third Party insurance,986500,1035825,1571702,17.01 kmpl,16,5,1582 CC,126.2bhp,259.9Nm
+998,2011 Hyundai Santro Xing,2011,Jun-11,Petrol,52851,1086 cc,3rd Owner,HR26,Manual,Not Available,203000,213150,442726,17.92 kmpl,13,5,1086 CC,62.1bhp,96.1Nm
+999,2013 Maruti Alto 800,2013,Nov-13,Petrol,22370,796 cc,1st Owner,DL13,Manual,Third Party insurance,179898,188893,369015,22.05 kmpl,5,White,796 CC,47.33bhp,69Nm
+1000,2014 Chevrolet Beat,2013,Feb-14,Diesel,11965,936 cc,1st Owner,DL8C,Manual,Not Available,156000,163800,683154,25.44 kmpl,14,5,936 CC,57.6bhp,150Nm
+1001,2017 Hyundai Creta,2017,Sep-17,Diesel,48067,1396 cc,1st Owner,HR51,Manual,Third Party insurance,760000,798000,1127362,22.1 kmpl,5,Other,1396 CC,88.7bhp,219.7Nm
+1002,2017 Mahindra XUV500,2017,Aug-17,Diesel,64819,1997 cc,2nd Owner,UP14,Manual,Third Party insurance,980500,1029525,1912008,16 kmpl,17,7,1997 CC,140bhp,320Nm
+1003,2014 Chevrolet Beat,2014,Jun-14,Diesel,53184,936 cc,2nd Owner,DL8C,Manual,Third Party insurance,137500,144375,555972,25.44 kmpl,5,White,936 CC,56.3bhp,142.5Nm
+1004,2017 Hyundai Creta,2017,Sep-17,Diesel,51742,1582 cc,1st Owner,HR29,Automatic,Third Party insurance,986500,1035825,1571702,17.01 kmpl,16,5,1582 CC,126.2bhp,259.9Nm
+1005,2019 Maruti Swift,2019,Dec-19,Petrol,7986,1197 cc,1st Owner,DL6C,Manual,Not Available,535000,561750,602766,21.21 kmpl,5,Grey,1197 CC,81.80bhp,113Nm
+1006,2018 Maruti Ertiga,2018,Mar-18,CNG,30276,1373 cc,1st Owner,DL5C,Manual,Third Party insurance,825500,866775,941840,17.5 kmpl,7,Grey,1373 CC,80.46bhp,112Nm
+1007,2014 Toyota Fortuner,2014,Aug-14,Diesel,13975,2982 cc,1st Owner,UP16,Automatic,Third Party insurance,1474500,1548225,3033055,12.55 kmpl,17,7,2982 CC,168.5bhp,360Nm
+1009,2013 Honda Brio,2012,Jan-13,Petrol,37526,1198 cc,1st Owner,HR51,Manual,Third Party insurance,260000,273000,579711,18.5 kmpl,5,White,1198 CC,86.8bhp,109Nm
+1010,2018 Maruti Alto K10,2017,Feb-18,Petrol,34854,998 cc,1st Owner,HR26,Manual,Third Party insurance,270000,283500,398537,23.95 kmpl,5,White,998 CC,67.1bhp,90Nm
+1011,2012 Maruti Swift Dzire,2012,Apr-12,Petrol,56773,1197 cc,2nd Owner,DL3C,Automatic,Third Party insurance,280000,294000,738753,17.4 kmpl,14,5,1197 CC,85.8bhp,114Nm
+1012,2015 Renault Duster,2015,May-15,Diesel,10616,1461 cc,1st Owner,HR51,Manual,Third Party insurance,426840,448182,1262332,19.64 kmpl,5,Silver,1461 CC,108.45bhp,245Nm
+1013,2020 Hyundai Venue,2020,Sep-20,Petrol,13293,998 cc,1st Owner,DL1C,Manual,Third Party insurance,920000,966000,1229981,18 kmpl,5,White,998 CC,118.35bhp,171.6Nm
+1014,2017 Hyundai Grand i10,2016,Jan-17,Petrol,59387,1197 cc,1st Owner,DL3C,Manual,Third Party insurance,410000,430500,617185,18.9 kmpl,5,White,1197 CC,82bhp,114Nm
+1015,2015 Honda City,2015,Jun-15,Petrol,78296,1497 cc,2nd Owner,DL04,Manual,Third Party insurance,541681,568765,1069130,17.4 kmpl,15,5,1497 CC,117.3bhp,145Nm
